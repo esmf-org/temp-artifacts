@@ -1,4 +1,0 @@
-2022-07-15 15:22:09
-Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41
-Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41NUMBER_OF_PROCESSORS 1
-/scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_O_develop/esmf/src/Infrastructure/stubs/mpiuni/mpirun: line 43: 82987 Segmentation fault      (core dumped) $progname $*
