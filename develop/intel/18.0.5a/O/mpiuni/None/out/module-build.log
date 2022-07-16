@@ -1,0 +1,26 @@
+++ /apps/lmod/8.5.2/libexec/lmod bash list
++ eval echo ''\'''\'';' echo ''\''Currently'\''' ''\''Loaded'\''' ''\''Modules:'\'';' echo ''\'''\''' ''\'''\''' ''\''1)'\''' ''\''intelpython/2022.1.2'\''' ''\'''\''' ''\'''\''' ''\''2)'\''' ''\''intel/18.0.5.274'\''' ''\'''\''' ''\'''\''' ''\''3)'\''' ''\''netcdf/4.6.1'\'';' echo ''\'''\'';' echo ''\'''\''' ''\'''\'';' echo ''\'''\'';' 'MODULEPATH=/apps/lmod/lmod/modulefiles/Core:/apps/modules/modulefiles/Linux:/apps/modules/modulefiles:/apps/modules/modulefamilies/intel;' export 'MODULEPATH;' '_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPTAuMDgzMzMzMzMzMzMzMzMzLFsiY19zaG9ydFRpbWUiXT0wLjU3MjM0MDk2NTI3MSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImludGVsIix9LG1UPXtpbnRlbD17WyJmbiJdPSIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL2ludGVsLzE4LjAuNS4yNzQiLFsiZnVsbE5hbWUiXT0iaW50ZWwvMTguMC41LjI3NCIsWyJsb2FkT3JkZXIiXT0yLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImludGVsLzE4LjAuNS4yNzQiLFsid1YiXT0iMDAwMDAwMDE4LjAwMDAwMDAwMC4wMDAwMDAwMDUuMDAwMDAwMjc0Lip6ZmluYWwi;' export '_ModuleTable001_;' '_ModuleTable002_=LH0saW50ZWxweXRob249e1siZm4iXT0iL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9pbnRlbHB5dGhvbi8yMDIyLjEuMiIsWyJmdWxsTmFtZSJdPSJpbnRlbHB5dGhvbi8yMDIyLjEuMiIsWyJsb2FkT3JkZXIiXT0xLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImludGVscHl0aG9uIixbIndWIl09IjAwMDAwMjAyMi4wMDAwMDAwMDEuMDAwMDAwMDAyLip6ZmluYWwiLH0sbmV0Y2RmPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwvbmV0Y2RmLzQuNi4xIixbImZ1bGxOYW1lIl09Im5ldGNkZi80LjYuMSIsWyJsb2FkT3JkZXIiXT0zLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJz;' export '_ModuleTable002_;' '_ModuleTable003_=dGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09Im5ldGNkZi80LjYuMSIsWyJ3ViJdPSJeMDAwMDAwMDQuMDAwMDAwMDA2LjAwMDAwMDAwMS4qemZpbmFsIix9LH0sbXBhdGhBPXsiL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4IiwiL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcyIsIi9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwiLH0sWyJzeXN0ZW1CYXNlTVBBVEgiXT0iL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmU6L2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9MaW51eDovYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzIix9;' export '_ModuleTable003_;' '_ModuleTable_Sz_=3;' export '_ModuleTable_Sz_;'
+++ echo ''
+
+++ echo Currently Loaded Modules:
+Currently Loaded Modules:
+++ echo '' '' '1)' intelpython/2022.1.2 '' '' '2)' intel/18.0.5.274 '' '' '3)' netcdf/4.6.1
+  1) intelpython/2022.1.2   2) intel/18.0.5.274   3) netcdf/4.6.1
+++ echo ''
+
+++ echo '' ''
+ 
+++ echo ''
+
+++ MODULEPATH=/apps/lmod/lmod/modulefiles/Core:/apps/modules/modulefiles/Linux:/apps/modules/modulefiles:/apps/modules/modulefamilies/intel
+++ export MODULEPATH
+++ _ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPTAuMDgzMzMzMzMzMzMzMzMzLFsiY19zaG9ydFRpbWUiXT0wLjU3MjM0MDk2NTI3MSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImludGVsIix9LG1UPXtpbnRlbD17WyJmbiJdPSIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL2ludGVsLzE4LjAuNS4yNzQiLFsiZnVsbE5hbWUiXT0iaW50ZWwvMTguMC41LjI3NCIsWyJsb2FkT3JkZXIiXT0yLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImludGVsLzE4LjAuNS4yNzQiLFsid1YiXT0iMDAwMDAwMDE4LjAwMDAwMDAwMC4wMDAwMDAwMDUuMDAwMDAwMjc0Lip6ZmluYWwi
+++ export _ModuleTable001_
+++ _ModuleTable002_=LH0saW50ZWxweXRob249e1siZm4iXT0iL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9pbnRlbHB5dGhvbi8yMDIyLjEuMiIsWyJmdWxsTmFtZSJdPSJpbnRlbHB5dGhvbi8yMDIyLjEuMiIsWyJsb2FkT3JkZXIiXT0xLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImludGVscHl0aG9uIixbIndWIl09IjAwMDAwMjAyMi4wMDAwMDAwMDEuMDAwMDAwMDAyLip6ZmluYWwiLH0sbmV0Y2RmPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwvbmV0Y2RmLzQuNi4xIixbImZ1bGxOYW1lIl09Im5ldGNkZi80LjYuMSIsWyJsb2FkT3JkZXIiXT0zLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJz
+++ export _ModuleTable002_
+++ _ModuleTable003_=dGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09Im5ldGNkZi80LjYuMSIsWyJ3ViJdPSJeMDAwMDAwMDQuMDAwMDAwMDA2LjAwMDAwMDAwMS4qemZpbmFsIix9LH0sbXBhdGhBPXsiL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4IiwiL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcyIsIi9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwiLH0sWyJzeXN0ZW1CYXNlTVBBVEgiXT0iL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmU6L2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9MaW51eDovYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzIix9
+++ export _ModuleTable003_
+++ _ModuleTable_Sz_=3
+++ export _ModuleTable_Sz_
+++ : -s sh
++ eval
