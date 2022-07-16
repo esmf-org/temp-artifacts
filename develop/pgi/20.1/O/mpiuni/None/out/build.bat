@@ -22,4 +22,5 @@ module list >& /scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_O_develop/m
 cd /scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_O_develop/esmf
 make info 2>&1| tee ../info.log
 set -e
-make -j 48 2>&1| tee ../build.log
+#make -j 48 2>&1| tee ../build.log
+exit(99)
