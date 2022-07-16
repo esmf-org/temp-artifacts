@@ -1,0 +1,21 @@
+2022-07-16 18:56:52
+[1658008694.996642] [h4c55:309876:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008694.996696] [h4c55:309874:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008694.997075] [h4c55:309875:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008694.997025] [h4c55:309877:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008695.001998] [h4c55:309876:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008695.002033] [h4c55:309874:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008695.002328] [h4c55:309877:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008695.002478] [h4c55:309875:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Regridding through XGrid example returned
+  PASS  Example ESMF_XGridEx, ESMF_XGridEx.F90, line 525
+ Regridding through XGrid example returned
+  PASS  Example ESMF_XGridEx, ESMF_XGridEx.F90, line 525
+ Regridding through XGrid example returned
+ Regridding through XGrid example returned
+  PASS  Example ESMF_XGridEx, ESMF_XGridEx.F90, line 525
+  PASS  Example ESMF_XGridEx, ESMF_XGridEx.F90, line 525
+ PASS: ESMF_XGridEx.F90
+ PASS: ESMF_XGridEx.F90
+ PASS: ESMF_XGridEx.F90
+ PASS: ESMF_XGridEx.F90

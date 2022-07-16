@@ -1,0 +1,17 @@
+2022-07-16 18:56:52
+[1658008704.577925] [h4c55:1602 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.577969] [h4c55:1603 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.578059] [h4c55:1601 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.578201] [h4c55:1604 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.583400] [h4c55:1603 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.583890] [h4c55:1601 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.584728] [h4c55:1602 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008704.584766] [h4c55:1604 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldSphereRegridEx, ESMF_FieldSphereRegridEx.F90, line 407
+  PASS  Example ESMF_FieldSphereRegridEx, ESMF_FieldSphereRegridEx.F90, line 407
+  PASS  Example ESMF_FieldSphereRegridEx, ESMF_FieldSphereRegridEx.F90, line 407
+  PASS  Example ESMF_FieldSphereRegridEx, ESMF_FieldSphereRegridEx.F90, line 407
+ PASS: ESMF_FieldSphereRegridEx.F90
+ PASS: ESMF_FieldSphereRegridEx.F90
+ PASS: ESMF_FieldSphereRegridEx.F90
+ PASS: ESMF_FieldSphereRegridEx.F90

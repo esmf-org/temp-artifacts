@@ -1,0 +1,93 @@
+2022-07-16 18:56:52
+[1658008720.591206] [h4c55:5706 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.591211] [h4c55:5708 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.591287] [h4c55:5707 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.591295] [h4c55:5709 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.596722] [h4c55:5708 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.596768] [h4c55:5706 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.597175] [h4c55:5709 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008720.597225] [h4c55:5707 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Application Example 1:
+ Application Example 1:
+ Application Example 1:
+ Application Example 1:
+ Comp Create returned, name = Atmosphere Model Gridded Component
+ Comp Create returned, name = Atmosphere Model Gridded Component
+ Comp Create returned, name = Atmosphere Model Gridded Component
+ Gridded Comp Init starting
+ Gridded Comp Init returning
+ Comp Initialize complete
+ Gridded Comp Init starting
+ Gridded Comp Init returning
+ Comp Initialize complete
+ Comp Create returned, name = Atmosphere Model Gridded Component
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Comp Run complete
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Comp Run complete
+ Gridded Comp Final starting
+ Gridded Comp Final returning
+ Comp Finalize complete
+ Gridded Comp Final starting
+ Gridded Comp Final returning
+ Comp Finalize complete
+ Destroy calls returned
+ Application Example 1 finished
+ Destroy calls returned
+ Application Example 1 finished
+  PASS  Example ESMF_GCompEx, ESMF_GCompEx.F90, line 465
+  PASS  Example ESMF_GCompEx, ESMF_GCompEx.F90, line 465
+ Gridded Comp Init starting
+ Gridded Comp Init returning
+ Gridded Comp Init starting
+ Gridded Comp Init returning
+ Comp Initialize complete
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Comp Initialize complete
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Gridded Comp Run starting
+ Gridded Comp Run returning
+ Comp Run complete
+ Comp Run complete
+ Gridded Comp Final starting
+ Gridded Comp Final returning
+ Gridded Comp Final starting
+ Gridded Comp Final returning
+ Comp Finalize complete
+ Destroy calls returned
+ Comp Finalize complete
+ Destroy calls returned
+ Application Example 1 finished
+  PASS  Example ESMF_GCompEx, ESMF_GCompEx.F90, line 465
+ Application Example 1 finished
+  PASS  Example ESMF_GCompEx, ESMF_GCompEx.F90, line 465
+ PASS: ESMF_GCompEx.F90
+ PASS: ESMF_GCompEx.F90
+ PASS: ESMF_GCompEx.F90
+ PASS: ESMF_GCompEx.F90

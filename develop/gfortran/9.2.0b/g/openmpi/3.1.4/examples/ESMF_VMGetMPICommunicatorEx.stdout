@@ -1,0 +1,17 @@
+2022-07-16 18:56:52
+[1658008648.691671] [h4c55:293019:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.691687] [h4c55:293021:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.696900] [h4c55:293019:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.696966] [h4c55:293021:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.699136] [h4c55:293020:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.699136] [h4c55:293022:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.705570] [h4c55:293020:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008648.705609] [h4c55:293022:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_VMGetMPICommunicatorEx, ESMF_VMGetMPICommunicatorEx.F90, line 95
+  PASS  Example ESMF_VMGetMPICommunicatorEx, ESMF_VMGetMPICommunicatorEx.F90, line 95
+  PASS  Example ESMF_VMGetMPICommunicatorEx, ESMF_VMGetMPICommunicatorEx.F90, line 95
+  PASS  Example ESMF_VMGetMPICommunicatorEx, ESMF_VMGetMPICommunicatorEx.F90, line 95
+ PASS: ESMF_VMGetMPICommunicatorEx.F90
+ PASS: ESMF_VMGetMPICommunicatorEx.F90
+ PASS: ESMF_VMGetMPICommunicatorEx.F90
+ PASS: ESMF_VMGetMPICommunicatorEx.F90

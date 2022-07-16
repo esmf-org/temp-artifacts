@@ -1,0 +1,51 @@
+2022-07-16 18:56:52
+[1658008655.411991] [h4c55:294937:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.412329] [h4c55:294936:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.412363] [h4c55:294938:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.412074] [h4c55:294939:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.417923] [h4c55:294937:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.417957] [h4c55:294939:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.418163] [h4c55:294938:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658008655.418262] [h4c55:294936:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ --------------------------------------- 
+ Start of ESMF_Trace Example
+ --------------------------------------- 
+ Inside Init
+ Inside Run
+ Inside Run
+ Inside Init
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Init
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Init
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Run
+ Inside Finalize
+ Inside Finalize
+ Inside Finalize
+ Inside Finalize
+  PASS  Example ESMF_TraceEx, ESMF_TraceEx.F90, line 178
+  PASS  Example ESMF_TraceEx, ESMF_TraceEx.F90, line 178
+  PASS  Example ESMF_TraceEx, ESMF_TraceEx.F90, line 178
+  PASS  Example ESMF_TraceEx, ESMF_TraceEx.F90, line 178
+ --------------------------------------- 
+ End of ESMF_Trace Example
+ --------------------------------------- 
+ PASS: ESMF_TraceEx.F90
+ PASS: ESMF_TraceEx.F90
+ PASS: ESMF_TraceEx.F90
+ PASS: ESMF_TraceEx.F90

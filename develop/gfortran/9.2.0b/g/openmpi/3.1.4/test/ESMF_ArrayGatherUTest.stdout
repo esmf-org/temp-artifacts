@@ -1,0 +1,57 @@
+2022-07-16 18:56:52
+[1658007949.852721] [h4c55:197442:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.852709] [h4c55:197444:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.858251] [h4c55:197442:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.858310] [h4c55:197444:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.859608] [h4c55:197443:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.859607] [h4c55:197445:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.865954] [h4c55:197443:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658007949.865992] [h4c55:197445:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_ArrayGatherUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_ArrayGatherUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_ArrayGatherUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_ArrayGatherUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  PASS  ArrayGather 1d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 68
+  PASS  ArrayGather 1d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 68
+  PASS  ArrayGather 1d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 68
+  PASS  ArrayGather 1d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 68
+  PASS  ArrayGather 1d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 77
+  PASS  ArrayGather 1d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 77
+  PASS  ArrayGather 1d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 77
+  PASS  ArrayGather 1d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 77
+  PASS  ArrayGather 1d test, contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 86
+  PASS  ArrayGather 1d test, contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 86
+  PASS  ArrayGather 1d test, contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 86
+  PASS  ArrayGather 1d test, contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 86
+  PASS  ArrayGather 1d test, non-contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 95
+  PASS  ArrayGather 1d test, non-contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 95
+  PASS  ArrayGather 1d test, non-contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 95
+  PASS  ArrayGather 1d test, non-contiguous Array, deBlockList DistGrid, ESMF_ArrayGatherUTest.F90, line 95
+  PASS  ArrayGather 2d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 103
+  PASS  ArrayGather 2d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 103
+  PASS  ArrayGather 2d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 103
+  PASS  ArrayGather 2d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 103
+  PASS  ArrayGather 2d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 111
+  PASS  ArrayGather 2d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 111
+  PASS  ArrayGather 2d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 111
+  PASS  ArrayGather 2d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 111
+  PASS  ArrayGather 3d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 119
+  PASS  ArrayGather 3d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 119
+  PASS  ArrayGather 3d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 119
+  PASS  ArrayGather 3d test, contiguous Array, ESMF_ArrayGatherUTest.F90, line 119
+  PASS  ArrayGather 3d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 127
+  Ending Test, file ESMF_ArrayGatherUTest.F90, line 129
+  PASS  ArrayGather 3d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 127
+  Ending Test, file ESMF_ArrayGatherUTest.F90, line 129
+  PASS  ArrayGather 3d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 127
+  Ending Test, file ESMF_ArrayGatherUTest.F90, line 129
+  PASS  ArrayGather 3d test, non-contiguous Array, ESMF_ArrayGatherUTest.F90, line 127
+  Ending Test, file ESMF_ArrayGatherUTest.F90, line 129
+  PET           2  Test Elapsed Time    57.326000000000001       msec.
+  PET           0  Test Elapsed Time    72.137999999999977       msec.
+  PET           3  Test Elapsed Time    71.751999999999981       msec.
+  PET           1  Test Elapsed Time    72.507000000000019       msec.
