@@ -1,0 +1,57 @@
+2022-07-16 18:49:48
+[1658004210.620226] [h35m04:42029:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.620626] [h35m04:42031:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.621121] [h35m04:42030:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.621181] [h35m04:42028:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.625481] [h35m04:42029:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.626146] [h35m04:42031:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.626724] [h35m04:42030:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004210.626715] [h35m04:42028:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_TraceMPIUTest.F90, line 75
+  NUMBER_OF_PROCESSORS           4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 97
+  Beginning Test, file ESMF_TraceMPIUTest.F90, line 75
+  NUMBER_OF_PROCESSORS           4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 97
+  Beginning Test, file ESMF_TraceMPIUTest.F90, line 75
+  NUMBER_OF_PROCESSORS           4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 97
+  Beginning Test, file ESMF_TraceMPIUTest.F90, line 75
+  NUMBER_OF_PROCESSORS           4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 97
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 114
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 114
+ MPI_ALLREDUCE returned            4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 114
+ MPI_ALLREDUCE returned            4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 125
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 138
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 114
+ MPI_ALLREDUCE returned            4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 125
+ MPI_ALLREDUCE returned            4
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 125
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 125
+  PASS  Test trace user region exit, ESMF_TraceMPIUTest.F90, line 149
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 138
+  PASS  Test trace user region exit, ESMF_TraceMPIUTest.F90, line 149
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 138
+  PASS  Test trace user region exit, ESMF_TraceMPIUTest.F90, line 149
+  PASS  Test trace user region enter, ESMF_TraceMPIUTest.F90, line 138
+  PASS  Test trace user region exit, ESMF_TraceMPIUTest.F90, line 149
+  PASS  Test trace memory usage, ESMF_TraceMPIUTest.F90, line 157
+  PASS  Test trace memory usage, ESMF_TraceMPIUTest.F90, line 157
+  PASS  Test trace memory usage, ESMF_TraceMPIUTest.F90, line 157
+  PASS  Test trace memory usage, ESMF_TraceMPIUTest.F90, line 157
+  PASS  Close trace, ESMF_TraceMPIUTest.F90, line 168
+  PASS  Close trace, ESMF_TraceMPIUTest.F90, line 168
+  PASS  Close trace, ESMF_TraceMPIUTest.F90, line 168
+  PASS  Close trace, ESMF_TraceMPIUTest.F90, line 168
+  Ending Test, file ESMF_TraceMPIUTest.F90, line 180
+  Ending Test, file ESMF_TraceMPIUTest.F90, line 180
+  Ending Test, file ESMF_TraceMPIUTest.F90, line 180
+  Ending Test, file ESMF_TraceMPIUTest.F90, line 180
+  PET           3  Test Elapsed Time    5008.2290000000003       msec.
+  PET           0  Test Elapsed Time    5007.1239999999998       msec.
+  PET           2  Test Elapsed Time    5007.9480000000003       msec.
+  PET           1  Test Elapsed Time    5009.2629999999999       msec.

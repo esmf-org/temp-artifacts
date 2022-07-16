@@ -1,0 +1,29 @@
+2022-07-16 18:49:48
+[1658004446.980957] [h35m04:82509:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.980962] [h35m04:82511:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.981507] [h35m04:82510:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.981451] [h35m04:82512:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.986270] [h35m04:82511:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.986309] [h35m04:82509:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.986739] [h35m04:82512:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004446.986781] [h35m04:82510:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMC_TestUTest.C, line 32
+Beginning Test, file ESMC_TestUTest.C, line 32NUMBER_OF_PROCESSORS 4
+PASS Use of ESMC_Test(), true, ESMC_TestUTest.C, line 39
+Ending Test, file ESMC_TestUTest.C, line 43
+Beginning Test, file ESMC_TestUTest.C, line 32
+Beginning Test, file ESMC_TestUTest.C, line 32NUMBER_OF_PROCESSORS 4
+PASS Use of ESMC_Test(), true, ESMC_TestUTest.C, line 39
+Beginning Test, file ESMC_TestUTest.C, line 32
+Beginning Test, file ESMC_TestUTest.C, line 32NUMBER_OF_PROCESSORS 4
+Ending Test, file ESMC_TestUTest.C, line 43
+PASS Use of ESMC_Test(), true, ESMC_TestUTest.C, line 39
+Ending Test, file ESMC_TestUTest.C, line 43
+Beginning Test, file ESMC_TestUTest.C, line 32
+Beginning Test, file ESMC_TestUTest.C, line 32NUMBER_OF_PROCESSORS 4
+PASS Use of ESMC_Test(), true, ESMC_TestUTest.C, line 39
+Ending Test, file ESMC_TestUTest.C, line 43
+Ending Test, file ESMC_TestUTest.C, line 43 PET 2 Test Elapsed Time 58.964 msec.
+Ending Test, file ESMC_TestUTest.C, line 43 PET 0 Test Elapsed Time 58.938 msec.
+Ending Test, file ESMC_TestUTest.C, line 43 PET 1 Test Elapsed Time 59.922 msec.
+Ending Test, file ESMC_TestUTest.C, line 43 PET 3 Test Elapsed Time 59.863 msec.

@@ -1,0 +1,21 @@
+2022-07-16 18:49:48
+[1658004854.726378] [h35m04:170807:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.726385] [h35m04:170809:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.726435] [h35m04:170810:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.726479] [h35m04:170808:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.731847] [h35m04:170807:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.731894] [h35m04:170809:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.732513] [h35m04:170810:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004854.732556] [h35m04:170808:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ got same values back from GetInternalState as original
+ got same values back from GetInternalState as original
+ got same values back from GetInternalState as original
+ got same values back from GetInternalState as original
+  PASS  Example ESMF_InternalStateModEx, ESMF_InternalStateModEx.F90, line 239
+  PASS  Example ESMF_InternalStateModEx, ESMF_InternalStateModEx.F90, line 239
+  PASS  Example ESMF_InternalStateModEx, ESMF_InternalStateModEx.F90, line 239
+  PASS  Example ESMF_InternalStateModEx, ESMF_InternalStateModEx.F90, line 239
+ PASS: ESMF_InternalStateEx.F90
+ PASS: ESMF_InternalStateEx.F90
+ PASS: ESMF_InternalStateEx.F90
+ PASS: ESMF_InternalStateEx.F90

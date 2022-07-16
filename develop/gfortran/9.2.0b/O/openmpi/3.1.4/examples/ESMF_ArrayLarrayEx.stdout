@@ -1,0 +1,29 @@
+2022-07-16 18:49:48
+[1658004818.898087] [h35m04:156723:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.898122] [h35m04:156724:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.898073] [h35m04:156725:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.898111] [h35m04:156726:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.903725] [h35m04:156725:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.903797] [h35m04:156726:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.903847] [h35m04:156724:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004818.903905] [h35m04:156723:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ localSum=   12345.600000000009     
+ localSum=   12345.600000000009     
+ localSum=   12345.600000000009     
+ localSum=   12345.600000000009     
+ localSum=   987.64800000000002     
+ localSum=   3654.3119999999990     
+ localSum=   987.64800000000002     
+ localSum=   3654.3119999999990     
+ localSum=   987.64800000000002     
+ localSum=   3654.3119999999990     
+ localSum=   987.64800000000002     
+ localSum=   3654.3119999999990     
+  PASS  Example ESMF_ArrayLarrayEx, ESMF_ArrayLarrayEx.F90, line 325
+  PASS  Example ESMF_ArrayLarrayEx, ESMF_ArrayLarrayEx.F90, line 325
+  PASS  Example ESMF_ArrayLarrayEx, ESMF_ArrayLarrayEx.F90, line 325
+  PASS  Example ESMF_ArrayLarrayEx, ESMF_ArrayLarrayEx.F90, line 325
+ PASS: ESMF_ArrayLarrayEx.F90
+ PASS: ESMF_ArrayLarrayEx.F90
+ PASS: ESMF_ArrayLarrayEx.F90
+ PASS: ESMF_ArrayLarrayEx.F90

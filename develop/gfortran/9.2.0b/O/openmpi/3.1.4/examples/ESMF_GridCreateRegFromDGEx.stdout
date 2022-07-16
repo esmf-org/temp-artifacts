@@ -1,0 +1,17 @@
+2022-07-16 18:49:48
+[1658004827.822250] [h35m04:159979:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.822280] [h35m04:159977:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.822433] [h35m04:159976:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.822325] [h35m04:159978:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.828336] [h35m04:159978:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.828584] [h35m04:159979:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.828642] [h35m04:159976:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004827.828689] [h35m04:159977:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_GridCreateRegFromDGEx, ESMF_GridCreateRegFromDGEx.F90, line 112
+  PASS  Example ESMF_GridCreateRegFromDGEx, ESMF_GridCreateRegFromDGEx.F90, line 112
+  PASS  Example ESMF_GridCreateRegFromDGEx, ESMF_GridCreateRegFromDGEx.F90, line 112
+  PASS  Example ESMF_GridCreateRegFromDGEx, ESMF_GridCreateRegFromDGEx.F90, line 112
+ PASS: ESMF_GridCreateRegFromDGEx.F90
+ PASS: ESMF_GridCreateRegFromDGEx.F90
+ PASS: ESMF_GridCreateRegFromDGEx.F90
+ PASS: ESMF_GridCreateRegFromDGEx.F90

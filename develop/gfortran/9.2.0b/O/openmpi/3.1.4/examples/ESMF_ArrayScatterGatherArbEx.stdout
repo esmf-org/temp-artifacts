@@ -1,0 +1,17 @@
+2022-07-16 18:49:48
+[1658004822.558877] [h35m04:157581:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.559308] [h35m04:157582:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.559396] [h35m04:157580:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.559441] [h35m04:157583:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.564152] [h35m04:157581:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.564836] [h35m04:157582:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.564832] [h35m04:157580:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004822.565084] [h35m04:157583:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_ArrayScatterGatherArbEx, ESMF_ArrayScatterGatherArbEx.F90, line 313
+  PASS  Example ESMF_ArrayScatterGatherArbEx, ESMF_ArrayScatterGatherArbEx.F90, line 313
+  PASS  Example ESMF_ArrayScatterGatherArbEx, ESMF_ArrayScatterGatherArbEx.F90, line 313
+  PASS  Example ESMF_ArrayScatterGatherArbEx, ESMF_ArrayScatterGatherArbEx.F90, line 313
+ PASS: ESMF_ArrayScatterGatherArbEx.F90
+ PASS: ESMF_ArrayScatterGatherArbEx.F90
+ PASS: ESMF_ArrayScatterGatherArbEx.F90
+ PASS: ESMF_ArrayScatterGatherArbEx.F90

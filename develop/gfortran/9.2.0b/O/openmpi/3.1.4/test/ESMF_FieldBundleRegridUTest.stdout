@@ -1,0 +1,89 @@
+2022-07-16 18:49:48
+[1658004340.289494] [h35m04:69973:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.289774] [h35m04:69971:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.289707] [h35m04:69972:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.289636] [h35m04:69974:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.295305] [h35m04:69974:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.295362] [h35m04:69973:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.295477] [h35m04:69972:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004340.295546] [h35m04:69971:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldBundleRegridUTest.F90, line 56
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleRegridUTest.F90, line 56
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleRegridUTest.F90, line 56
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleRegridUTest.F90, line 56
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 67
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 67
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 67
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 67
+ utest src field name = src360_L                                                        
+ utest dst field name = dst360_B                                                        
+ utest src field name = src360_L                                                        
+ utest dst field name = dst360_B                                                        
+ utest src field name = src360_L                                                        
+ utest dst field name = dst360_B                                                        
+ utest src field name = src360_G                                                        
+ utest dst field name = dst360_Y                                                        
+ utest src field name = src360_L                                                        
+ utest dst field name = dst360_B                                                        
+ utest src field name = src360_G                                                        
+ utest dst field name = dst360_Y                                                        
+ utest src field name = src360_G                                                        
+ utest dst field name = dst360_Y                                                        
+ utest src field name = src360_G                                                        
+ utest dst field name = dst360_Y                                                        
+ utest src field name = src360_X                                                        
+ utest dst field name = dst360_T                                                        
+ utest src field name = src360_X                                                        
+ utest dst field name = dst360_T                                                        
+ utest src field name = src360_X                                                        
+ utest dst field name = dst360_T                                                        
+ utest src field name = src360_X                                                        
+ utest dst field name = dst360_T                                                        
+ utest src field name = src360_A                                                        
+ utest dst field name = dst360_S                                                        
+ utest src field name = src360_A                                                        
+ utest dst field name = dst360_S                                                        
+ utest src field name = src360_A                                                        
+ utest dst field name = dst360_S                                                        
+ utest src field name = src360_A                                                        
+ utest dst field name = dst360_S                                                        
+ utest src field name = src360_C                                                        
+ utest dst field name = dst360_P                                                        
+ utest src field name = src360_C                                                        
+ utest dst field name = dst360_P                                                        
+ utest src field name = src360_C                                                        
+ utest dst field name = dst360_P                                                        
+ utest src field name = src360_C                                                        
+ utest dst field name = dst360_P                                                        
+ utest src field name = src360_H                                                        
+ utest dst field name = dst360_N                                                        
+ utest src field name = src360_H                                                        
+ utest dst field name = dst360_N                                                        
+ utest src field name = src360_H                                                        
+ utest dst field name = dst360_N                                                        
+ utest src field name = src360_H                                                        
+ utest dst field name = dst360_N                                                        
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 74
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 74
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 74
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a -180 to 180 sphere, ESMF_FieldBundleRegridUTest.F90, line 74
+  PASS  FieldBundleRegrid sphere with mask, ESMF_FieldBundleRegridUTest.F90, line 90
+  PASS  FieldBundleRegrid sphere with mask, ESMF_FieldBundleRegridUTest.F90, line 90
+  PASS  FieldBundleRegrid sphere with mask, ESMF_FieldBundleRegridUTest.F90, line 90
+  PASS  FieldBundleRegrid sphere with mask, ESMF_FieldBundleRegridUTest.F90, line 90
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a LocStream, ESMF_FieldBundleRegridUTest.F90, line 97
+  Ending Test, file ESMF_FieldBundleRegridUTest.F90, line 102
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a LocStream, ESMF_FieldBundleRegridUTest.F90, line 97
+  Ending Test, file ESMF_FieldBundleRegridUTest.F90, line 102
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a LocStream, ESMF_FieldBundleRegridUTest.F90, line 97
+  Ending Test, file ESMF_FieldBundleRegridUTest.F90, line 102
+  PASS  FieldBundleRegrid between a 0 to 360 sphere and a LocStream, ESMF_FieldBundleRegridUTest.F90, line 97
+  Ending Test, file ESMF_FieldBundleRegridUTest.F90, line 102
+  PET           3  Test Elapsed Time    282.18000000000001       msec.
+  PET           1  Test Elapsed Time    282.81399999999996       msec.
+  PET           0  Test Elapsed Time    282.28600000000006       msec.
+  PET           2  Test Elapsed Time    282.15100000000001       msec.

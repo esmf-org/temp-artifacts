@@ -1,0 +1,33 @@
+2022-07-16 18:49:48
+[1658004334.659405] [h35m04:67907:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.659678] [h35m04:67906:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.659731] [h35m04:67908:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.659797] [h35m04:67909:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.664848] [h35m04:67907:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.665292] [h35m04:67908:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.665366] [h35m04:67909:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658004334.665417] [h35m04:67906:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldSMMFromFileUTest.F90, line 287
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldSMMFromFileUTest.F90, line 287
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldSMMFromFileUTest.F90, line 287
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldSMMFromFileUTest.F90, line 287
+  NUMBER_OF_PROCESSORS           4
+  PASS  ESMF_FieldSMMFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 303
+  PASS  ESMF_FieldSMMFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 303
+  PASS  ESMF_FieldSMMFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 303
+  PASS  ESMF_FieldSMMFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 303
+  PASS  ESMF_FieldRegridStoreFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 318
+  Ending Test, file ESMF_FieldSMMFromFileUTest.F90, line 322
+  PASS  ESMF_FieldRegridStoreFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 318
+  Ending Test, file ESMF_FieldSMMFromFileUTest.F90, line 322
+  PASS  ESMF_FieldRegridStoreFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 318
+  Ending Test, file ESMF_FieldSMMFromFileUTest.F90, line 322
+  PASS  ESMF_FieldRegridStoreFromFile Unit Test, ESMF_FieldSMMFromFileUTest.F90, line 318
+  Ending Test, file ESMF_FieldSMMFromFileUTest.F90, line 322
+  PET           2  Test Elapsed Time    22.902000000000005       msec.
+  PET           0  Test Elapsed Time    23.766999999999996       msec.
+  PET           1  Test Elapsed Time    23.083000000000006       msec.
+  PET           3  Test Elapsed Time    23.242999999999999       msec.
