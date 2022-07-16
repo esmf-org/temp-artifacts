@@ -216,7 +216,7 @@ ESMF_TRACE_STATICLINKLIBS=-lesmftrace_static
 
 
 --------------------------------------------------------------
-Compiling on Fri Jul 15 22:16:54 MDT 2022 on i042.cgd.ucar.edu
+Compiling on Fri Jul 15 22:21:33 MDT 2022 on i042.cgd.ucar.edu
 Machine characteristics: Linux i042.cgd.ucar.edu 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
 ==============================================================
  
