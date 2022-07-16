@@ -1,0 +1,39 @@
+2022-07-16 17:04:38
+20220716 171704.143 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220716 171704.143 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220716 171704.143 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220716 171704.143 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220716 171704.143 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220716 171704.143 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220716 171704.143 INFO             PET0 Running with ESMF Version   : v8.4.0b04-2-gc831a7cd4a
+20220716 171704.143 INFO             PET0 ESMF library build date/time: "Jul 16 2022" "17:03:02"
+20220716 171704.143 INFO             PET0 ESMF library build location : /scratch1/NCEPDEV/stmp2/Rocky.Dunlap/esmf-test-dev/intel_18.0.5a_mpiuni_O_develop/esmf
+20220716 171704.143 INFO             PET0 ESMF_COMM                   : mpiuni
+20220716 171704.144 INFO             PET0 ESMF_MOAB                   : enabled
+20220716 171704.144 INFO             PET0 ESMF_LAPACK                 : enabled
+20220716 171704.144 INFO             PET0 ESMF_NETCDF                 : enabled
+20220716 171704.144 INFO             PET0 ESMF_PNETCDF                : disabled
+20220716 171704.144 INFO             PET0 ESMF_PIO                    : disabled
+20220716 171704.144 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220716 171704.144 INFO             PET0 Beginning Test, file ESMC_LogErrPerfUTest.C, line 88
+20220716 171704.144 INFO             PET0 Beginning Test, file ESMC_LogErrPerfUTest.C, line 88NUMBER_OF_PROCESSORS 1
+20220716 171704.145 INFO             PET0 perfFoundError: 1000	 iterations took 5.96046e-06	 seconds. => 5.96046e-09	 per iteration.
+20220716 171704.145 INFO             PET0 PASS Performance of ESMCI::LogErr::FoundError() 1000x Test, ESMC_LogErrPerfUTest.C, line 96
+20220716 171704.145 INFO             PET0 perfFoundError: 10000	 iterations took 3.19481e-05	 seconds. => 3.19481e-09	 per iteration.
+20220716 171704.145 INFO             PET0 PASS Performance of ESMCI::LogErr::FoundError() 10000x Test, ESMC_LogErrPerfUTest.C, line 104
+20220716 171704.145 INFO             PET0 perfFoundError: 100000	 iterations took 0.000330925	 seconds. => 3.30925e-09	 per iteration.
+20220716 171704.145 INFO             PET0 PASS Performance of ESMCI::LogErr::FoundError() 100000x Test, ESMC_LogErrPerfUTest.C, line 112
+20220716 171704.148 INFO             PET0 perfFoundError: 1000000	 iterations took 0.00299501	 seconds. => 2.99501e-09	 per iteration.
+20220716 171704.148 INFO             PET0 PASS Performance of ESMCI::LogErr::FoundError() 1000000x Test, ESMC_LogErrPerfUTest.C, line 120
+20220716 171704.148 INFO             PET0 PASS Threshold check for ESMCI::LogErr::FoundError() 1000000x Test, ESMC_LogErrPerfUTest.C, line 130
+20220716 171704.148 INFO             PET0 perfMsgFoundError: 1000	 iterations took 3.8147e-06	 seconds. => 3.8147e-09	 per iteration.
+20220716 171704.148 INFO             PET0 PASS Performance of ESMCI::LogErr::MsgFoundError() 1000x Test, ESMC_LogErrPerfUTest.C, line 138
+20220716 171704.148 INFO             PET0 perfMsgFoundError: 10000	 iterations took 3.19481e-05	 seconds. => 3.19481e-09	 per iteration.
+20220716 171704.148 INFO             PET0 PASS Performance of ESMCI::LogErr::MsgFoundError() 10000x Test, ESMC_LogErrPerfUTest.C, line 146
+20220716 171704.148 INFO             PET0 perfMsgFoundError: 100000	 iterations took 0.000327826	 seconds. => 3.27826e-09	 per iteration.
+20220716 171704.148 INFO             PET0 PASS Performance of ESMCI::LogErr::MsgFoundError() 100000x Test, ESMC_LogErrPerfUTest.C, line 154
+20220716 171704.152 INFO             PET0 perfMsgFoundError: 1000000	 iterations took 0.0032661	 seconds. => 3.2661e-09	 per iteration.
+20220716 171704.152 INFO             PET0 PASS Performance of ESMCI::LogErr::MsgFoundError() 1000000x Test, ESMC_LogErrPerfUTest.C, line 162
+20220716 171704.152 INFO             PET0 PASS Threshold check for ESMCI::LogErr::MsgFoundError() 1000000x Test, ESMC_LogErrPerfUTest.C, line 172
+20220716 171704.152 INFO             PET0 Ending Test, file ESMC_LogErrPerfUTest.C, line 176
+20220716 171704.152 INFO             PET0 Finalizing ESMF
