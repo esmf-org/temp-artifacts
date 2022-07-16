@@ -1,0 +1,131 @@
+2022-07-16 19:02:38
+20220716 210149.859 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220716 210149.859 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220716 210149.859 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220716 210149.859 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220716 210149.859 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220716 210149.859 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220716 210149.859 INFO             PET0 Running with ESMF Version   : v8.4.0b04-2-gc831a7cd4a
+20220716 210149.859 INFO             PET0 ESMF library build date/time: "Jul 16 2022" "19:00:55"
+20220716 210149.859 INFO             PET0 ESMF library build location : /scratch1/NCEPDEV/stmp2/Rocky.Dunlap/esmf-test-dev/intel_18.0.5a_mpiuni_g_develop/esmf
+20220716 210149.859 INFO             PET0 ESMF_COMM                   : mpiuni
+20220716 210149.861 INFO             PET0 ESMF_MOAB                   : enabled
+20220716 210149.861 INFO             PET0 ESMF_LAPACK                 : enabled
+20220716 210149.861 INFO             PET0 ESMF_NETCDF                 : enabled
+20220716 210149.861 INFO             PET0 ESMF_PNETCDF                : disabled
+20220716 210149.861 INFO             PET0 ESMF_PIO                    : disabled
+20220716 210149.861 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220716 210149.862 INFO             PET0  Beginning Test, file ESMF_ArrayBundleRedistUTest.F90, line 71
+20220716 210149.862 INFO             PET0  NUMBER_OF_PROCESSORS           1
+20220716 210150.030 INFO             PET0  PASS  Create src ArrayBundle Test, ESMF_ArrayBundleRedistUTest.F90, line 311
+20220716 210150.030 INFO             PET0  PASS  Create dst ArrayBundle Test, ESMF_ArrayBundleRedistUTest.F90, line 319
+20220716 210150.030 INFO             PET0  Checking array pair #           1
+20220716 210150.031 INFO             PET0  Checking array pair #           2
+20220716 210150.032 INFO             PET0  Checking array pair #           3
+20220716 210150.033 INFO             PET0  Checking array pair #           4
+20220716 210150.040 INFO             PET0  Checking array pair #           5
+20220716 210150.048 INFO             PET0  Checking array pair #           6
+20220716 210150.055 INFO             PET0  Checking array pair #           7
+20220716 210150.066 INFO             PET0  Checking array pair #           8
+20220716 210150.067 INFO             PET0  Checking array pair #           9
+20220716 210150.068 INFO             PET0  Checking array pair #          10
+20220716 210150.070 INFO             PET0  Checking array pair #          11
+20220716 210150.071 INFO             PET0  Checking array pair #          12
+20220716 210150.071 INFO             PET0  Checking array pair #          13
+20220716 210150.071 INFO             PET0  Checking array pair #          14
+20220716 210150.072 INFO             PET0  Checking array pair #          15
+20220716 210150.072 INFO             PET0  PASS  Check for data match between src and check Arrays Test, ESMF_ArrayBundleRedistUTest.F90, line 329
+20220716 210152.692 INFO             PET0  PASS  ArrayBundleRedistStore src->dst Test, ESMF_ArrayBundleRedistUTest.F90, line 337
+20220716 210152.692 INFO             PET0  Checking array pair #           1
+20220716 210152.693 INFO             PET0  Checking array pair #           2
+20220716 210152.694 INFO             PET0  Checking array pair #           3
+20220716 210152.695 INFO             PET0  Checking array pair #           4
+20220716 210152.703 INFO             PET0  Checking array pair #           5
+20220716 210152.711 INFO             PET0  Checking array pair #           6
+20220716 210152.720 INFO             PET0  Checking array pair #           7
+20220716 210152.732 INFO             PET0  Checking array pair #           8
+20220716 210152.733 INFO             PET0  Checking array pair #           9
+20220716 210152.734 INFO             PET0  Checking array pair #          10
+20220716 210152.736 INFO             PET0  Checking array pair #          11
+20220716 210152.737 INFO             PET0  Checking array pair #          12
+20220716 210152.737 INFO             PET0  Checking array pair #          13
+20220716 210152.737 INFO             PET0  Checking array pair #          14
+20220716 210152.738 INFO             PET0  Checking array pair #          15
+20220716 210152.738 INFO             PET0  PASS  Check for data match between src and check Arrays Test, ESMF_ArrayBundleRedistUTest.F90, line 347
+20220716 210152.770 INFO             PET0  PASS  ArrayBundleRedist src->dst Test, ESMF_ArrayBundleRedistUTest.F90, line 355
+20220716 210152.770 INFO             PET0  Checking array pair #           1
+20220716 210152.771 INFO             PET0  Checking array pair #           2
+20220716 210152.772 INFO             PET0  Checking array pair #           3
+20220716 210152.772 INFO             PET0  Checking array pair #           4
+20220716 210152.780 INFO             PET0  Checking array pair #           5
+20220716 210152.788 INFO             PET0  Checking array pair #           6
+20220716 210152.795 INFO             PET0  Checking array pair #           7
+20220716 210152.807 INFO             PET0  Checking array pair #           8
+20220716 210152.808 INFO             PET0  Checking array pair #           9
+20220716 210152.809 INFO             PET0  Checking array pair #          10
+20220716 210152.810 INFO             PET0  Checking array pair #          11
+20220716 210152.811 INFO             PET0  Checking array pair #          12
+20220716 210152.811 INFO             PET0  Checking array pair #          13
+20220716 210152.812 INFO             PET0  Checking array pair #          14
+20220716 210152.812 INFO             PET0  Checking array pair #          15
+20220716 210152.812 INFO             PET0  PASS  Check for data match between src and check Arrays Test, ESMF_ArrayBundleRedistUTest.F90, line 365
+20220716 210155.374 INFO             PET0  PASS  ArrayBundleRedistStore dst->src Test, ESMF_ArrayBundleRedistUTest.F90, line 373
+20220716 210155.374 INFO             PET0  Checking array pair #           1
+20220716 210155.375 INFO             PET0  Checking array pair #           2
+20220716 210155.376 INFO             PET0  Checking array pair #           3
+20220716 210155.376 INFO             PET0  Checking array pair #           4
+20220716 210155.384 INFO             PET0  Checking array pair #           5
+20220716 210155.393 INFO             PET0  Checking array pair #           6
+20220716 210155.401 INFO             PET0  Checking array pair #           7
+20220716 210155.414 INFO             PET0  Checking array pair #           8
+20220716 210155.415 INFO             PET0  Checking array pair #           9
+20220716 210155.416 INFO             PET0  Checking array pair #          10
+20220716 210155.417 INFO             PET0  Checking array pair #          11
+20220716 210155.418 INFO             PET0  Checking array pair #          12
+20220716 210155.418 INFO             PET0  Checking array pair #          13
+20220716 210155.419 INFO             PET0  Checking array pair #          14
+20220716 210155.419 INFO             PET0  Checking array pair #          15
+20220716 210155.419 INFO             PET0  PASS  Check for data match between src and check Arrays Test, ESMF_ArrayBundleRedistUTest.F90, line 383
+20220716 210155.548 INFO             PET0  PASS  ArrayBundleRedist dst->src Test, ESMF_ArrayBundleRedistUTest.F90, line 400
+20220716 210155.548 INFO             PET0  Checking array pair #           1
+20220716 210155.548 INFO             PET0  Checking array pair #           2
+20220716 210155.549 INFO             PET0  Checking array pair #           3
+20220716 210155.550 INFO             PET0  Checking array pair #           4
+20220716 210155.557 INFO             PET0  Checking array pair #           5
+20220716 210155.565 INFO             PET0  Checking array pair #           6
+20220716 210155.572 INFO             PET0  Checking array pair #           7
+20220716 210155.584 INFO             PET0  Checking array pair #           8
+20220716 210155.585 INFO             PET0  Checking array pair #           9
+20220716 210155.586 INFO             PET0  Checking array pair #          10
+20220716 210155.587 INFO             PET0  Checking array pair #          11
+20220716 210155.588 INFO             PET0  Checking array pair #          12
+20220716 210155.588 INFO             PET0  Checking array pair #          13
+20220716 210155.588 INFO             PET0  Checking array pair #          14
+20220716 210155.589 INFO             PET0  Checking array pair #          15
+20220716 210155.589 INFO             PET0  PASS  Check for data match between src and check Arrays Test, ESMF_ArrayBundleRedistUTest.F90, line 410
+20220716 210155.610 INFO             PET0  PASS  RouteHandleWrite Test, ESMF_ArrayBundleRedistUTest.F90, line 418
+20220716 210155.610 INFO             PET0  PASS  ArrayBundleRedistRelease Test, ESMF_ArrayBundleRedistUTest.F90, line 426
+20220716 210155.624 INFO             PET0  PASS  RouteHandleCreate(from file) Test, ESMF_ArrayBundleRedistUTest.F90, line 434
+20220716 210155.738 INFO             PET0  PASS  ArrayBundleRedist src->dst after reading Test, ESMF_ArrayBundleRedistUTest.F90, line 451
+20220716 210155.765 INFO             PET0  PASS  ArrayBundleRedist dst->src Test, ESMF_ArrayBundleRedistUTest.F90, line 459
+20220716 210155.765 INFO             PET0  Checking array pair #           1
+20220716 210155.766 INFO             PET0  Checking array pair #           2
+20220716 210155.767 INFO             PET0  Checking array pair #           3
+20220716 210155.768 INFO             PET0  Checking array pair #           4
+20220716 210155.775 INFO             PET0  Checking array pair #           5
+20220716 210155.783 INFO             PET0  Checking array pair #           6
+20220716 210155.790 INFO             PET0  Checking array pair #           7
+20220716 210155.801 INFO             PET0  Checking array pair #           8
+20220716 210155.802 INFO             PET0  Checking array pair #           9
+20220716 210155.803 INFO             PET0  Checking array pair #          10
+20220716 210155.804 INFO             PET0  Checking array pair #          11
+20220716 210155.805 INFO             PET0  Checking array pair #          12
+20220716 210155.806 INFO             PET0  Checking array pair #          13
+20220716 210155.806 INFO             PET0  Checking array pair #          14
+20220716 210155.806 INFO             PET0  Checking array pair #          15
+20220716 210155.806 INFO             PET0  PASS  Check for data match between src and check Arrays Test, ESMF_ArrayBundleRedistUTest.F90, line 469
+20220716 210155.807 INFO             PET0  PASS  ArrayBundleRedistRelease after reading Test, ESMF_ArrayBundleRedistUTest.F90, line 477
+20220716 210155.807 INFO             PET0  PASS  Destroy src ArrayBundle Test, ESMF_ArrayBundleRedistUTest.F90, line 485
+20220716 210155.807 INFO             PET0  PASS  Destroy dst ArrayBundle Test, ESMF_ArrayBundleRedistUTest.F90, line 493
+20220716 210155.807 INFO             PET0  Ending Test, file ESMF_ArrayBundleRedistUTest.F90, line 514
+20220716 210155.807 INFO             PET0 Finalizing ESMF
