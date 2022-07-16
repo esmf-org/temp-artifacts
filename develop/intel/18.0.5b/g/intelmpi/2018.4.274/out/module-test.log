@@ -1,0 +1,30 @@
+++ /apps/lmod/8.5.2/libexec/lmod bash list
++ eval echo ''\'''\'';' echo ''\''Currently'\''' ''\''Loaded'\''' ''\''Modules:'\'';' echo ''\'''\''' ''\'''\''' ''\''1)'\''' ''\''intelpython/2022.1.2'\''' ''\'''\''' ''\'''\''' ''\''3)'\''' ''\''impi/2018.4.274'\'';' echo ''\'''\''' ''\'''\''' ''\''2)'\''' ''\''intel/18.0.5.274'\''' ''\'''\''' ''\'''\''' ''\'''\''' ''\'''\''' ''\'''\''' ''\'''\''' ''\''4)'\''' ''\''netcdf-hdf5parallel/4.7.4'\'';' echo ''\'''\'';' echo ''\'''\''' ''\'''\'';' echo ''\'''\'';' 'MODULEPATH=/apps/lmod/lmod/modulefiles/Core:/apps/modules/modulefiles/Linux:/apps/modules/modulefiles:/apps/modules/modulefamilies/intel:/apps/modules/modulefamilies/intel_impi;' export 'MODULEPATH;' '_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPTAuMDgzMzMzMzMzMzMzMzMzLFsiY19zaG9ydFRpbWUiXT0wLjU3MjM0MDk2NTI3MSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImludGVsIixbIm1waSJdPSJpbXBpIix9LG1UPXtpbXBpPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwvaW1waS8yMDE4LjQuMjc0IixbImZ1bGxOYW1lIl09ImltcGkvMjAxOC40LjI3NCIsWyJsb2FkT3JkZXIiXT0zLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImltcGkvMjAxOC40LjI3NCIsWyJ3ViJdPSIwMDAwMDIwMTguMDAwMDAwMDA0LjAwMDAwMDI3;' export '_ModuleTable001_;' '_ModuleTable002_=NC4qemZpbmFsIix9LGludGVsPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmlsZXMvaW50ZWwvMTguMC41LjI3NCIsWyJmdWxsTmFtZSJdPSJpbnRlbC8xOC4wLjUuMjc0IixbImxvYWRPcmRlciJdPTIscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iaW50ZWwvMTguMC41LjI3NCIsWyJ3ViJdPSIwMDAwMDAwMTguMDAwMDAwMDAwLjAwMDAwMDAwNS4wMDAwMDAyNzQuKnpmaW5hbCIsfSxpbnRlbHB5dGhvbj17WyJmbiJdPSIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL2ludGVscHl0aG9uLzIwMjIuMS4yIixbImZ1bGxOYW1lIl09ImludGVscHl0aG9uLzIwMjIuMS4yIixbImxvYWRPcmRlciJdPTEscHJvcFQ9;' export '_ModuleTable002_;' '_ModuleTable003_=e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iaW50ZWxweXRob24iLFsid1YiXT0iMDAwMDAyMDIyLjAwMDAwMDAwMS4wMDAwMDAwMDIuKnpmaW5hbCIsfSxbIm5ldGNkZi1oZGY1cGFyYWxsZWwiXT17WyJmbiJdPSIvYXBwcy9tb2R1bGVzL21vZHVsZWZhbWlsaWVzL2ludGVsX2ltcGkvbmV0Y2RmLWhkZjVwYXJhbGxlbC80LjcuNCIsWyJmdWxsTmFtZSJdPSJuZXRjZGYtaGRmNXBhcmFsbGVsLzQuNy40IixbImxvYWRPcmRlciJdPTQscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0ibmV0Y2RmLWhkZjVwYXJhbGxlbC80LjcuNCIsWyJ3ViJdPSIwMDAwMDAwMDQuMDAwMDAw;' export '_ModuleTable003_;' '_ModuleTable004_=MDA3LjAwMDAwMDAwNC4qemZpbmFsIix9LH0sbXBhdGhBPXsiL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4IiwiL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcyIsIi9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZhbWlsaWVzL2ludGVsX2ltcGkiLH0sWyJzeXN0ZW1CYXNlTVBBVEgiXT0iL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmU6L2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9MaW51eDovYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzIix9;' export '_ModuleTable004_;' '_ModuleTable_Sz_=4;' export '_ModuleTable_Sz_;'
+++ echo ''
+
+++ echo Currently Loaded Modules:
+Currently Loaded Modules:
+++ echo '' '' '1)' intelpython/2022.1.2 '' '' '3)' impi/2018.4.274
+  1) intelpython/2022.1.2   3) impi/2018.4.274
+++ echo '' '' '2)' intel/18.0.5.274 '' '' '' '' '' '' '4)' netcdf-hdf5parallel/4.7.4
+  2) intel/18.0.5.274       4) netcdf-hdf5parallel/4.7.4
+++ echo ''
+
+++ echo '' ''
+ 
+++ echo ''
+
+++ MODULEPATH=/apps/lmod/lmod/modulefiles/Core:/apps/modules/modulefiles/Linux:/apps/modules/modulefiles:/apps/modules/modulefamilies/intel:/apps/modules/modulefamilies/intel_impi
+++ export MODULEPATH
+++ _ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPTAuMDgzMzMzMzMzMzMzMzMzLFsiY19zaG9ydFRpbWUiXT0wLjU3MjM0MDk2NTI3MSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImludGVsIixbIm1waSJdPSJpbXBpIix9LG1UPXtpbXBpPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwvaW1waS8yMDE4LjQuMjc0IixbImZ1bGxOYW1lIl09ImltcGkvMjAxOC40LjI3NCIsWyJsb2FkT3JkZXIiXT0zLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImltcGkvMjAxOC40LjI3NCIsWyJ3ViJdPSIwMDAwMDIwMTguMDAwMDAwMDA0LjAwMDAwMDI3
+++ export _ModuleTable001_
+++ _ModuleTable002_=NC4qemZpbmFsIix9LGludGVsPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmlsZXMvaW50ZWwvMTguMC41LjI3NCIsWyJmdWxsTmFtZSJdPSJpbnRlbC8xOC4wLjUuMjc0IixbImxvYWRPcmRlciJdPTIscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iaW50ZWwvMTguMC41LjI3NCIsWyJ3ViJdPSIwMDAwMDAwMTguMDAwMDAwMDAwLjAwMDAwMDAwNS4wMDAwMDAyNzQuKnpmaW5hbCIsfSxpbnRlbHB5dGhvbj17WyJmbiJdPSIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL2ludGVscHl0aG9uLzIwMjIuMS4yIixbImZ1bGxOYW1lIl09ImludGVscHl0aG9uLzIwMjIuMS4yIixbImxvYWRPcmRlciJdPTEscHJvcFQ9
+++ export _ModuleTable002_
+++ _ModuleTable003_=e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iaW50ZWxweXRob24iLFsid1YiXT0iMDAwMDAyMDIyLjAwMDAwMDAwMS4wMDAwMDAwMDIuKnpmaW5hbCIsfSxbIm5ldGNkZi1oZGY1cGFyYWxsZWwiXT17WyJmbiJdPSIvYXBwcy9tb2R1bGVzL21vZHVsZWZhbWlsaWVzL2ludGVsX2ltcGkvbmV0Y2RmLWhkZjVwYXJhbGxlbC80LjcuNCIsWyJmdWxsTmFtZSJdPSJuZXRjZGYtaGRmNXBhcmFsbGVsLzQuNy40IixbImxvYWRPcmRlciJdPTQscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0ibmV0Y2RmLWhkZjVwYXJhbGxlbC80LjcuNCIsWyJ3ViJdPSIwMDAwMDAwMDQuMDAwMDAw
+++ export _ModuleTable003_
+++ _ModuleTable004_=MDA3LjAwMDAwMDAwNC4qemZpbmFsIix9LH0sbXBhdGhBPXsiL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4IiwiL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcyIsIi9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvaW50ZWwiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZhbWlsaWVzL2ludGVsX2ltcGkiLH0sWyJzeXN0ZW1CYXNlTVBBVEgiXT0iL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmU6L2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9MaW51eDovYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzIix9
+++ export _ModuleTable004_
+++ _ModuleTable_Sz_=4
+++ export _ModuleTable_Sz_
+++ : -s sh
++ eval
