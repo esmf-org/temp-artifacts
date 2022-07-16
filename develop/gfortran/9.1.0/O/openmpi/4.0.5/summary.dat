@@ -1,17 +1,17 @@
 ESMF hash: v8.4.0b04-2-gc831a7c
-Collection timestamp: 2022-07-15 14:53:22
-Build timestamp: 2022-07-15 14:13:36
+Collection timestamp: 2022-07-16 12:53:37
+Build timestamp: 2022-07-16 12:53:11
 Test dir: /glade/scratch/dunlap/esmf-test-dev/gfortran_9.1.0_openmpi_O_develop
 Machine: cheyenne
-Job: 5006920
+Job: 5024695
 
 RESULTS:
 ================================
 build:			PASS
-unit tests:		PASS 13666 FAIL 0
-system tests:		PASS 49 FAIL 0
-example tests:		PASS 80 FAIL 0
-nuopc tests:		PASS 50 FAIL 0
+unit tests:		NONE
+system tests:		NONE
+example tests:		NONE
+nuopc tests:		NONE
 
 
 module-build.log
@@ -254,6 +254,6 @@ ESMF_TRACE_STATICLINKLIBS=-lesmftrace_static
 
 
 --------------------------------------------------------------
-Compiling on Fri Jul 15 13:58:37 MDT 2022 on r8i3n35
-Machine characteristics: Linux r8i3n35 4.12.14-95.51-default #1 SMP Fri Apr 17 08:14:12 UTC 2020 (c6bab98) x86_64 x86_64 x86_64 GNU/Linux
+Compiling on Sat Jul 16 12:38:40 MDT 2022 on r4i4n20
+Machine characteristics: Linux r4i4n20 4.12.14-95.51-default #1 SMP Fri Apr 17 08:14:12 UTC 2020 (c6bab98) x86_64 x86_64 x86_64 GNU/Linux
 ==============================================================
