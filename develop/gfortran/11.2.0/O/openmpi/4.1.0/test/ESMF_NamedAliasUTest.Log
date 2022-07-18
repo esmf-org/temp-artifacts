@@ -1,0 +1,601 @@
+2022-07-18 14:36:24
+20220718 144557.483 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.483 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220718 144557.483 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220718 144557.483 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220718 144557.483 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220718 144557.483 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.483 INFO             PET0 Running with ESMF Version   : v8.4.0b05-10-g2a13bec76f
+20220718 144557.483 INFO             PET0 ESMF library build date/time: "Jul 18 2022" "14:35:22"
+20220718 144557.483 INFO             PET0 ESMF library build location : /project/esmf/rocky/esmf-test-dev/gfortran_11.2.0_openmpi_O_develop/esmf
+20220718 144557.483 INFO             PET0 ESMF_COMM                   : openmpi
+20220718 144557.483 INFO             PET0 ESMF_MOAB                   : enabled
+20220718 144557.483 INFO             PET0 ESMF_LAPACK                 : enabled
+20220718 144557.483 INFO             PET0 ESMF_NETCDF                 : enabled
+20220718 144557.483 INFO             PET0 ESMF_PNETCDF                : disabled
+20220718 144557.483 INFO             PET0 ESMF_PIO                    : enabled
+20220718 144557.483 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220718 144557.484 INFO             PET0  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+20220718 144557.484 INFO             PET0  NUMBER_OF_PROCESSORS           4
+20220718 144557.484 INFO             PET0  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90, line 111
+20220718 144557.484 INFO             PET0  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+20220718 144557.484 INFO             PET0  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 132
+20220718 144557.484 INFO             PET0  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasUTest.F90, line 145
+20220718 144557.484 INFO             PET0  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAliasUTest.F90, line 156
+20220718 144557.484 INFO             PET0  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 164
+20220718 144557.484 INFO             PET0  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 172
+20220718 144557.484 ERROR            PET0 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET0 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET0  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 180
+20220718 144557.484 INFO             PET0  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, line 191
+20220718 144557.484 INFO             PET0  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+20220718 144557.484 INFO             PET0  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 212
+20220718 144557.484 INFO             PET0  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 220
+20220718 144557.484 ERROR            PET0 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET0 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET0  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 228
+20220718 144557.484 INFO             PET0  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F90, line 250
+20220718 144557.484 INFO             PET0  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+20220718 144557.484 INFO             PET0  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 271
+20220718 144557.484 INFO             PET0  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAliasUTest.F90, line 284
+20220718 144557.484 INFO             PET0  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedAliasUTest.F90, line 295
+20220718 144557.484 INFO             PET0  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 303
+20220718 144557.484 INFO             PET0  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 311
+20220718 144557.484 ERROR            PET0 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.484 ERROR            PET0 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET0  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 319
+20220718 144557.485 INFO             PET0  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, line 330
+20220718 144557.485 INFO             PET0  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+20220718 144557.485 INFO             PET0  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 351
+20220718 144557.485 INFO             PET0  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 359
+20220718 144557.485 ERROR            PET0 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.485 ERROR            PET0 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.485 INFO             PET0  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 367
+20220718 144557.486 INFO             PET0  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F90, line 389
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+20220718 144557.486 INFO             PET0  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 410
+20220718 144557.486 INFO             PET0  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAliasUTest.F90, line 423
+20220718 144557.486 INFO             PET0  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAliasUTest.F90, line 434
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 442
+20220718 144557.486 INFO             PET0  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 450
+20220718 144557.486 ERROR            PET0 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET0 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET0  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 458
+20220718 144557.486 INFO             PET0  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, line 469
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+20220718 144557.486 INFO             PET0  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 490
+20220718 144557.486 INFO             PET0  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 498
+20220718 144557.486 ERROR            PET0 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET0 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET0  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 506
+20220718 144557.486 INFO             PET0  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F90, line 528
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+20220718 144557.486 INFO             PET0  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 549
+20220718 144557.486 INFO             PET0  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAliasUTest.F90, line 562
+20220718 144557.486 INFO             PET0  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAliasUTest.F90, line 573
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 581
+20220718 144557.486 INFO             PET0  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 589
+20220718 144557.486 ERROR            PET0 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET0 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET0  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 597
+20220718 144557.486 INFO             PET0  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, line 608
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+20220718 144557.486 INFO             PET0  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 629
+20220718 144557.486 INFO             PET0  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 637
+20220718 144557.486 ERROR            PET0 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET0 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET0  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 645
+20220718 144557.486 INFO             PET0  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 667
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 675
+20220718 144557.486 INFO             PET0  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 688
+20220718 144557.486 INFO             PET0  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 696
+20220718 144557.486 ERROR            PET0 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET0 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET0  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 704
+20220718 144557.486 INFO             PET0  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 715
+20220718 144557.486 INFO             PET0  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 723
+20220718 144557.486 INFO             PET0  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 736
+20220718 144557.486 INFO             PET0  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 744
+20220718 144557.486 ERROR            PET0 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET0 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET0  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 752
+20220718 144557.487 INFO             PET0  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90, line 778
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 786
+20220718 144557.487 INFO             PET0  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 799
+20220718 144557.487 INFO             PET0  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasUTest.F90, line 812
+20220718 144557.487 INFO             PET0  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAliasUTest.F90, line 823
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 831
+20220718 144557.487 INFO             PET0  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 839
+20220718 144557.487 ERROR            PET0 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET0 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET0  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 847
+20220718 144557.487 INFO             PET0  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, line 859
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 867
+20220718 144557.487 INFO             PET0  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 880
+20220718 144557.487 INFO             PET0  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 888
+20220718 144557.487 ERROR            PET0 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET0 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET0  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 896
+20220718 144557.487 INFO             PET0  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 918
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 926
+20220718 144557.487 INFO             PET0  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 939
+20220718 144557.487 INFO             PET0  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 947
+20220718 144557.487 ERROR            PET0 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET0 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET0  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 955
+20220718 144557.487 INFO             PET0  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 966
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 974
+20220718 144557.487 INFO             PET0  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 987
+20220718 144557.487 INFO             PET0  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 995
+20220718 144557.487 ERROR            PET0 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET0 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET0  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 1003
+20220718 144557.487 INFO             PET0  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90, line 1029
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1037
+20220718 144557.487 INFO             PET0  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1050
+20220718 144557.487 INFO             PET0  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasUTest.F90, line 1063
+20220718 144557.487 INFO             PET0  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAliasUTest.F90, line 1074
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1082
+20220718 144557.487 INFO             PET0  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1090
+20220718 144557.487 ERROR            PET0 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET0 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET0  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1098
+20220718 144557.487 INFO             PET0  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, line 1110
+20220718 144557.487 INFO             PET0  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1118
+20220718 144557.487 INFO             PET0  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1131
+20220718 144557.487 INFO             PET0  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1139
+20220718 144557.487 ERROR            PET0 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET0 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET0  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1147
+20220718 144557.487 INFO             PET0  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+20220718 144557.487 INFO             PET0 Finalizing ESMF
+20220718 144557.483 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.484 INFO             PET1 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220718 144557.484 INFO             PET1 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220718 144557.484 INFO             PET1 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220718 144557.484 INFO             PET1 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220718 144557.484 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.484 INFO             PET1 Running with ESMF Version   : v8.4.0b05-10-g2a13bec76f
+20220718 144557.484 INFO             PET1 ESMF library build date/time: "Jul 18 2022" "14:35:22"
+20220718 144557.484 INFO             PET1 ESMF library build location : /project/esmf/rocky/esmf-test-dev/gfortran_11.2.0_openmpi_O_develop/esmf
+20220718 144557.484 INFO             PET1 ESMF_COMM                   : openmpi
+20220718 144557.484 INFO             PET1 ESMF_MOAB                   : enabled
+20220718 144557.484 INFO             PET1 ESMF_LAPACK                 : enabled
+20220718 144557.484 INFO             PET1 ESMF_NETCDF                 : enabled
+20220718 144557.484 INFO             PET1 ESMF_PNETCDF                : disabled
+20220718 144557.484 INFO             PET1 ESMF_PIO                    : enabled
+20220718 144557.484 INFO             PET1 ESMF_YAMLCPP                : enabled
+20220718 144557.484 INFO             PET1  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+20220718 144557.484 INFO             PET1  NUMBER_OF_PROCESSORS           4
+20220718 144557.484 INFO             PET1  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90, line 111
+20220718 144557.484 INFO             PET1  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+20220718 144557.484 INFO             PET1  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 132
+20220718 144557.484 INFO             PET1  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasUTest.F90, line 145
+20220718 144557.484 INFO             PET1  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAliasUTest.F90, line 156
+20220718 144557.484 INFO             PET1  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 164
+20220718 144557.484 INFO             PET1  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 172
+20220718 144557.484 ERROR            PET1 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET1 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET1  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 180
+20220718 144557.484 INFO             PET1  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, line 191
+20220718 144557.484 INFO             PET1  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+20220718 144557.484 INFO             PET1  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 212
+20220718 144557.484 INFO             PET1  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 220
+20220718 144557.484 ERROR            PET1 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET1 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET1  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 228
+20220718 144557.484 INFO             PET1  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F90, line 250
+20220718 144557.484 INFO             PET1  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+20220718 144557.484 INFO             PET1  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 271
+20220718 144557.484 INFO             PET1  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAliasUTest.F90, line 284
+20220718 144557.484 INFO             PET1  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedAliasUTest.F90, line 295
+20220718 144557.484 INFO             PET1  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 303
+20220718 144557.484 INFO             PET1  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 311
+20220718 144557.484 ERROR            PET1 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.484 ERROR            PET1 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET1  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 319
+20220718 144557.485 INFO             PET1  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, line 330
+20220718 144557.485 INFO             PET1  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+20220718 144557.485 INFO             PET1  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 351
+20220718 144557.485 INFO             PET1  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 359
+20220718 144557.485 ERROR            PET1 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.485 ERROR            PET1 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.485 INFO             PET1  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 367
+20220718 144557.486 INFO             PET1  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F90, line 389
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+20220718 144557.486 INFO             PET1  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 410
+20220718 144557.486 INFO             PET1  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAliasUTest.F90, line 423
+20220718 144557.486 INFO             PET1  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAliasUTest.F90, line 434
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 442
+20220718 144557.486 INFO             PET1  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 450
+20220718 144557.486 ERROR            PET1 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET1 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET1  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 458
+20220718 144557.486 INFO             PET1  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, line 469
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+20220718 144557.486 INFO             PET1  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 490
+20220718 144557.486 INFO             PET1  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 498
+20220718 144557.486 ERROR            PET1 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET1 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET1  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 506
+20220718 144557.486 INFO             PET1  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F90, line 528
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+20220718 144557.486 INFO             PET1  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 549
+20220718 144557.486 INFO             PET1  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAliasUTest.F90, line 562
+20220718 144557.486 INFO             PET1  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAliasUTest.F90, line 573
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 581
+20220718 144557.486 INFO             PET1  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 589
+20220718 144557.486 ERROR            PET1 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET1 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET1  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 597
+20220718 144557.486 INFO             PET1  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, line 608
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+20220718 144557.486 INFO             PET1  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 629
+20220718 144557.486 INFO             PET1  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 637
+20220718 144557.486 ERROR            PET1 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET1 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET1  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 645
+20220718 144557.486 INFO             PET1  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 667
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 675
+20220718 144557.486 INFO             PET1  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 688
+20220718 144557.486 INFO             PET1  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 696
+20220718 144557.486 ERROR            PET1 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET1 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET1  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 704
+20220718 144557.486 INFO             PET1  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 715
+20220718 144557.486 INFO             PET1  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 723
+20220718 144557.486 INFO             PET1  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 736
+20220718 144557.486 INFO             PET1  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 744
+20220718 144557.486 ERROR            PET1 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET1 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET1  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 752
+20220718 144557.487 INFO             PET1  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90, line 778
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 786
+20220718 144557.487 INFO             PET1  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 799
+20220718 144557.487 INFO             PET1  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasUTest.F90, line 812
+20220718 144557.487 INFO             PET1  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAliasUTest.F90, line 823
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 831
+20220718 144557.487 INFO             PET1  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 839
+20220718 144557.487 ERROR            PET1 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET1 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET1  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 847
+20220718 144557.487 INFO             PET1  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, line 859
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 867
+20220718 144557.487 INFO             PET1  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 880
+20220718 144557.487 INFO             PET1  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 888
+20220718 144557.487 ERROR            PET1 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET1 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET1  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 896
+20220718 144557.487 INFO             PET1  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 918
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 926
+20220718 144557.487 INFO             PET1  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 939
+20220718 144557.487 INFO             PET1  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 947
+20220718 144557.487 ERROR            PET1 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET1 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET1  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 955
+20220718 144557.487 INFO             PET1  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 966
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 974
+20220718 144557.487 INFO             PET1  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 987
+20220718 144557.487 INFO             PET1  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 995
+20220718 144557.487 ERROR            PET1 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET1 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET1  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 1003
+20220718 144557.487 INFO             PET1  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90, line 1029
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1037
+20220718 144557.487 INFO             PET1  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1050
+20220718 144557.487 INFO             PET1  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasUTest.F90, line 1063
+20220718 144557.487 INFO             PET1  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAliasUTest.F90, line 1074
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1082
+20220718 144557.487 INFO             PET1  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1090
+20220718 144557.487 ERROR            PET1 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET1 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET1  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1098
+20220718 144557.487 INFO             PET1  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, line 1110
+20220718 144557.487 INFO             PET1  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1118
+20220718 144557.487 INFO             PET1  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1131
+20220718 144557.487 INFO             PET1  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1139
+20220718 144557.487 ERROR            PET1 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET1 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET1  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1147
+20220718 144557.487 INFO             PET1  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+20220718 144557.487 INFO             PET1 Finalizing ESMF
+20220718 144557.483 INFO             PET2 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.483 INFO             PET2 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220718 144557.483 INFO             PET2 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220718 144557.483 INFO             PET2 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220718 144557.483 INFO             PET2 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220718 144557.483 INFO             PET2 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.483 INFO             PET2 Running with ESMF Version   : v8.4.0b05-10-g2a13bec76f
+20220718 144557.483 INFO             PET2 ESMF library build date/time: "Jul 18 2022" "14:35:22"
+20220718 144557.483 INFO             PET2 ESMF library build location : /project/esmf/rocky/esmf-test-dev/gfortran_11.2.0_openmpi_O_develop/esmf
+20220718 144557.483 INFO             PET2 ESMF_COMM                   : openmpi
+20220718 144557.483 INFO             PET2 ESMF_MOAB                   : enabled
+20220718 144557.483 INFO             PET2 ESMF_LAPACK                 : enabled
+20220718 144557.483 INFO             PET2 ESMF_NETCDF                 : enabled
+20220718 144557.483 INFO             PET2 ESMF_PNETCDF                : disabled
+20220718 144557.483 INFO             PET2 ESMF_PIO                    : enabled
+20220718 144557.483 INFO             PET2 ESMF_YAMLCPP                : enabled
+20220718 144557.484 INFO             PET2  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+20220718 144557.484 INFO             PET2  NUMBER_OF_PROCESSORS           4
+20220718 144557.484 INFO             PET2  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90, line 111
+20220718 144557.484 INFO             PET2  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+20220718 144557.484 INFO             PET2  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 132
+20220718 144557.484 INFO             PET2  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasUTest.F90, line 145
+20220718 144557.484 INFO             PET2  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAliasUTest.F90, line 156
+20220718 144557.484 INFO             PET2  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 164
+20220718 144557.484 INFO             PET2  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 172
+20220718 144557.484 ERROR            PET2 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET2 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET2  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 180
+20220718 144557.484 INFO             PET2  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, line 191
+20220718 144557.484 INFO             PET2  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+20220718 144557.484 INFO             PET2  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 212
+20220718 144557.484 INFO             PET2  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 220
+20220718 144557.484 ERROR            PET2 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET2 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET2  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 228
+20220718 144557.484 INFO             PET2  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F90, line 250
+20220718 144557.484 INFO             PET2  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+20220718 144557.484 INFO             PET2  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 271
+20220718 144557.484 INFO             PET2  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAliasUTest.F90, line 284
+20220718 144557.484 INFO             PET2  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedAliasUTest.F90, line 295
+20220718 144557.484 INFO             PET2  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 303
+20220718 144557.484 INFO             PET2  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 311
+20220718 144557.484 ERROR            PET2 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.484 ERROR            PET2 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET2  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 319
+20220718 144557.485 INFO             PET2  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, line 330
+20220718 144557.485 INFO             PET2  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+20220718 144557.485 INFO             PET2  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 351
+20220718 144557.485 INFO             PET2  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 359
+20220718 144557.485 ERROR            PET2 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.485 ERROR            PET2 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.485 INFO             PET2  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 367
+20220718 144557.486 INFO             PET2  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F90, line 389
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+20220718 144557.486 INFO             PET2  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 410
+20220718 144557.486 INFO             PET2  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAliasUTest.F90, line 423
+20220718 144557.486 INFO             PET2  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAliasUTest.F90, line 434
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 442
+20220718 144557.486 INFO             PET2  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 450
+20220718 144557.486 ERROR            PET2 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET2 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET2  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 458
+20220718 144557.486 INFO             PET2  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, line 469
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+20220718 144557.486 INFO             PET2  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 490
+20220718 144557.486 INFO             PET2  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 498
+20220718 144557.486 ERROR            PET2 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET2 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET2  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 506
+20220718 144557.486 INFO             PET2  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F90, line 528
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+20220718 144557.486 INFO             PET2  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 549
+20220718 144557.486 INFO             PET2  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAliasUTest.F90, line 562
+20220718 144557.486 INFO             PET2  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAliasUTest.F90, line 573
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 581
+20220718 144557.486 INFO             PET2  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 589
+20220718 144557.486 ERROR            PET2 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET2 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET2  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 597
+20220718 144557.486 INFO             PET2  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, line 608
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+20220718 144557.486 INFO             PET2  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 629
+20220718 144557.486 INFO             PET2  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 637
+20220718 144557.486 ERROR            PET2 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET2 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET2  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 645
+20220718 144557.486 INFO             PET2  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 667
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 675
+20220718 144557.486 INFO             PET2  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 688
+20220718 144557.486 INFO             PET2  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 696
+20220718 144557.486 ERROR            PET2 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET2 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET2  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 704
+20220718 144557.486 INFO             PET2  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 715
+20220718 144557.486 INFO             PET2  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 723
+20220718 144557.486 INFO             PET2  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 736
+20220718 144557.486 INFO             PET2  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 744
+20220718 144557.486 ERROR            PET2 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET2 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET2  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 752
+20220718 144557.487 INFO             PET2  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90, line 778
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 786
+20220718 144557.487 INFO             PET2  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 799
+20220718 144557.487 INFO             PET2  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasUTest.F90, line 812
+20220718 144557.487 INFO             PET2  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAliasUTest.F90, line 823
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 831
+20220718 144557.487 INFO             PET2  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 839
+20220718 144557.487 ERROR            PET2 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET2 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET2  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 847
+20220718 144557.487 INFO             PET2  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, line 859
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 867
+20220718 144557.487 INFO             PET2  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 880
+20220718 144557.487 INFO             PET2  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 888
+20220718 144557.487 ERROR            PET2 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET2 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET2  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 896
+20220718 144557.487 INFO             PET2  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 918
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 926
+20220718 144557.487 INFO             PET2  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 939
+20220718 144557.487 INFO             PET2  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 947
+20220718 144557.487 ERROR            PET2 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET2 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET2  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 955
+20220718 144557.487 INFO             PET2  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 966
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 974
+20220718 144557.487 INFO             PET2  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 987
+20220718 144557.487 INFO             PET2  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 995
+20220718 144557.487 ERROR            PET2 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET2 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET2  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 1003
+20220718 144557.487 INFO             PET2  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90, line 1029
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1037
+20220718 144557.487 INFO             PET2  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1050
+20220718 144557.487 INFO             PET2  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasUTest.F90, line 1063
+20220718 144557.487 INFO             PET2  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAliasUTest.F90, line 1074
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1082
+20220718 144557.487 INFO             PET2  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1090
+20220718 144557.487 ERROR            PET2 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET2 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET2  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1098
+20220718 144557.487 INFO             PET2  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, line 1110
+20220718 144557.487 INFO             PET2  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1118
+20220718 144557.487 INFO             PET2  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1131
+20220718 144557.487 INFO             PET2  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1139
+20220718 144557.487 ERROR            PET2 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET2 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET2  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1147
+20220718 144557.487 INFO             PET2  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+20220718 144557.487 INFO             PET2 Finalizing ESMF
+20220718 144557.483 INFO             PET3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.483 INFO             PET3 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220718 144557.483 INFO             PET3 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220718 144557.483 INFO             PET3 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220718 144557.483 INFO             PET3 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220718 144557.483 INFO             PET3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 144557.483 INFO             PET3 Running with ESMF Version   : v8.4.0b05-10-g2a13bec76f
+20220718 144557.483 INFO             PET3 ESMF library build date/time: "Jul 18 2022" "14:35:22"
+20220718 144557.483 INFO             PET3 ESMF library build location : /project/esmf/rocky/esmf-test-dev/gfortran_11.2.0_openmpi_O_develop/esmf
+20220718 144557.483 INFO             PET3 ESMF_COMM                   : openmpi
+20220718 144557.483 INFO             PET3 ESMF_MOAB                   : enabled
+20220718 144557.483 INFO             PET3 ESMF_LAPACK                 : enabled
+20220718 144557.483 INFO             PET3 ESMF_NETCDF                 : enabled
+20220718 144557.483 INFO             PET3 ESMF_PNETCDF                : disabled
+20220718 144557.483 INFO             PET3 ESMF_PIO                    : enabled
+20220718 144557.483 INFO             PET3 ESMF_YAMLCPP                : enabled
+20220718 144557.484 INFO             PET3  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+20220718 144557.484 INFO             PET3  NUMBER_OF_PROCESSORS           4
+20220718 144557.484 INFO             PET3  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90, line 111
+20220718 144557.484 INFO             PET3  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+20220718 144557.484 INFO             PET3  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 132
+20220718 144557.484 INFO             PET3  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasUTest.F90, line 145
+20220718 144557.484 INFO             PET3  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAliasUTest.F90, line 156
+20220718 144557.484 INFO             PET3  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 164
+20220718 144557.484 INFO             PET3  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 172
+20220718 144557.484 ERROR            PET3 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET3 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET3  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 180
+20220718 144557.484 INFO             PET3  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, line 191
+20220718 144557.484 INFO             PET3  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+20220718 144557.484 INFO             PET3  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, line 212
+20220718 144557.484 INFO             PET3  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, line 220
+20220718 144557.484 ERROR            PET3 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.484 ERROR            PET3 ESMF_StateAPI.cppF90:2117 ESMF_StateGetInfo Invalid argument  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET3  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F90, line 228
+20220718 144557.484 INFO             PET3  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F90, line 250
+20220718 144557.484 INFO             PET3  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+20220718 144557.484 INFO             PET3  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 271
+20220718 144557.484 INFO             PET3  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAliasUTest.F90, line 284
+20220718 144557.484 INFO             PET3  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedAliasUTest.F90, line 295
+20220718 144557.484 INFO             PET3  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 303
+20220718 144557.484 INFO             PET3  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 311
+20220718 144557.484 ERROR            PET3 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.484 ERROR            PET3 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.484 INFO             PET3  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 319
+20220718 144557.485 INFO             PET3  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, line 330
+20220718 144557.485 INFO             PET3  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+20220718 144557.485 INFO             PET3  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F90, line 351
+20220718 144557.485 INFO             PET3  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F90, line 359
+20220718 144557.485 ERROR            PET3 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.485 ERROR            PET3 ESMF_GridComp.F90:1129 ESMF_GridCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.485 INFO             PET3  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTest.F90, line 367
+20220718 144557.486 INFO             PET3  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F90, line 389
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+20220718 144557.486 INFO             PET3  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 410
+20220718 144557.486 INFO             PET3  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAliasUTest.F90, line 423
+20220718 144557.486 INFO             PET3  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAliasUTest.F90, line 434
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 442
+20220718 144557.486 INFO             PET3  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 450
+20220718 144557.486 ERROR            PET3 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET3 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET3  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 458
+20220718 144557.486 INFO             PET3  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, line 469
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+20220718 144557.486 INFO             PET3  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90, line 490
+20220718 144557.486 INFO             PET3  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90, line 498
+20220718 144557.486 ERROR            PET3 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET3 ESMF_CplComp.F90:887 ESMF_CplCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET3  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest.F90, line 506
+20220718 144557.486 INFO             PET3  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F90, line 528
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+20220718 144557.486 INFO             PET3  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 549
+20220718 144557.486 INFO             PET3  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAliasUTest.F90, line 562
+20220718 144557.486 INFO             PET3  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAliasUTest.F90, line 573
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 581
+20220718 144557.486 INFO             PET3  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 589
+20220718 144557.486 ERROR            PET3 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET3 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET3  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 597
+20220718 144557.486 INFO             PET3  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, line 608
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+20220718 144557.486 INFO             PET3  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90, line 629
+20220718 144557.486 INFO             PET3  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90, line 637
+20220718 144557.486 ERROR            PET3 ESMF_Comp.F90:1370 ESMF_CompGet Invalid object  - uninitialized or destroyed Component object.
+20220718 144557.486 ERROR            PET3 ESMF_SciComp.F90:481 ESMF_SciCompGet Invalid object  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET3  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest.F90, line 645
+20220718 144557.486 INFO             PET3  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 667
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 675
+20220718 144557.486 INFO             PET3  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 688
+20220718 144557.486 INFO             PET3  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 696
+20220718 144557.486 ERROR            PET3 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET3 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET3  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 704
+20220718 144557.486 INFO             PET3  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 715
+20220718 144557.486 INFO             PET3  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 723
+20220718 144557.486 INFO             PET3  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest.F90, line 736
+20220718 144557.486 INFO             PET3  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 744
+20220718 144557.486 ERROR            PET3 ESMF_Container.F90:844 ? Object being used after deletion  - Bad Object
+20220718 144557.486 ERROR            PET3 ESMF_FieldBundle.F90:11356 ESMF_FieldBundleGetListAll() Object being used after deletion  - Internal subroutine call returned Error
+20220718 144557.486 INFO             PET3  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasUTest.F90, line 752
+20220718 144557.487 INFO             PET3  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90, line 778
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 786
+20220718 144557.487 INFO             PET3  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 799
+20220718 144557.487 INFO             PET3  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasUTest.F90, line 812
+20220718 144557.487 INFO             PET3  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAliasUTest.F90, line 823
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 831
+20220718 144557.487 INFO             PET3  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 839
+20220718 144557.487 ERROR            PET3 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET3 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET3  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 847
+20220718 144557.487 INFO             PET3  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, line 859
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 867
+20220718 144557.487 INFO             PET3  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, line 880
+20220718 144557.487 INFO             PET3  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, line 888
+20220718 144557.487 ERROR            PET3 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET3 ESMF_FieldGet.F90:890 ESMF_FieldGetDefault Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET3  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F90, line 896
+20220718 144557.487 INFO             PET3  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 918
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 926
+20220718 144557.487 INFO             PET3  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 939
+20220718 144557.487 INFO             PET3  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 947
+20220718 144557.487 ERROR            PET3 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET3 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET3  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 955
+20220718 144557.487 INFO             PET3  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 966
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 974
+20220718 144557.487 INFO             PET3  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 987
+20220718 144557.487 INFO             PET3  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 995
+20220718 144557.487 ERROR            PET3 ESMCI_ArrayBundle_F.C:229 c_esmc_arraybundlegetlistall() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET3 ESMF_ArrayBundle.F90:975 ESMF_ArrayBundleGetListAll() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET3  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 1003
+20220718 144557.487 INFO             PET3  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90, line 1029
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1037
+20220718 144557.487 INFO             PET3  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1050
+20220718 144557.487 INFO             PET3  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasUTest.F90, line 1063
+20220718 144557.487 INFO             PET3  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAliasUTest.F90, line 1074
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1082
+20220718 144557.487 INFO             PET3  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1090
+20220718 144557.487 ERROR            PET3 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET3 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET3  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1098
+20220718 144557.487 INFO             PET3  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, line 1110
+20220718 144557.487 INFO             PET3  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1118
+20220718 144557.487 INFO             PET3  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, line 1131
+20220718 144557.487 INFO             PET3  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, line 1139
+20220718 144557.487 ERROR            PET3 ESMCI_Base_F.C:503 c_esmc_getname() Invalid argument  - not a valid object
+20220718 144557.487 ERROR            PET3 ESMF_ArrayGet.F90:586 ESMF_ArrayGetDefault() Invalid argument  - Internal subroutine call returned Error
+20220718 144557.487 INFO             PET3  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F90, line 1147
+20220718 144557.487 INFO             PET3  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+20220718 144557.487 INFO             PET3 Finalizing ESMF
