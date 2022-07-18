@@ -1,0 +1,22 @@
+2022-07-18 15:34:47
+20220718 165540.287 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 165540.288 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220718 165540.288 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220718 165540.288 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220718 165540.288 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220718 165540.288 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220718 165540.288 INFO             PET0 Running with ESMF Version   : v8.4.0b03
+20220718 165540.288 INFO             PET0 ESMF library build date/time: "Jul 18 2022" "15:29:00"
+20220718 165540.288 INFO             PET0 ESMF library build location : /scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_O_v8.4.0b03/esmf
+20220718 165540.288 INFO             PET0 ESMF_COMM                   : mpiuni
+20220718 165540.288 INFO             PET0 ESMF_MOAB                   : enabled
+20220718 165540.288 INFO             PET0 ESMF_LAPACK                 : enabled
+20220718 165540.288 INFO             PET0 ESMF_NETCDF                 : enabled
+20220718 165540.288 INFO             PET0 ESMF_PNETCDF                : disabled
+20220718 165540.288 INFO             PET0 ESMF_PIO                    : disabled
+20220718 165540.288 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220718 165540.370 DEBUG            PET0 about to destroy Grid: 0xd163a0
+20220718 165540.376 DEBUG            PET0 about to destroy Grid: 0xd18210
+20220718 165540.393 INFO             PET0  NUMBER_OF_PROCESSORS            1
+20220718 165540.394 INFO             PET0  PASS  Example ESMF_NUOPCAtmModelEx, ESMF_NUOPCAtmModelEx.F90, line 806
+20220718 165540.394 INFO             PET0 Finalizing ESMF
