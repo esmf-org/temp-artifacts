@@ -1,16 +1,16 @@
 ESMF hash: v8.4.0b03
-Collection timestamp: 2022-07-18 15:35:21
+Collection timestamp: 2022-07-18 16:55:58
 Build timestamp: 2022-07-18 15:34:47
 Test dir: /scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_O_v8.4.0b03
 Machine: izumi
-Job: 565368
+Job: 565369
 
 RESULTS:
 ================================
 build:			PASS
-unit tests:		NONE
-system tests:		NONE
-example tests:		NONE
+unit tests:		PASS 11504 FAIL 638
+system tests:		PASS 6 FAIL 2
+example tests:		PASS 40 FAIL 3
 nuopc tests:		NONE
 
 
