@@ -1,0 +1,897 @@
+2022-07-20 14:33:35
+  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_NamedAliasUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           4
+  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90,
+  line 111
+  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90,
+  line 111
+  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90,
+  line 111
+  PASS  NamedAlias() with default name for State Test, ESMF_NamedAliasUTest.F90,
+  line 111
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 119
+  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F9
+ 0, line 132
+  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F9
+ 0, line 132
+  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F9
+ 0, line 132
+  PASS  Same default name for NamedAlias for State Test, ESMF_NamedAliasUTest.F9
+ 0, line 132
+  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 145
+  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 145
+  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 145
+  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 156
+  PASS  Name change on NamedAlias for State not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 145
+  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 156
+  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 
+ 164
+  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 156
+  PASS  Name change on NamedAlias for State correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 156
+  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 
+ 164
+  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 
+ 164
+  PASS  NamedAlias is still an Alias State Test, ESMF_NamedAliasUTest.F90, line 
+ 164
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 172
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 172
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 172
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 172
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 180
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 180
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 180
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 180
+  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, lin
+ e 191
+  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, lin
+ e 191
+  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, lin
+ e 191
+  PASS  NamedAlias() with new name for State Test, ESMF_NamedAliasUTest.F90, lin
+ e 191
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+  PASS  NamedAlias is an Alias State Test, ESMF_NamedAliasUTest.F90, line 199
+  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, 
+ line 212
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 220
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 228
+  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F
+ 90, line 250
+  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, 
+ line 212
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 220
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 228
+  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F
+ 90, line 250
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest
+ .F90, line 271
+  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAli
+ asUTest.F90, line 284
+  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedA
+ liasUTest.F90, line 295
+  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, li
+ ne 303
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 311
+  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, 
+ line 212
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 220
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 228
+  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F
+ 90, line 250
+  PASS  Different name for NamedAlias for State Test, ESMF_NamedAliasUTest.F90, 
+ line 212
+  PASS  Destroy object through NamedAlias State Test, ESMF_NamedAliasUTest.F90, 
+ line 220
+  PASS  Destroying NamedAlias destroys object State Test, ESMF_NamedAliasUTest.F
+ 90, line 228
+  PASS  NamedAlias() with default name for GridComp Test, ESMF_NamedAliasUTest.F
+ 90, line 250
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest
+ .F90, line 271
+  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAli
+ asUTest.F90, line 284
+  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedA
+ liasUTest.F90, line 295
+  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, li
+ ne 303
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 311
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 319
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 319
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 258
+  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest
+ .F90, line 271
+  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAli
+ asUTest.F90, line 284
+  PASS  Same default name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest
+ .F90, line 271
+  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedA
+ liasUTest.F90, line 295
+  PASS  Name change on NamedAlias for GridComp not affecting Test, ESMF_NamedAli
+ asUTest.F90, line 284
+  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, li
+ ne 303
+  PASS  Name change on NamedAlias for GridComp correct setting Test, ESMF_NamedA
+ liasUTest.F90, line 295
+  PASS  NamedAlias is still an Alias GridComp Test, ESMF_NamedAliasUTest.F90, li
+ ne 303
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 311
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 311
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 319
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 319
+  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, 
+ line 330
+  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, 
+ line 330
+  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, 
+ line 330
+  PASS  NamedAlias() with new name for GridComp Test, ESMF_NamedAliasUTest.F90, 
+ line 330
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+  PASS  NamedAlias is an Alias GridComp Test, ESMF_NamedAliasUTest.F90, line 338
+  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 351
+  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 351
+  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 351
+  PASS  Different name for NamedAlias for GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 351
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 359
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 359
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 359
+  PASS  Destroy object through NamedAlias GridComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 359
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 367
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 367
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 367
+  PASS  Destroying NamedAlias destroys object GridComp Test, ESMF_NamedAliasUTes
+ t.F90, line 367
+  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 389
+  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 389
+  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 389
+  PASS  NamedAlias() with default name for CplComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 389
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 397
+  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.
+ F90, line 410
+  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.
+ F90, line 410
+  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.
+ F90, line 410
+  PASS  Same default name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.
+ F90, line 410
+  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 423
+  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 423
+  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 423
+  PASS  Name change on NamedAlias for CplComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 423
+  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 434
+  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 434
+  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 434
+  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 442
+  PASS  Name change on NamedAlias for CplComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 434
+  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 442
+  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 442
+  PASS  NamedAlias is still an Alias CplComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 442
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 450
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 450
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 450
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 450
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 458
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 458
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 458
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 458
+  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 469
+  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 469
+  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 469
+  PASS  NamedAlias() with new name for CplComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 469
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+  PASS  NamedAlias is an Alias CplComp Test, ESMF_NamedAliasUTest.F90, line 477
+  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 490
+  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 490
+  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 490
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 498
+  PASS  Different name for NamedAlias for CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 490
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 498
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 498
+  PASS  Destroy object through NamedAlias CplComp Test, ESMF_NamedAliasUTest.F90
+ , line 498
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 506
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 506
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 506
+  PASS  Destroying NamedAlias destroys object CplComp Test, ESMF_NamedAliasUTest
+ .F90, line 506
+  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 528
+  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 528
+  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 528
+  PASS  NamedAlias() with default name for SciComp Test, ESMF_NamedAliasUTest.F9
+ 0, line 528
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.
+ F90, line 549
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 536
+  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.
+ F90, line 549
+  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.
+ F90, line 549
+  PASS  Same default name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.
+ F90, line 549
+  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 562
+  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 573
+  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 562
+  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 573
+  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 562
+  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 573
+  PASS  Name change on NamedAlias for SciComp not affecting Test, ESMF_NamedAlia
+ sUTest.F90, line 562
+  PASS  Name change on NamedAlias for SciComp correct setting Test, ESMF_NamedAl
+ iasUTest.F90, line 573
+  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 581
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 589
+  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 581
+  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 581
+  PASS  NamedAlias is still an Alias SciComp Test, ESMF_NamedAliasUTest.F90, lin
+ e 581
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 589
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 589
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 589
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 597
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 597
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 597
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 597
+  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 608
+  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 608
+  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 608
+  PASS  NamedAlias() with new name for SciComp Test, ESMF_NamedAliasUTest.F90, l
+ ine 608
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+  PASS  NamedAlias is an Alias SciComp Test, ESMF_NamedAliasUTest.F90, line 616
+  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 629
+  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 629
+  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 629
+  PASS  Different name for NamedAlias for SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 629
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 637
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 637
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 637
+  PASS  Destroy object through NamedAlias SciComp Test, ESMF_NamedAliasUTest.F90
+ , line 637
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 645
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 645
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 645
+  PASS  Destroying NamedAlias destroys object SciComp Test, ESMF_NamedAliasUTest
+ .F90, line 645
+  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 668
+  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 668
+  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 668
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 676
+  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUT
+ est.F90, line 689
+  PASS  NamedAlias() with default name for FieldBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 668
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 676
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 676
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 676
+  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUT
+ est.F90, line 689
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 697
+  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUT
+ est.F90, line 689
+  PASS  Same default name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUT
+ est.F90, line 689
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 697
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 697
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 697
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 705
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 705
+  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 716
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 705
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 705
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 724
+  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 716
+  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 716
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 724
+  PASS  NamedAlias() with new name for FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 716
+  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 737
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 724
+  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 737
+  PASS  NamedAlias is an Alias FieldBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 724
+  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 737
+  PASS  Different name for NamedAlias for FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 737
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 748
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 748
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 748
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 748
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 756
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 756
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 764
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 756
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 756
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 764
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 764
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 764
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 775
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 775
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 775
+  PASS  Destroy object through NamedAlias FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 775
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 783
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 783
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 783
+  PASS  Destroying NamedAlias destroys object FieldBundle Test, ESMF_NamedAliasU
+ Test.F90, line 783
+  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90,
+  line 810
+  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90,
+  line 810
+  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90,
+  line 810
+  PASS  NamedAlias() with default name for Field Test, ESMF_NamedAliasUTest.F90,
+  line 810
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 818
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 818
+  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F9
+ 0, line 831
+  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F9
+ 0, line 831
+  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 844
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 818
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 818
+  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 844
+  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F9
+ 0, line 831
+  PASS  Same default name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F9
+ 0, line 831
+  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 855
+  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 
+ 863
+  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 855
+  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 
+ 863
+  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 844
+  PASS  Name change on NamedAlias for Field not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 844
+  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 855
+  PASS  Name change on NamedAlias for Field correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 855
+  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 
+ 863
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 874
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 874
+  PASS  NamedAlias is still an Alias Field Test, ESMF_NamedAliasUTest.F90, line 
+ 863
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 882
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 882
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 874
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 874
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 882
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 890
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 882
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 890
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 890
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 890
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 901
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 901
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 901
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 901
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 909
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 909
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 909
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 909
+  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, lin
+ e 921
+  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, lin
+ e 921
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 929
+  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, lin
+ e 921
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 929
+  PASS  NamedAlias() with new name for Field Test, ESMF_NamedAliasUTest.F90, lin
+ e 921
+  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, 
+ line 942
+  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, 
+ line 942
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 953
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 929
+  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, 
+ line 942
+  PASS  NamedAlias is an Alias Field Test, ESMF_NamedAliasUTest.F90, line 929
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 953
+  PASS  Different name for NamedAlias for Field Test, ESMF_NamedAliasUTest.F90, 
+ line 942
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 961
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 961
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 953
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 969
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 953
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 961
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 969
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 980
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 961
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 969
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 980
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 980
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 969
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 988
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 988
+  PASS  Destroy object through NamedAlias Field Test, ESMF_NamedAliasUTest.F90, 
+ line 980
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 988
+  PASS  Destroying NamedAlias destroys object Field Test, ESMF_NamedAliasUTest.F
+ 90, line 988
+  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 1011
+  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 1011
+  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 1011
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1019
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1019
+  PASS  NamedAlias() with default name for ArrayBundle Test, ESMF_NamedAliasUTes
+ t.F90, line 1011
+  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUT
+ est.F90, line 1032
+  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUT
+ est.F90, line 1032
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1019
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1019
+  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUT
+ est.F90, line 1032
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1040
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1040
+  PASS  Same default name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUT
+ est.F90, line 1032
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1040
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1040
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1048
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1048
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1048
+  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1059
+  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1059
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1048
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1067
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1067
+  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1080
+  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1059
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1067
+  PASS  NamedAlias() with new name for ArrayBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1059
+  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1080
+  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1080
+  PASS  NamedAlias is an Alias ArrayBundle Test, ESMF_NamedAliasUTest.F90, line 
+ 1067
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1091
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1091
+  PASS  Different name for NamedAlias for ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1080
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1099
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1091
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1099
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1091
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1107
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1107
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1099
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1099
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1107
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1118
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1118
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1107
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1118
+  PASS  Destroy object through NamedAlias ArrayBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1118
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1126
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1126
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1126
+  PASS  Destroying NamedAlias destroys object ArrayBundle Test, ESMF_NamedAliasU
+ Test.F90, line 1126
+  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90,
+  line 1153
+  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90,
+  line 1153
+  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90,
+  line 1153
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1161
+  PASS  NamedAlias() with default name for Array Test, ESMF_NamedAliasUTest.F90,
+  line 1153
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1161
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1161
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1161
+  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F9
+ 0, line 1174
+  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F9
+ 0, line 1174
+  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F9
+ 0, line 1174
+  PASS  Same default name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F9
+ 0, line 1174
+  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 1187
+  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 1187
+  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 1187
+  PASS  Name change on NamedAlias for Array not affecting Test, ESMF_NamedAliasU
+ Test.F90, line 1187
+  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 1198
+  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 1198
+  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 1198
+  PASS  Name change on NamedAlias for Array correct setting Test, ESMF_NamedAlia
+ sUTest.F90, line 1198
+  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 
+ 1206
+  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 
+ 1206
+  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 
+ 1206
+  PASS  NamedAlias is still an Alias Array Test, ESMF_NamedAliasUTest.F90, line 
+ 1206
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1217
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1217
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1217
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1217
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1225
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1225
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1225
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1233
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1225
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1233
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1233
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1244
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1233
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1244
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1244
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1244
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1252
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1252
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1252
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1252
+  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, lin
+ e 1264
+  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, lin
+ e 1264
+  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, lin
+ e 1264
+  PASS  NamedAlias() with new name for Array Test, ESMF_NamedAliasUTest.F90, lin
+ e 1264
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1272
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1272
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1272
+  PASS  NamedAlias is an Alias Array Test, ESMF_NamedAliasUTest.F90, line 1272
+  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1285
+  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1285
+  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1285
+  PASS  Different name for NamedAlias for Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1285
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1296
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1296
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1296
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1304
+  PASS  Add Alias and NamedAlias to State FieldBundle Test, ESMF_NamedAliasUTest
+ .F90, line 1296
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1304
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1304
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1312
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1312
+  PASS  Retrieve Alias from State FieldBundle Test, ESMF_NamedAliasUTest.F90, li
+ ne 1304
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1312
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1323
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1323
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1323
+  PASS  Retrieve NamedAlias from State FieldBundle Test, ESMF_NamedAliasUTest.F9
+ 0, line 1312
+  PASS  Destroy object through NamedAlias Array Test, ESMF_NamedAliasUTest.F90, 
+ line 1323
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1331
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1331
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1331
+  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+  PASS  Destroying NamedAlias destroys object Array Test, ESMF_NamedAliasUTest.F
+ 90, line 1331
+  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+  Ending Test, file ESMF_NamedAliasUTest.F90, line 94
+  PET           1  Test Elapsed Time    13.5410000000000       msec.
+  PET           0  Test Elapsed Time    14.0440000000000       msec.
+  PET           2  Test Elapsed Time    14.1540000000000       msec.
+  PET           3  Test Elapsed Time    13.7470000000000       msec.
