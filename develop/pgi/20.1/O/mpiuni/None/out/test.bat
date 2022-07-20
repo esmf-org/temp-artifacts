@@ -10,6 +10,7 @@ module load compiler/pgi/20.1
 module load tool/netcdf/4.7.4/pgi/20.1
 
 set -x
+export TMPDIR=/scratch/cluster/dunlap/tmp
 export ESMF_DIR=/scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_O_develop/esmf
 export ESMF_COMPILER=pgi
 export ESMF_COMM=mpiuni
