@@ -1,2 +1,0 @@
-2022-07-15 18:38:41
-/scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_g_develop/esmf/src/Infrastructure/stubs/mpiuni/mpirun: line 43: 138866 Segmentation fault      (core dumped) $progname $*

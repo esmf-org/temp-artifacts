@@ -10,6 +10,7 @@ module load compiler/pgi/20.1
 module load tool/netcdf/4.7.4/pgi/20.1
 
 set -x
+export TMPDIR=/scratch/cluster/dunlap/tmp
 export ESMF_DIR=/scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_g_develop/esmf
 export ESMF_COMPILER=pgi
 export ESMF_COMM=mpiuni
@@ -20,6 +21,6 @@ export ESMF_TESTWITHTHREADS='ON'
 export ESMF_MPIRUN=/scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_g_develop/esmf/src/Infrastructure/stubs/mpiuni/mpirun
 module list >& /scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_g_develop/module-build.log
 cd /scratch/cluster/dunlap/esmf-test-dev/pgi_20.1_mpiuni_g_develop/esmf
+set -o pipefail
 make info 2>&1| tee ../info.log
-set -e
 make -j 48 2>&1| tee ../build.log
