@@ -1,0 +1,111 @@
+2022-07-20 14:37:03
+0:Beginning Test, file ESMC_FieldRegridUTest.C, line 68
+0:Beginning Test, file ESMC_FieldRegridUTest.C, line 68NUMBER_OF_PROCESSORS 1
+0:PASS MeshCreate, ESMC_FieldRegridUTest.C, line 125
+0:PASS MeshAddNodes, ESMC_FieldRegridUTest.C, line 133
+0:PASS MeshAddElements, ESMC_FieldRegridUTest.C, line 142
+0:PASS MeshGetNodeCount, ESMC_FieldRegridUTest.C, line 152
+0:PASS MeshGetElementCount, ESMC_FieldRegridUTest.C, line 163
+0:PASS MeshCreate, ESMC_FieldRegridUTest.C, line 231
+0:PASS MeshAddNodes, ESMC_FieldRegridUTest.C, line 239
+0:PASS MeshAddElements, ESMC_FieldRegridUTest.C, line 248
+0:PASS MeshGetNodeCount, ESMC_FieldRegridUTest.C, line 258
+0:PASS MeshGetElementCount, ESMC_FieldRegridUTest.C, line 269
+0:PASS Create ESMC_Field object, ESMC_FieldRegridUTest.C, line 284
+0:PASS Create ESMC_Field object, ESMC_FieldRegridUTest.C, line 293
+0:PASS Get a void * C pointer to data from ESMC_Field object, ESMC_FieldRegridUTest.C, line 306
+0:PASS Get a void * C pointer to data from ESMC_Field object, ESMC_FieldRegridUTest.C, line 325
+0:PASS Create an InterArray for maskValues in ESMC_FieldRegridStore(), ESMC_FieldRegridUTest.C, line 343
+0:FAIL Create an ESMC_RouteHandle via ESMC_FieldRegridStore(), ESMC_FieldRegridUTest.C, line 367
+0:MPT ERROR: Rank 0(g:0) received signal SIGSEGV(11).
+0:	Process ID: 14180, Host: r4i5n5, Program: /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux.intel.64.mpt.default/ESMC_FieldRegridUTest
+0:	MPT Version: HPE MPT 2.19  02/23/19 05:30:09
+0:
+0:MPT: --------stack traceback-------
+0:MPT: Attaching to program: /proc/14180/exe, process 14180
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libimf.so)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: Try: zypper install -C "debuginfo(build-id)=9fa703da2a52d78cc49877c18843db7b1ad9049b"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libpthread.so.0)
+0:MPT: [Thread debugging using libthread_db enabled]
+0:MPT: Using host libthread_db library "/glade/u/apps/ch/os/lib64/libthread_db.so.1".
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libifport.so.5)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libifcoremt.so.5)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libsvml.so)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libintlc.so.5)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libgcc_s.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=c7e890ab90e29cffd785bf25e7d90f2f0af3a102"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libgcc_s.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libm.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=cc12cf31ea4a157ebc7ac7bdfc09d5bfa3e0f3e0"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libm.so.6)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libdl.so.2
+0:MPT: Try: zypper install -C "debuginfo(build-id)=86536433e7d5a205deca926f6f00436b2ff206b1"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libdl.so.2)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/librt.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=e12cd7e73c31cb8765cba03a3c2f9efc2d043ff8"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/librt.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=61af2264d919698714bfc2b7fe9c7a0d352e7b94"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libc.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=72aaaa4006e91624304a210a7f945b61d3d643b4"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libc.so.6)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libirng.so)
+0:MPT: (No debugging symbols found in /lib64/ld-linux-x86-64.so.2)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=ad6d98e9e3042e77c051f1f27e971460bf1e428b"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200
+0:MPT: Try: zypper install -C "debuginfo(build-id)=4c08f43bb18e99a7df4bad5c4a52bac67ddf9b8d"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200
+0:MPT: Try: zypper install -C "debuginfo(build-id)=3ae04b58bd81ea7745dba789d89937e719309568"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so
+0:MPT: Try: zypper install -C "debuginfo(build-id)=76d8c012144838e4e5466798858289fba2057537"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so
+0:MPT: Try: zypper install -C "debuginfo(build-id)=ba8002518966160a27c335e04ce8932989f69056"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so)
+0:MPT: 0x00002b2ab06217da in waitpid ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: Missing separate debuginfos, use: zypper install glibc-debuginfo-2.22-100.27.3.x86_64
+0:MPT: (gdb) #0  0x00002b2ab06217da in waitpid ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: #1  0x00002b2ab3ddcdb6 in mpi_sgi_system (
+0:MPT: #2  MPI_SGI_stacktraceback (
+0:MPT:     header=header@entry=0x7ffee3622040 "MPT ERROR: Rank 0(g:0) received signal SIGSEGV(11).\n\tProcess ID: 14180, Host: r4i5n5, Program: /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux"...) at sig.c:340
+0:MPT: #3  0x00002b2ab3ddcfb2 in first_arriver_handler (signo=signo@entry=11, 
+0:MPT:     stack_trace_sem=stack_trace_sem@entry=0x2b2ab5ae0080) at sig.c:489
+0:MPT: #4  0x00002b2ab3ddd34b in slave_sig_handler (signo=11, 
+0:MPT:     siginfo=<optimized out>, extra=<optimized out>) at sig.c:564
+0:MPT: #5  <signal handler called>
+0:MPT: #6  ESMCI::Array::sparseMatMul(ESMCI::Array*, ESMCI::Array*, ESMCI::RouteHandle**, ESMC_CommFlag, bool*, bool*, ESMC_Region_Flag, ESMC_TermOrder_Flag, bool, bool) ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/include/ESMCI_RHandle.h:100
+0:MPT: #7  0x00002b2aad5ac599 in c_esmc_arraysmm_ ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/Infrastructure/Array/interface/ESMCI_Array_F.C:1254
+0:MPT: #8  0x00002b2aae07a061 in esmf_arraymod_mp_esmf_arraysmm_ ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/Infrastructure/Array/interface/ESMF_Array.F90:932
+0:MPT: #9  0x00002b2aae3e52be in esmf_fieldregridmod_mp_esmf_fieldregrid_ ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/Infrastructure/Field/src/ESMF_FieldRegrid.F90:236
+0:MPT: #10 0x00002b2aae294c3a in f_esmf_regrid_ ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/Infrastructure/Field/interface/ESMF_Field_C.F90:911
+0:MPT: #11 0x00002b2aad91ecaf in ESMCI::Field::regrid(ESMCI::Field*, ESMCI::Field*, ESMCI::RouteHandle*, ESMC_Region_Flag*) ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/Infrastructure/Field/interface/ESMCI_Field.C:1647
+0:MPT: #12 0x00002b2aad58de5d in ESMC_FieldRegrid ()
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/src/Infrastructure/Field/interface/ESMC_Field.C:556
+0:MPT: #13 0x000000000040ab75 in main () at ESMC_FieldRegridUTest.C:374
+0:MPT: (gdb) A debugging session is active.
+0:MPT: 
+0:MPT: 	Inferior 1 [process 14180] will be detached.
+0:MPT: 
+0:MPT: Quit anyway? (y or n) [answered Y; input not from terminal]
+0:MPT: Detaching from program: /proc/14180/exe, process 14180
+0:MPT: [Inferior 1 (process 14180) detached]
+0:
+0:MPT: -----stack traceback ends-----
+0:MPT: On host r4i5n5, Program /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux.intel.64.mpt.default/ESMC_FieldRegridUTest, Rank 0, Process 14180: Dumping core on signal SIGSEGV(11) into directory /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux.intel.64.mpt.default
+-1:MPT ERROR: MPI_COMM_WORLD rank 0 has terminated without calling MPI_Finalize()
+-1:	aborting job
+MPT: Received signal 11

@@ -1,0 +1,183 @@
+2022-07-20 14:37:03
+2:Beginning Test, file ESMC_InfoUTest.C, line 1418
+2:Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+0:Beginning Test, file ESMC_InfoUTest.C, line 1418
+0:Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+3:Beginning Test, file ESMC_InfoUTest.C, line 1418
+3:Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+1:Beginning Test, file ESMC_InfoUTest.C, line 1418
+0:PASS testConstructor, ESMC_InfoUTest.C, line 1425
+2:PASS testConstructor, ESMC_InfoUTest.C, line 1425
+1:Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+3:PASS testConstructor, ESMC_InfoUTest.C, line 1425
+1:PASS testConstructor, ESMC_InfoUTest.C, line 1425
+0:PASS testErase, ESMC_InfoUTest.C, line 1432
+2:PASS testErase, ESMC_InfoUTest.C, line 1432
+1:PASS testErase, ESMC_InfoUTest.C, line 1432
+3:PASS testErase, ESMC_InfoUTest.C, line 1432
+0:PASS testSetGet, ESMC_InfoUTest.C, line 1439
+1:PASS testSetGet, ESMC_InfoUTest.C, line 1439
+2:PASS testSetGet, ESMC_InfoUTest.C, line 1439
+3:PASS testSetGet, ESMC_InfoUTest.C, line 1439
+2:PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+3:PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+2:PASS testUpdate, ESMC_InfoUTest.C, line 1453
+3:PASS testUpdate, ESMC_InfoUTest.C, line 1453
+2:PASS testHasKey, ESMC_InfoUTest.C, line 1460
+3:PASS testHasKey, ESMC_InfoUTest.C, line 1460
+2:PASS testGet, ESMC_InfoUTest.C, line 1467
+3:PASS testGet, ESMC_InfoUTest.C, line 1467
+1:PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+1:PASS testUpdate, ESMC_InfoUTest.C, line 1453
+1:PASS testHasKey, ESMC_InfoUTest.C, line 1460
+0:PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+1:PASS testGet, ESMC_InfoUTest.C, line 1467
+0:PASS testUpdate, ESMC_InfoUTest.C, line 1453
+0:PASS testHasKey, ESMC_InfoUTest.C, line 1460
+1:PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+2:PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+3:PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+1:PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+0:PASS testGet, ESMC_InfoUTest.C, line 1467
+2:PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+3:PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+1:PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+2:PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+3:PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+0:PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+1:PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+2:PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+3:PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+0:PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+0:PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+0:PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+1:PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+2:PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+3:PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+0:PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+1:PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+2:PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+3:PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+2:PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+3:PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+1:PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+0:PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+0:PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+3:PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+1:PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+2:PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+0:PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+0:PASS testInquire, ESMC_InfoUTest.C, line 1530
+1:PASS testInquire, ESMC_InfoUTest.C, line 1530
+3:PASS testInquire, ESMC_InfoUTest.C, line 1530
+2:PASS testInquire, ESMC_InfoUTest.C, line 1530
+0:PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+1:PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+2:PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+3:PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+2:PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+3:PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+0:PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+1:PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+2:PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+3:PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+0:PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+1:PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+3:terminate called after throwing an instance of 'ESMCI::esmc_error'
+0:terminate called after throwing an instance of 'ESMCI::esmc_error'
+1:terminate called after throwing an instance of 'ESMCI::esmc_error'
+2:terminate called after throwing an instance of 'ESMCI::esmc_error'
+0:  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+3:  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+1:  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+2:  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+0:MPT ERROR: Rank 0(g:0) received signal SIGABRT/SIGIOT(6).
+0:	Process ID: 38734, Host: r4i5n5, Program: /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux.intel.64.mpt.default/ESMC_InfoUTest
+0:	MPT Version: HPE MPT 2.19  02/23/19 05:30:09
+0:
+0:MPT: --------stack traceback-------
+0:MPT: Attaching to program: /proc/38734/exe, process 38734
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libimf.so)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: Try: zypper install -C "debuginfo(build-id)=9fa703da2a52d78cc49877c18843db7b1ad9049b"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libpthread.so.0)
+0:MPT: [Thread debugging using libthread_db enabled]
+0:MPT: Using host libthread_db library "/glade/u/apps/ch/os/lib64/libthread_db.so.1".
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libifport.so.5)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libifcoremt.so.5)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libsvml.so)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libintlc.so.5)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libgcc_s.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=c7e890ab90e29cffd785bf25e7d90f2f0af3a102"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libgcc_s.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libm.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=cc12cf31ea4a157ebc7ac7bdfc09d5bfa3e0f3e0"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libm.so.6)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libdl.so.2
+0:MPT: Try: zypper install -C "debuginfo(build-id)=86536433e7d5a205deca926f6f00436b2ff206b1"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libdl.so.2)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/librt.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=e12cd7e73c31cb8765cba03a3c2f9efc2d043ff8"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/librt.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=61af2264d919698714bfc2b7fe9c7a0d352e7b94"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libc.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=72aaaa4006e91624304a210a7f945b61d3d643b4"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libc.so.6)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries_2018.5.274/linux/compiler/lib/intel64_lin/libirng.so)
+0:MPT: (No debugging symbols found in /lib64/ld-linux-x86-64.so.2)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=ad6d98e9e3042e77c051f1f27e971460bf1e428b"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200
+0:MPT: Try: zypper install -C "debuginfo(build-id)=4c08f43bb18e99a7df4bad5c4a52bac67ddf9b8d"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200
+0:MPT: Try: zypper install -C "debuginfo(build-id)=3ae04b58bd81ea7745dba789d89937e719309568"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so
+0:MPT: Try: zypper install -C "debuginfo(build-id)=76d8c012144838e4e5466798858289fba2057537"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so
+0:MPT: Try: zypper install -C "debuginfo(build-id)=ba8002518966160a27c335e04ce8932989f69056"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so)
+0:MPT: 0x00002aff353867da in waitpid ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: Missing separate debuginfos, use: zypper install glibc-debuginfo-2.22-100.27.3.x86_64
+0:MPT: (gdb) #0  0x00002aff353867da in waitpid ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: #1  0x00002aff38b41db6 in mpi_sgi_system (
+0:MPT: #2  MPI_SGI_stacktraceback (
+0:MPT:     header=header@entry=0x7ffd6f473bc0 "MPT ERROR: Rank 0(g:0) received signal SIGABRT/SIGIOT(6).\n\tProcess ID: 38734, Host: r4i5n5, Program: /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO"...) at sig.c:340
+0:MPT: #3  0x00002aff38b41fb2 in first_arriver_handler (signo=signo@entry=6, 
+0:MPT:     stack_trace_sem=stack_trace_sem@entry=0x2aff3b440080) at sig.c:489
+0:MPT: #4  0x00002aff38b4234b in slave_sig_handler (signo=6, 
+0:MPT:     siginfo=<optimized out>, extra=<optimized out>) at sig.c:564
+0:MPT: #5  <signal handler called>
+0:MPT: #6  0x00002aff392242a7 in raise () from /glade/u/apps/ch/os/lib64/libc.so.6
+0:MPT: #7  0x00002aff3922567a in abort () from /glade/u/apps/ch/os/lib64/libc.so.6
+0:MPT: #8  0x00002aff38eacb2b in ?? ()
+0:MPT:    from /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: #9  0x00002aff38eb8438 in ?? ()
+0:MPT:    from /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: #10 0x00002aff38eb84a3 in std::terminate() ()
+0:MPT:    from /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: #11 0x00002aff38eb86f4 in __cxa_throw ()
+0:MPT:    from /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: #12 0x00000000004235c1 in testGetInfoObject(int&, char*) ()
+0:MPT:     at ESMC_InfoUTest.C:453
+0:MPT: #13 0x0000000000413093 in main () at ESMC_InfoUTest.C:1557
+0:MPT: (gdb) A debugging session is active.
+0:MPT: 
+0:MPT: 	Inferior 1 [process 38734] will be detached.
+0:MPT: 
+0:MPT: Quit anyway? (y or n) [answered Y; input not from terminal]
+0:MPT: Detaching from program: /proc/38734/exe, process 38734
+0:MPT: [Inferior 1 (process 38734) detached]
+0:
+0:MPT: -----stack traceback ends-----
+0:MPT: On host r4i5n5, Program /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux.intel.64.mpt.default/ESMC_InfoUTest, Rank 0, Process 38734: Dumping core on signal SIGABRT/SIGIOT(6) into directory /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf/test/testO/Linux.intel.64.mpt.default
+-1:MPT ERROR: MPI_COMM_WORLD rank 0 has terminated without calling MPI_Finalize()
+-1:	aborting job
+MPT: Received signal 6

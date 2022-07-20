@@ -1,0 +1,169 @@
+2022-07-20 14:37:03
+20220720 150851.105 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220720 150851.105 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220720 150851.105 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220720 150851.105 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220720 150851.105 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET0 Running with ESMF Version   : v8.4.0b01-4-gf4d45872d8
+20220720 150851.105 INFO             PET0 ESMF library build date/time: "Jul 20 2022" "14:31:29"
+20220720 150851.105 INFO             PET0 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf
+20220720 150851.105 INFO             PET0 ESMF_COMM                   : mpt
+20220720 150851.105 INFO             PET0 ESMF_MOAB                   : enabled
+20220720 150851.105 INFO             PET0 ESMF_LAPACK                 : enabled
+20220720 150851.105 INFO             PET0 ESMF_NETCDF                 : enabled
+20220720 150851.105 INFO             PET0 ESMF_PNETCDF                : disabled
+20220720 150851.105 INFO             PET0 ESMF_PIO                    : enabled
+20220720 150851.105 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220720 150851.106 INFO             PET0  Beginning Test, file ESMF_FieldRegridXGUTest.F90, line 51
+20220720 150851.106 INFO             PET0  NUMBER_OF_PROCESSORS           4
+20220720 150851.106 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 62
+20220720 150851.106 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 70
+20220720 150851.128 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 78
+20220720 150851.144 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 86
+20220720 150851.159 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 94
+20220720 150851.178 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 102
+20220720 150851.178 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 110
+20220720 150851.178 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 118
+20220720 150851.350 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 126
+20220720 150851.522 INFO             PET0  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 134
+20220720 150851.522 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 142
+20220720 150851.522 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 150
+20220720 150851.522 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 158
+20220720 150851.558 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 166
+20220720 150851.602 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 174
+20220720 150851.650 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 182
+20220720 150851.964 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 190
+20220720 150852.294 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 198
+20220720 150852.669 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 207
+20220720 150853.046 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 216
+20220720 150853.567 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 224
+20220720 150854.089 INFO             PET0  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 233
+20220720 150854.089 INFO             PET0  Ending Test, file ESMF_FieldRegridXGUTest.F90, line 235
+20220720 150854.089 INFO             PET0 Finalizing ESMF
+20220720 150851.105 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET1 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220720 150851.105 INFO             PET1 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220720 150851.105 INFO             PET1 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220720 150851.105 INFO             PET1 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220720 150851.105 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET1 Running with ESMF Version   : v8.4.0b01-4-gf4d45872d8
+20220720 150851.105 INFO             PET1 ESMF library build date/time: "Jul 20 2022" "14:31:29"
+20220720 150851.105 INFO             PET1 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf
+20220720 150851.105 INFO             PET1 ESMF_COMM                   : mpt
+20220720 150851.105 INFO             PET1 ESMF_MOAB                   : enabled
+20220720 150851.105 INFO             PET1 ESMF_LAPACK                 : enabled
+20220720 150851.105 INFO             PET1 ESMF_NETCDF                 : enabled
+20220720 150851.105 INFO             PET1 ESMF_PNETCDF                : disabled
+20220720 150851.105 INFO             PET1 ESMF_PIO                    : enabled
+20220720 150851.105 INFO             PET1 ESMF_YAMLCPP                : enabled
+20220720 150851.106 INFO             PET1  Beginning Test, file ESMF_FieldRegridXGUTest.F90, line 51
+20220720 150851.106 INFO             PET1  NUMBER_OF_PROCESSORS           4
+20220720 150851.106 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 62
+20220720 150851.106 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 70
+20220720 150851.128 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 78
+20220720 150851.144 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 86
+20220720 150851.159 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 94
+20220720 150851.178 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 102
+20220720 150851.178 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 110
+20220720 150851.178 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 118
+20220720 150851.350 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 126
+20220720 150851.522 INFO             PET1  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 134
+20220720 150851.522 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 142
+20220720 150851.522 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 150
+20220720 150851.522 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 158
+20220720 150851.558 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 166
+20220720 150851.602 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 174
+20220720 150851.650 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 182
+20220720 150851.964 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 190
+20220720 150852.294 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 198
+20220720 150852.669 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 207
+20220720 150853.046 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 216
+20220720 150853.567 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 224
+20220720 150854.089 INFO             PET1  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 233
+20220720 150854.089 INFO             PET1  Ending Test, file ESMF_FieldRegridXGUTest.F90, line 235
+20220720 150854.089 INFO             PET1 Finalizing ESMF
+20220720 150851.105 INFO             PET2 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET2 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220720 150851.105 INFO             PET2 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220720 150851.105 INFO             PET2 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220720 150851.105 INFO             PET2 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220720 150851.105 INFO             PET2 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET2 Running with ESMF Version   : v8.4.0b01-4-gf4d45872d8
+20220720 150851.105 INFO             PET2 ESMF library build date/time: "Jul 20 2022" "14:31:29"
+20220720 150851.105 INFO             PET2 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf
+20220720 150851.105 INFO             PET2 ESMF_COMM                   : mpt
+20220720 150851.105 INFO             PET2 ESMF_MOAB                   : enabled
+20220720 150851.105 INFO             PET2 ESMF_LAPACK                 : enabled
+20220720 150851.105 INFO             PET2 ESMF_NETCDF                 : enabled
+20220720 150851.105 INFO             PET2 ESMF_PNETCDF                : disabled
+20220720 150851.105 INFO             PET2 ESMF_PIO                    : enabled
+20220720 150851.105 INFO             PET2 ESMF_YAMLCPP                : enabled
+20220720 150851.106 INFO             PET2  Beginning Test, file ESMF_FieldRegridXGUTest.F90, line 51
+20220720 150851.106 INFO             PET2  NUMBER_OF_PROCESSORS           4
+20220720 150851.106 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 62
+20220720 150851.106 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 70
+20220720 150851.128 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 78
+20220720 150851.144 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 86
+20220720 150851.159 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 94
+20220720 150851.178 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 102
+20220720 150851.178 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 110
+20220720 150851.178 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 118
+20220720 150851.350 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 126
+20220720 150851.522 INFO             PET2  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 134
+20220720 150851.522 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 142
+20220720 150851.522 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 150
+20220720 150851.522 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 158
+20220720 150851.558 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 166
+20220720 150851.602 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 174
+20220720 150851.650 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 182
+20220720 150851.964 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 190
+20220720 150852.295 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 198
+20220720 150852.669 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 207
+20220720 150853.046 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 216
+20220720 150853.567 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 224
+20220720 150854.089 INFO             PET2  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 233
+20220720 150854.089 INFO             PET2  Ending Test, file ESMF_FieldRegridXGUTest.F90, line 235
+20220720 150854.089 INFO             PET2 Finalizing ESMF
+20220720 150851.105 INFO             PET3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET3 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220720 150851.105 INFO             PET3 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220720 150851.105 INFO             PET3 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220720 150851.105 INFO             PET3 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220720 150851.105 INFO             PET3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220720 150851.105 INFO             PET3 Running with ESMF Version   : v8.4.0b01-4-gf4d45872d8
+20220720 150851.105 INFO             PET3 ESMF library build date/time: "Jul 20 2022" "14:31:29"
+20220720 150851.105 INFO             PET3 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_O_DusanJovic-NOAA_dev_info_fix/esmf
+20220720 150851.105 INFO             PET3 ESMF_COMM                   : mpt
+20220720 150851.105 INFO             PET3 ESMF_MOAB                   : enabled
+20220720 150851.105 INFO             PET3 ESMF_LAPACK                 : enabled
+20220720 150851.105 INFO             PET3 ESMF_NETCDF                 : enabled
+20220720 150851.105 INFO             PET3 ESMF_PNETCDF                : disabled
+20220720 150851.105 INFO             PET3 ESMF_PIO                    : enabled
+20220720 150851.105 INFO             PET3 ESMF_YAMLCPP                : enabled
+20220720 150851.106 INFO             PET3  Beginning Test, file ESMF_FieldRegridXGUTest.F90, line 51
+20220720 150851.106 INFO             PET3  NUMBER_OF_PROCESSORS           4
+20220720 150851.106 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 62
+20220720 150851.106 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 70
+20220720 150851.128 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 78
+20220720 150851.144 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 86
+20220720 150851.159 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 94
+20220720 150851.178 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 102
+20220720 150851.178 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 110
+20220720 150851.178 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 118
+20220720 150851.350 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 126
+20220720 150851.522 INFO             PET3  PASS  Regrid then create xgrid online and regrid through xgrid, overlapping cut, ESMF_FieldRegridXGUTest.F90, line 134
+20220720 150851.522 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 142
+20220720 150851.522 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 150
+20220720 150851.522 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 158
+20220720 150851.558 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 166
+20220720 150851.602 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 174
+20220720 150851.650 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 182
+20220720 150851.964 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 190
+20220720 150852.294 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, spherical grids, ESMF_FieldRegridXGUTest.F90, line 198
+20220720 150852.669 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 207
+20220720 150853.046 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 216
+20220720 150853.567 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 224
+20220720 150854.089 INFO             PET3  PASS  Regrid then create xgrid and regrid through xgrid, full spherical grids, ESMF_FieldRegridXGUTest.F90, line 233
+20220720 150854.089 INFO             PET3  Ending Test, file ESMF_FieldRegridXGUTest.F90, line 235
+20220720 150854.089 INFO             PET3 Finalizing ESMF
