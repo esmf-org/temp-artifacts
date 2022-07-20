@@ -1,0 +1,43 @@
+2022-07-20 14:33:13
+Beginning Test, file ESMC_FieldRegridUTest.C, line 68
+Beginning Test, file ESMC_FieldRegridUTest.C, line 68NUMBER_OF_PROCESSORS 1
+PASS MeshCreate, ESMC_FieldRegridUTest.C, line 125
+PASS MeshAddNodes, ESMC_FieldRegridUTest.C, line 133
+PASS MeshAddElements, ESMC_FieldRegridUTest.C, line 142
+PASS MeshGetNodeCount, ESMC_FieldRegridUTest.C, line 152
+PASS MeshGetElementCount, ESMC_FieldRegridUTest.C, line 163
+PASS MeshCreate, ESMC_FieldRegridUTest.C, line 231
+PASS MeshAddNodes, ESMC_FieldRegridUTest.C, line 239
+PASS MeshAddElements, ESMC_FieldRegridUTest.C, line 248
+PASS MeshGetNodeCount, ESMC_FieldRegridUTest.C, line 258
+PASS MeshGetElementCount, ESMC_FieldRegridUTest.C, line 269
+PASS Create ESMC_Field object, ESMC_FieldRegridUTest.C, line 284
+PASS Create ESMC_Field object, ESMC_FieldRegridUTest.C, line 293
+PASS Get a void * C pointer to data from ESMC_Field object, ESMC_FieldRegridUTest.C, line 306
+PASS Get a void * C pointer to data from ESMC_Field object, ESMC_FieldRegridUTest.C, line 325
+PASS Create an InterArray for maskValues in ESMC_FieldRegridStore(), ESMC_FieldRegridUTest.C, line 343
+FAIL Create an ESMC_RouteHandle via ESMC_FieldRegridStore(), ESMC_FieldRegridUTest.C, line 367
+[r13i4n26:50645] *** Process received signal ***
+[r13i4n26:50645] Signal: Segmentation fault (11)
+[r13i4n26:50645] Signal code:  (128)
+[r13i4n26:50645] Failing at address: (nil)
+[r13i4n26:50645] [ 0] /glade/u/apps/ch/os/lib64/libpthread.so.0(+0x11c00)[0x2aaee20bdc00]
+[r13i4n26:50645] [ 1] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(_ZN5ESMCI3XXE4execEiPPcPiiPbS4_PdiiS3_PNS0_10SuperVectPE+0xf1)[0x2aaedcc685d1]
+[r13i4n26:50645] [ 2] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(_ZN5ESMCI5Array12sparseMatMulEPS0_S1_PPNS_11RouteHandleE13ESMC_CommFlagPbS6_16ESMC_Region_Flag19ESMC_TermOrder_Flagbb+0x84d)[0x2aaedcb4c8cd]
+[r13i4n26:50645] [ 3] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(c_esmc_arraysmm_+0x69)[0x2aaedcb32509]
+[r13i4n26:50645] [ 4] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(esmf_arraymod_mp_esmf_arraysmm_+0x5e1)[0x2aaedd6000e1]
+[r13i4n26:50645] [ 5] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(esmf_fieldregridmod_mp_esmf_fieldregrid_+0x35e)[0x2aaedd96b33e]
+[r13i4n26:50645] [ 6] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(f_esmf_regrid_+0x15a)[0x2aaedd81acba]
+[r13i4n26:50645] [ 7] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(_ZN5ESMCI5Field6regridEPS0_S1_PNS_11RouteHandleEP16ESMC_Region_Flag+0x3f)[0x2aaedcea4caf]
+[r13i4n26:50645] [ 8] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(ESMC_FieldRegrid+0xd)[0x2aaedcb13dcd]
+[r13i4n26:50645] [ 9] ./ESMC_FieldRegridUTest[0x406475]
+[r13i4n26:50645] [10] /glade/u/apps/ch/os/lib64/libc.so.6(__libc_start_main+0xf5)[0x2aaee351da35]
+[r13i4n26:50645] [11] ./ESMC_FieldRegridUTest[0x405129]
+[r13i4n26:50645] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node r13i4n26 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

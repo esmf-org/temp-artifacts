@@ -1,0 +1,52 @@
+2022-07-20 14:33:13
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41
+Beginning Test, file ESMC_FieldSMMFromFileUTest.C, line 41NUMBER_OF_PROCESSORS 4
+FAIL ESMC_FieldRegridStoreFile test, ESMC_FieldSMMFromFileUTest.C, line 199
+FAIL ESMC_FieldRegridStoreFile test, ESMC_FieldSMMFromFileUTest.C, line 199
+FAIL ESMC_FieldRegridStoreFile test, ESMC_FieldSMMFromFileUTest.C, line 199
+FAIL ESMC_FieldRegridStoreFile test, ESMC_FieldSMMFromFileUTest.C, line 199
+FAIL ESMC_FieldSMMStore from File test, ESMC_FieldSMMFromFileUTest.C, line 229
+FAIL ESMC_FieldSMMStore from File test, ESMC_FieldSMMFromFileUTest.C, line 229
+FAIL ESMC_FieldSMMStore from File test, ESMC_FieldSMMFromFileUTest.C, line 229
+FAIL ESMC_FieldSMMStore from File test, ESMC_FieldSMMFromFileUTest.C, line 229
+FAIL ESMC_FieldSMMStore From File validation, ESMC_FieldSMMFromFileUTest.C, line 257
+FAIL ESMC_FieldSMMStore From File validation, ESMC_FieldSMMFromFileUTest.C, line 257
+PASS ESMC_FieldRegridRelease, ESMC_FieldSMMFromFileUTest.C, line 271
+PASS ESMC_FieldRegridRelease, ESMC_FieldSMMFromFileUTest.C, line 271
+Ending Test, file ESMC_FieldSMMFromFileUTest.C, line 289
+Ending Test, file ESMC_FieldSMMFromFileUTest.C, line 289
+FAIL ESMC_FieldSMMStore From File validation, ESMC_FieldSMMFromFileUTest.C, line 257
+[r13i4n26:53096] *** Process received signal ***
+[r13i4n26:53096] Signal: Segmentation fault (11)
+[r13i4n26:53096] Signal code: Address not mapped (1)
+[r13i4n26:53096] Failing at address: 0x2b4600000041
+[r13i4n26:53096] [ 0] /glade/u/apps/ch/os/lib64/libpthread.so.0(+0x11c00)[0x2b46e11c5c00]
+[r13i4n26:53096] [ 1] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(_ZN5ESMCI11RouteHandle8destructEv+0x8)[0x2b46dc5352a8]
+[r13i4n26:53096] [ 2] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(_ZN5ESMCI11RouteHandle7destroyEPS0_b+0x1f)[0x2b46dc53a67f]
+[r13i4n26:53096] [ 3] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(c_esmc_routehandledestroy_+0x28)[0x2b46dc534418]
+[r13i4n26:53096] [ 4] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(esmf_rhandlemod_mp_esmf_routehandledestroy_+0xdb)[0x2b46dcd2b0bb]
+[r13i4n26:53096] [ 5] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(esmf_rhandlemod_mp_esmf_routehandlerelease_+0x89)[0x2b46dcd2af69]
+[r13i4n26:53096] [ 6] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(esmf_fieldregridmod_mp_esmf_fieldregridrelease_+0x13)[0x2b46dca73473]
+[r13i4n26:53096] [ 7] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(f_esmf_regridrelease_+0x115)[0x2b46dc922e85]
+[r13i4n26:53096] [ 8] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(_ZN5ESMCI5Field13regridreleaseEPNS_11RouteHandleE+0x20)[0x2b46dbfacd30]
+[r13i4n26:53096] [ 9] /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_openmpi_O_DusanJovic-NOAA_dev_info_fix/esmf/lib/libO/Linux.intel.64.openmpi.default/libesmf.so(ESMC_FieldRegridRelease+0x18)[0x2b46dbc1be38]
+[r13i4n26:53096] [10] ./ESMC_FieldSMMFromFileUTest[0x405e72]
+[r13i4n26:53096] [11] /glade/u/apps/ch/os/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b46e2625a35]
+[r13i4n26:53096] [12] ./ESMC_FieldSMMFromFileUTest[0x404c39]
+[r13i4n26:53096] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+FAIL ESMC_FieldSMMStore From File validation, ESMC_FieldSMMFromFileUTest.C, line 257
+PASS ESMC_FieldRegridRelease, ESMC_FieldSMMFromFileUTest.C, line 271
+Ending Test, file ESMC_FieldSMMFromFileUTest.C, line 289
+--------------------------------------------------------------------------
+mpirun noticed that process rank 3 with PID 0 on node r13i4n26 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
