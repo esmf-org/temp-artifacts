@@ -1,0 +1,114 @@
+2022-07-21 12:44:28
+  Beginning Test, file ESMF_VMSendRecvUTest.F90, line 80
+  NUMBER_OF_PROCESSORS           4
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 152
+  Beginning Test, file ESMF_VMSendRecvUTest.F90, line 80
+  NUMBER_OF_PROCESSORS           4
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 152
+           1  After rcv i_recvData is            1           2 ( should be            1           2  )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 163
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 173
+  Beginning Test, file ESMF_VMSendRecvUTest.F90, line 80
+  NUMBER_OF_PROCESSORS           4
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 152
+           2  After rcv i_recvData is          101         102 ( should be          101         102  )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 163
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 173
+  Beginning Test, file ESMF_VMSendRecvUTest.F90, line 80
+  NUMBER_OF_PROCESSORS           4
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 152
+           3  After rcv i_recvData is          201         202 ( should be          201         202  )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 163
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 173
+           0  After rcv i_recvData is          301         302 ( should be          301         302  )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 163
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 173
+           0 After recv r4_recvData is    301.000000       302.000000     ( should be    301.000000       302.000000      )
+           3 After recv r4_recvData is    201.000000       202.000000     ( should be    201.000000       202.000000      )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 185
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 185
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 195
+           1 After recv r4_recvData is    1.00000000       2.00000000     ( should be    1.00000000       2.00000000      )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 185
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 195
+           2 After recv r4_recvData is    101.000000       102.000000     ( should be    101.000000       102.000000      )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 185
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 195
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 195
+           0 After recv r8_recvData is    301.00000000000000        302.00000000000000      ( Should be    301.00000000000000        302.00000000000000       )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 207
+           1 After recv r8_recvData is    1.0000000000000000        2.0000000000000000      ( Should be    1.0000000000000000        2.0000000000000000       )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 207
+           2 After recv r8_recvData is    101.00000000000000        102.00000000000000      ( Should be    101.00000000000000        102.00000000000000       )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 207
+           3 After recv r8_recvData is    201.00000000000000        202.00000000000000      ( Should be    201.00000000000000        202.00000000000000       )
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 207
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 217
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 217
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 217
+  PASS  Sending local data Test, ESMF_VMSendRecvUTest.F90, line 217
+           3 After recv: Recv_Logical(1) is False
+           0 After recv: Recv_Logical(1) is True
+           0 After recv: Recv_Logical(2) is False
+           0 After recv: Logical_soln(1) is True
+           0 After recv: logical_soln(2) is False
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 238
+           1 After recv: Recv_Logical(1) is False
+           1 After recv: Recv_Logical(2) is True
+           1 After recv: Logical_soln(1) is False
+           1 After recv: logical_soln(2) is True
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 238
+           2 After recv: Recv_Logical(1) is True
+           2 After recv: Recv_Logical(2) is False
+           2 After recv: Logical_soln(1) is True
+           2 After recv: logical_soln(2) is False
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 238
+           3 After recv: Recv_Logical(2) is True
+           3 After recv: Logical_soln(1) is False
+           3 After recv: logical_soln(2) is True
+  PASS  Verify local data after receive Test, ESMF_VMSendRecvUTest.F90, line 238
+  Ending Test, file ESMF_VMSendRecvUTest.F90, line 255
+  Ending Test, file ESMF_VMSendRecvUTest.F90, line 255
+  Ending Test, file ESMF_VMSendRecvUTest.F90, line 255
+  Ending Test, file ESMF_VMSendRecvUTest.F90, line 255
+
+Program received signal SIGILL: Illegal instruction.
+
+Backtrace for this error:
+  PET           0  Test Elapsed Time    8.8769999999999953       msec.
+  PET           2  Test Elapsed Time    8.8519999999999985       msec.
+  PET           3  Test Elapsed Time    8.9029999999999951       msec.
+
+Could not print backtrace: executable file is not an executable
+#0  0x108e4a0d0
+#1  0x108e4975e
+#2  0x7ff804354dfc
+#3  0x7ff804358ee4
+#4  0x7ff8043532d9
+#5  0x7ff80433e20d
+#6  0x108ac2207
+#7  0x108d6cf77
+#8  0x108d6f2f2
+#9  0x109a2db71
+#10  0x109a16923
+#11  0x1099f476f
+#12  0x1099b71a3
+#13  0x10997d3b9
+#14  0x10888fff4
+#15  0x108c883d0
+#16  0x108b0317b
+#17  0x10cc2aab7
+#18  0x10cc22af5
+#19  0x10cc4d13a
+#20  0x10da4bb4a
+#21  0x10d7ac7b5
+#22  0x10da0468e
+#23  0x1081d45f3
+#24  0x1081d4636
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 0 on node cgdm-catania exited on signal 4 (Illegal instruction: 4).
+--------------------------------------------------------------------------
