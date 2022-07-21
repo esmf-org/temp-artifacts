@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435764.037236] [h12c06:103437:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.037489] [h12c06:103436:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.037443] [h12c06:103438:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.037274] [h12c06:103439:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.043089] [h12c06:103439:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.043127] [h12c06:103437:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.043341] [h12c06:103438:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435764.043417] [h12c06:103436:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_RHandleFromFileEx, ESMF_RHandleFromFileEx.F90, line 192
+  PASS  Example ESMF_RHandleFromFileEx, ESMF_RHandleFromFileEx.F90, line 192
+  PASS  Example ESMF_RHandleFromFileEx, ESMF_RHandleFromFileEx.F90, line 192
+  PASS  Example ESMF_RHandleFromFileEx, ESMF_RHandleFromFileEx.F90, line 192
+ PASS: ESMF_RHandleFromFileEx.F90
+ PASS: ESMF_RHandleFromFileEx.F90
+ PASS: ESMF_RHandleFromFileEx.F90
+ PASS: ESMF_RHandleFromFileEx.F90

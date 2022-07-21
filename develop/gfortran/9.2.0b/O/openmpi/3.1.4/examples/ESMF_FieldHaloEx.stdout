@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435795.484681] [h12c06:116016:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.484736] [h12c06:116015:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.484801] [h12c06:116017:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.484732] [h12c06:116018:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.490599] [h12c06:116016:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.490598] [h12c06:116015:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.490650] [h12c06:116018:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435795.490724] [h12c06:116017:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldHaloEx, ESMF_FieldHaloEx.F90, line 200
+  PASS  Example ESMF_FieldHaloEx, ESMF_FieldHaloEx.F90, line 200
+  PASS  Example ESMF_FieldHaloEx, ESMF_FieldHaloEx.F90, line 200
+  PASS  Example ESMF_FieldHaloEx, ESMF_FieldHaloEx.F90, line 200
+ PASS: ESMF_FieldHaloEx.F90
+ PASS: ESMF_FieldHaloEx.F90
+ PASS: ESMF_FieldHaloEx.F90
+ PASS: ESMF_FieldHaloEx.F90

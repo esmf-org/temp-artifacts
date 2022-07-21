@@ -1,0 +1,53 @@
+2022-07-21 20:17:24
+[1658435276.252929] [h12c06:17283:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.252960] [h12c06:17285:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.253365] [h12c06:17282:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.253395] [h12c06:17284:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.258190] [h12c06:17283:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.258257] [h12c06:17285:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.258699] [h12c06:17284:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435276.258755] [h12c06:17282:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldBundleSMMUTest.F90, line 57
+  Beginning Test, file ESMF_FieldBundleSMMUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleSMMUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleSMMUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test, ESMF_FieldBundleSMMUTest.F90, line 72
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test, ESMF_FieldBundleSMMUTest.F90, line 72
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test, ESMF_FieldBundleSMMUTest.F90, line 72
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test, ESMF_FieldBundleSMMUTest.F90, line 72
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test (srcTermProcessing=(/-1/)), ESMF_FieldBundleSMMUTest.F90, line 91
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test (srcTermProcessing=(/-1/)), ESMF_FieldBundleSMMUTest.F90, line 91
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test (srcTermProcessing=(/-1/)), ESMF_FieldBundleSMMUTest.F90, line 91
+  PASS  ESMF_FieldBundleSMMStoreFromFile Test (srcTermProcessing=(/-1/)), ESMF_FieldBundleSMMUTest.F90, line 91
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/-1, -1/), ESMF_FieldBundleSMMUTest.F90, line 108
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/-1, -1/), ESMF_FieldBundleSMMUTest.F90, line 108
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/-1, -1/), ESMF_FieldBundleSMMUTest.F90, line 108
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/-1, -1/), ESMF_FieldBundleSMMUTest.F90, line 108
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1, 1/), ESMF_FieldBundleSMMUTest.F90, line 116
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1, 1/), ESMF_FieldBundleSMMUTest.F90, line 116
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1, 1/), ESMF_FieldBundleSMMUTest.F90, line 116
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1, 1/), ESMF_FieldBundleSMMUTest.F90, line 116
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1/), ESMF_FieldBundleSMMUTest.F90, line 127
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1/), ESMF_FieldBundleSMMUTest.F90, line 127
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1/), ESMF_FieldBundleSMMUTest.F90, line 127
+  PASS  ESMF_FieldBundleSMMStore Source Term Processing Test - (/1/), ESMF_FieldBundleSMMUTest.F90, line 127
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos, ESMF_FieldBundleSMMUTest.F90, line 139
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos, ESMF_FieldBundleSMMUTest.F90, line 139
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos, ESMF_FieldBundleSMMUTest.F90, line 139
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos, ESMF_FieldBundleSMMUTest.F90, line 139
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos compatible, ESMF_FieldBundleSMMUTest.F90, line 146
+  Ending Test, file ESMF_FieldBundleSMMUTest.F90, line 148
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos compatible, ESMF_FieldBundleSMMUTest.F90, line 146
+  Ending Test, file ESMF_FieldBundleSMMUTest.F90, line 148
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos compatible, ESMF_FieldBundleSMMUTest.F90, line 146
+  Ending Test, file ESMF_FieldBundleSMMUTest.F90, line 148
+  PASS  FieldBundleSMM test using lpe for both src and dst, with halos compatible, ESMF_FieldBundleSMMUTest.F90, line 146
+  Ending Test, file ESMF_FieldBundleSMMUTest.F90, line 148
+  PET           3  Test Elapsed Time    52.442000000000014       msec.
+  PET           1  Test Elapsed Time    52.454999999999991       msec.
+  PET           2  Test Elapsed Time    51.670000000000009       msec.
+  PET           0  Test Elapsed Time    53.036000000000001       msec.

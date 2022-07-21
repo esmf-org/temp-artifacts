@@ -1,0 +1,23 @@
+2022-07-21 20:17:24
+[1658435803.439817] [h12c06:119216:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.439819] [h12c06:119218:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.440323] [h12c06:119217:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.440357] [h12c06:119219:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.445352] [h12c06:119218:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.445350] [h12c06:119216:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.445671] [h12c06:119217:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435803.445730] [h12c06:119219:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ --------------------------------------- 
+ Start of ESMF_SCompEx Example
+ --------------------------------------- 
+  PASS  Example ESMF_SCompEx, ESMF_SCompEx.F90, line 385
+  PASS  Example ESMF_SCompEx, ESMF_SCompEx.F90, line 385
+  PASS  Example ESMF_SCompEx, ESMF_SCompEx.F90, line 385
+ --------------------------------------- 
+ End of ESMF_SCompEx Example
+ --------------------------------------- 
+  PASS  Example ESMF_SCompEx, ESMF_SCompEx.F90, line 385
+ PASS: ESMF_SCompEx.F90
+ PASS: ESMF_SCompEx.F90
+ PASS: ESMF_SCompEx.F90
+ PASS: ESMF_SCompEx.F90

@@ -1,0 +1,29 @@
+2022-07-21 20:17:24
+[1658435808.742723] [h12c06:120308:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.742764] [h12c06:120310:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.742924] [h12c06:120307:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.742966] [h12c06:120309:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.748063] [h12c06:120308:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.748263] [h12c06:120310:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.748718] [h12c06:120309:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435808.748745] [h12c06:120307:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Somewhat of a SILLY @$^@_ label
+ finalCalculation               
+ dummy output from attached method 
+ Somewhat of a SILLY @$^@_ label
+ finalCalculation               
+ dummy output from attached method 
+ Somewhat of a SILLY @$^@_ label
+ finalCalculation               
+ dummy output from attached method 
+ Somewhat of a SILLY @$^@_ label
+ finalCalculation               
+ dummy output from attached method 
+  PASS  Example ESMF_AttachMethodsEx, ESMF_AttachMethodsEx.F90, line 292
+  PASS  Example ESMF_AttachMethodsEx, ESMF_AttachMethodsEx.F90, line 292
+  PASS  Example ESMF_AttachMethodsEx, ESMF_AttachMethodsEx.F90, line 292
+  PASS  Example ESMF_AttachMethodsEx, ESMF_AttachMethodsEx.F90, line 292
+ PASS: ESMF_AttachMethodsEx.F90
+ PASS: ESMF_AttachMethodsEx.F90
+ PASS: ESMF_AttachMethodsEx.F90
+ PASS: ESMF_AttachMethodsEx.F90

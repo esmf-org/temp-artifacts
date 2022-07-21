@@ -1,0 +1,37 @@
+2022-07-21 20:17:24
+[1658435089.377594] [h12c06:279966:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.377991] [h12c06:279963:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.377695] [h12c06:279964:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.378244] [h12c06:279965:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.382784] [h12c06:279966:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.382897] [h12c06:279964:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.383374] [h12c06:279963:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435089.383514] [h12c06:279965:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMC_LogErrUTest.C, line 43
+Beginning Test, file ESMC_LogErrUTest.C, line 43NUMBER_OF_PROCESSORS 4
+PASS Set Log to flush after every message, ESMC_LogErrUTest.C, line 54
+PASS Set Log to flush after every tenth message, ESMC_LogErrUTest.C, line 63
+PASS Write a Log Message, ESMC_LogErrUTest.C, line 71
+Ending Test, file ESMC_LogErrUTest.C, line 75
+Beginning Test, file ESMC_LogErrUTest.C, line 43
+Beginning Test, file ESMC_LogErrUTest.C, line 43
+Beginning Test, file ESMC_LogErrUTest.C, line 43NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_LogErrUTest.C, line 43NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_LogErrUTest.C, line 43
+Beginning Test, file ESMC_LogErrUTest.C, line 43NUMBER_OF_PROCESSORS 4
+PASS Set Log to flush after every message, ESMC_LogErrUTest.C, line 54
+PASS Set Log to flush after every tenth message, ESMC_LogErrUTest.C, line 63
+PASS Set Log to flush after every message, ESMC_LogErrUTest.C, line 54
+PASS Set Log to flush after every tenth message, ESMC_LogErrUTest.C, line 63
+PASS Write a Log Message, ESMC_LogErrUTest.C, line 71
+PASS Set Log to flush after every message, ESMC_LogErrUTest.C, line 54
+PASS Write a Log Message, ESMC_LogErrUTest.C, line 71
+Ending Test, file ESMC_LogErrUTest.C, line 75
+PASS Set Log to flush after every tenth message, ESMC_LogErrUTest.C, line 63
+Ending Test, file ESMC_LogErrUTest.C, line 75
+PASS Write a Log Message, ESMC_LogErrUTest.C, line 71
+Ending Test, file ESMC_LogErrUTest.C, line 75
+Ending Test, file ESMC_LogErrUTest.C, line 75 PET 0 Test Elapsed Time 57.346 msec.
+Ending Test, file ESMC_LogErrUTest.C, line 75 PET 2 Test Elapsed Time 57.337 msec.
+Ending Test, file ESMC_LogErrUTest.C, line 75 PET 1 Test Elapsed Time 60.649 msec.
+Ending Test, file ESMC_LogErrUTest.C, line 75 PET 3 Test Elapsed Time 61.084 msec.

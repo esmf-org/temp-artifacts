@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435375.719206] [h12c06:26881:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435375.719227] [h12c06:26880:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435375.724348] [h12c06:26881:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435375.724431] [h12c06:26880:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_AttributeUpdateReconcileUTest.F90, line 383
+  Beginning Test, file ESMF_AttributeUpdateReconcileUTest.F90, line 383
+  NUMBER_OF_PROCESSORS           2
+  NUMBER_OF_PROCESSORS           2
+  PASS  PET            0 : Getting an updated Attribute value from a Component test: value = doodle, ESMF_AttributeUpdateReconcileUTest.F90, line 476
+  PASS  PET            1 : Getting an updated Attribute value from a Component test: value = doodle, ESMF_AttributeUpdateReconcileUTest.F90, line 476
+  PASS  PET            0 : Getting an updated Attribute value from a Component test: value = doodle, ESMF_AttributeUpdateReconcileUTest.F90, line 491
+  PASS  PET            1 : Getting an updated Attribute value from a Component test: value = doodle, ESMF_AttributeUpdateReconcileUTest.F90, line 491
+  Ending Test, file ESMF_AttributeUpdateReconcileUTest.F90, line 515
+  Ending Test, file ESMF_AttributeUpdateReconcileUTest.F90, line 515
+  PET           1  Test Elapsed Time    15.157000000000004       msec.
+  PET           0  Test Elapsed Time    17.364000000000004       msec.

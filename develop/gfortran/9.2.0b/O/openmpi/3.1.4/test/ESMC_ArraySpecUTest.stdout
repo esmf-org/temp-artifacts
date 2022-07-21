@@ -1,0 +1,41 @@
+2022-07-21 20:17:24
+[1658435181.850243] [h12c06:306350:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.850538] [h12c06:306351:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.850328] [h12c06:306352:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.850583] [h12c06:306353:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.855608] [h12c06:306350:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.855798] [h12c06:306352:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.855994] [h12c06:306351:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435181.856064] [h12c06:306353:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49NUMBER_OF_PROCESSORS 4
+PASS ArraySpecSet Unit test, ESMC_ArraySpecUTest.C, line 59
+PASS ArraySpecSet Unit test, ESMC_ArraySpecUTest.C, line 59
+PASS ArraySpecGet Unit test, ESMC_ArraySpecUTest.C, line 68
+PASS ArraySpecGet Unit test, ESMC_ArraySpecUTest.C, line 68
+PASS ArraySpecGet: rank Unit test, ESMC_ArraySpecUTest.C, line 76
+PASS ArraySpecGet: rank Unit test, ESMC_ArraySpecUTest.C, line 76
+PASS ArraySpecGet: typekind Unit test, ESMC_ArraySpecUTest.C, line 84
+PASS ArraySpecGet: typekind Unit test, ESMC_ArraySpecUTest.C, line 84
+Ending Test, file ESMC_ArraySpecUTest.C, line 88
+Ending Test, file ESMC_ArraySpecUTest.C, line 88
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49NUMBER_OF_PROCESSORS 4
+PASS ArraySpecSet Unit test, ESMC_ArraySpecUTest.C, line 59
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49
+PASS ArraySpecGet Unit test, ESMC_ArraySpecUTest.C, line 68
+Beginning Test, file ESMC_ArraySpecUTest.C, line 49NUMBER_OF_PROCESSORS 4
+PASS ArraySpecGet: rank Unit test, ESMC_ArraySpecUTest.C, line 76
+PASS ArraySpecGet: typekind Unit test, ESMC_ArraySpecUTest.C, line 84
+PASS ArraySpecSet Unit test, ESMC_ArraySpecUTest.C, line 59
+Ending Test, file ESMC_ArraySpecUTest.C, line 88
+PASS ArraySpecGet Unit test, ESMC_ArraySpecUTest.C, line 68
+PASS ArraySpecGet: rank Unit test, ESMC_ArraySpecUTest.C, line 76
+PASS ArraySpecGet: typekind Unit test, ESMC_ArraySpecUTest.C, line 84
+Ending Test, file ESMC_ArraySpecUTest.C, line 88
+Ending Test, file ESMC_ArraySpecUTest.C, line 88 PET 2 Test Elapsed Time 58.094 msec.
+Ending Test, file ESMC_ArraySpecUTest.C, line 88 PET 0 Test Elapsed Time 60.217 msec.
+Ending Test, file ESMC_ArraySpecUTest.C, line 88 PET 3 Test Elapsed Time 60.237 msec.
+Ending Test, file ESMC_ArraySpecUTest.C, line 88 PET 1 Test Elapsed Time 60.138 msec.

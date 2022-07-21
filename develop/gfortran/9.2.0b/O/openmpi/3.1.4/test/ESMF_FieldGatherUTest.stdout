@@ -1,0 +1,41 @@
+2022-07-21 20:17:24
+[1658435268.248107] [h12c06:14605:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.248098] [h12c06:14607:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.248180] [h12c06:14604:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.248178] [h12c06:14606:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.253541] [h12c06:14607:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.253619] [h12c06:14605:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.253851] [h12c06:14606:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435268.253905] [h12c06:14604:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldGatherUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldGatherUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldGatherUTest.F90, line 58
+  Beginning Test, file ESMF_FieldGatherUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldGather 1d test, ESMF_FieldGatherUTest.F90, line 72
+  PASS  FieldGather 1d test, ESMF_FieldGatherUTest.F90, line 72
+  PASS  FieldGather 1d test, ESMF_FieldGatherUTest.F90, line 72
+  PASS  FieldGather 1d test, ESMF_FieldGatherUTest.F90, line 72
+  PASS  FieldGather 2d test, ESMF_FieldGatherUTest.F90, line 80
+  PASS  FieldGather 2d test, ESMF_FieldGatherUTest.F90, line 80
+  PASS  FieldGather 2d test, ESMF_FieldGatherUTest.F90, line 80
+  PASS  FieldGather 2d test, ESMF_FieldGatherUTest.F90, line 80
+  PASS  FieldGather 3d test, ESMF_FieldGatherUTest.F90, line 88
+  PASS  FieldGather 3d test, ESMF_FieldGatherUTest.F90, line 88
+  PASS  FieldGather 3d test, ESMF_FieldGatherUTest.F90, line 88
+  PASS  FieldGather 3d test, ESMF_FieldGatherUTest.F90, line 88
+  PASS  FieldScatter 2d test, ESMF_FieldGatherUTest.F90, line 96
+  PASS  FieldScatter 2d test, ESMF_FieldGatherUTest.F90, line 96
+  PASS  FieldScatter 2d test, ESMF_FieldGatherUTest.F90, line 96
+  PASS  FieldScatter 2d test, ESMF_FieldGatherUTest.F90, line 96
+  Ending Test, file ESMF_FieldGatherUTest.F90, line 99
+  Ending Test, file ESMF_FieldGatherUTest.F90, line 99
+  Ending Test, file ESMF_FieldGatherUTest.F90, line 99
+  Ending Test, file ESMF_FieldGatherUTest.F90, line 99
+  PET           0  Test Elapsed Time    18.471999999999987       msec.
+  PET           2  Test Elapsed Time    18.478999999999996       msec.
+  PET           1  Test Elapsed Time    17.896000000000008       msec.
+  PET           3  Test Elapsed Time    18.791999999999991       msec.

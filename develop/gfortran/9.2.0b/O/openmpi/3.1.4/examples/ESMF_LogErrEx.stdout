@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435743.142972] [h12c06:94647:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.143000] [h12c06:94649:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.143243] [h12c06:94648:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.143146] [h12c06:94650:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.148996] [h12c06:94649:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.149016] [h12c06:94647:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.149084] [h12c06:94650:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435743.149117] [h12c06:94648:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_LogErrEx, ESMF_LogErrEx.F90, line 186
+  PASS  Example ESMF_LogErrEx, ESMF_LogErrEx.F90, line 186
+  PASS  Example ESMF_LogErrEx, ESMF_LogErrEx.F90, line 186
+  PASS  Example ESMF_LogErrEx, ESMF_LogErrEx.F90, line 186
+ PASS: ESMF_LogErrEx.F90
+ PASS: ESMF_LogErrEx.F90
+ PASS: ESMF_LogErrEx.F90
+ PASS: ESMF_LogErrEx.F90

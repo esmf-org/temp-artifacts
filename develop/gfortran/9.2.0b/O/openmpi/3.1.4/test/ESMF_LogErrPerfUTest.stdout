@@ -1,0 +1,45 @@
+2022-07-21 20:17:24
+[1658435093.410050] [h12c06:280335:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.410045] [h12c06:280337:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.410619] [h12c06:280334:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.410569] [h12c06:280336:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.415787] [h12c06:280337:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.415841] [h12c06:280335:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.416160] [h12c06:280336:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435093.416159] [h12c06:280334:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_LogErrPerfUTest.F90, line 55
+  Beginning Test, file ESMF_LogErrPerfUTest.F90, line 55
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_LogErrPerfUTest.F90, line 55
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_LogErrPerfUTest.F90, line 55
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  PASS  Performance of ESMF_LogFoundError() 1000x Test, ESMF_LogErrPerfUTest.F90, line 64
+  PASS  Performance of ESMF_LogFoundError() 1000x Test, ESMF_LogErrPerfUTest.F90, line 64
+  PASS  Performance of ESMF_LogFoundError() 1000x Test, ESMF_LogErrPerfUTest.F90, line 64
+  PASS  Performance of ESMF_LogFoundError() 1000x Test, ESMF_LogErrPerfUTest.F90, line 64
+  PASS  Performance of ESMF_LogFoundError() 10000x Test, ESMF_LogErrPerfUTest.F90, line 72
+  PASS  Performance of ESMF_LogFoundError() 10000x Test, ESMF_LogErrPerfUTest.F90, line 72
+  PASS  Performance of ESMF_LogFoundError() 10000x Test, ESMF_LogErrPerfUTest.F90, line 72
+  PASS  Performance of ESMF_LogFoundError() 10000x Test, ESMF_LogErrPerfUTest.F90, line 72
+  PASS  Performance of ESMF_LogFoundError() 100000x Test, ESMF_LogErrPerfUTest.F90, line 80
+  PASS  Performance of ESMF_LogFoundError() 100000x Test, ESMF_LogErrPerfUTest.F90, line 80
+  PASS  Performance of ESMF_LogFoundError() 100000x Test, ESMF_LogErrPerfUTest.F90, line 80
+  PASS  Performance of ESMF_LogFoundError() 100000x Test, ESMF_LogErrPerfUTest.F90, line 80
+  PASS  Performance of ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 88
+  PASS  Performance of ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 88
+  PASS  Performance of ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 88
+  PASS  Threshold check for ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 99
+  Ending Test, file ESMF_LogErrPerfUTest.F90, line 103
+  PASS  Threshold check for ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 99
+  Ending Test, file ESMF_LogErrPerfUTest.F90, line 103
+  PASS  Performance of ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 88
+  PASS  Threshold check for ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 99
+  Ending Test, file ESMF_LogErrPerfUTest.F90, line 103
+  PASS  Threshold check for ESMF_LogFoundError() 1000000x Test, ESMF_LogErrPerfUTest.F90, line 99
+  Ending Test, file ESMF_LogErrPerfUTest.F90, line 103
+  PET           2  Test Elapsed Time    20.526000000000003       msec.
+  PET           1  Test Elapsed Time    20.506000000000011       msec.
+  PET           3  Test Elapsed Time    20.345000000000002       msec.
+  PET           0  Test Elapsed Time    20.609000000000002       msec.

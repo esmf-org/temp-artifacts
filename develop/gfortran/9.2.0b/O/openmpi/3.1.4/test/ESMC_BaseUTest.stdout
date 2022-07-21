@@ -1,0 +1,29 @@
+2022-07-21 20:17:24
+[1658435157.634621] [h12c06:301403:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.634656] [h12c06:301405:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.634901] [h12c06:301402:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.634906] [h12c06:301404:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.639986] [h12c06:301403:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.640019] [h12c06:301405:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.640435] [h12c06:301402:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435157.640486] [h12c06:301404:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMC_BaseUTest.C, line 143
+Beginning Test, file ESMC_BaseUTest.C, line 143NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_BaseUTest.C, line 143
+Beginning Test, file ESMC_BaseUTest.C, line 143NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_BaseUTest.C, line 143
+Beginning Test, file ESMC_BaseUTest.C, line 143NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_BaseUTest.C, line 143
+Beginning Test, file ESMC_BaseUTest.C, line 143NUMBER_OF_PROCESSORS 4
+PASS testSerializeDeserialize, ESMC_BaseUTest.C, line 150
+Ending Test, file ESMC_BaseUTest.C, line 154
+PASS testSerializeDeserialize, ESMC_BaseUTest.C, line 150
+Ending Test, file ESMC_BaseUTest.C, line 154
+PASS testSerializeDeserialize, ESMC_BaseUTest.C, line 150
+Ending Test, file ESMC_BaseUTest.C, line 154
+PASS testSerializeDeserialize, ESMC_BaseUTest.C, line 150
+Ending Test, file ESMC_BaseUTest.C, line 154
+Ending Test, file ESMC_BaseUTest.C, line 154 PET 0 Test Elapsed Time 58.825 msec.
+Ending Test, file ESMC_BaseUTest.C, line 154 PET 1 Test Elapsed Time 59.615 msec.
+Ending Test, file ESMC_BaseUTest.C, line 154 PET 2 Test Elapsed Time 59.701 msec.
+Ending Test, file ESMC_BaseUTest.C, line 154 PET 3 Test Elapsed Time 59.625 msec.

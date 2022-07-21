@@ -1,0 +1,19 @@
+2022-07-21 20:17:24
+[1658435082.170371] [h12c06:277014:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435082.170412] [h12c06:277013:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435082.175194] [h12c06:277014:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435082.175270] [h12c06:277013:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_LAPACKUTest.F90, line 67
+  Beginning Test, file ESMF_LAPACKUTest.F90, line 67
+  NUMBER_OF_PROCESSORS           2
+  NUMBER_OF_PROCESSORS           2
+   suggested workspace length =        4337
+   suggested workspace length =        4337
+  PASS DGELSY workspace size inquiry test, ESMF_LAPACKUTest.F90, line 87
+  PASS DGELSY workspace size inquiry test, ESMF_LAPACKUTest.F90, line 87
+  PASS DGELSY computation test, ESMF_LAPACKUTest.F90, line 98
+  PASS DGELSY computation test, ESMF_LAPACKUTest.F90, line 98
+  Ending Test, file ESMF_LAPACKUTest.F90, line 109
+  Ending Test, file ESMF_LAPACKUTest.F90, line 109
+  PET           1  Test Elapsed Time    12.172999999999989       msec.
+  PET           0  Test Elapsed Time    12.304999999999996       msec.

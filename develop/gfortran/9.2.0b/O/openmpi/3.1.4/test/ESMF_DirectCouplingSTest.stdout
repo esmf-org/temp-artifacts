@@ -1,0 +1,98 @@
+2022-07-21 20:17:24
+ --------------------------------------- 
+ Start of  System Test ESMF_DirectCouplingSTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_DirectCouplingSTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_DirectCouplingSTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_DirectCouplingSTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_DirectCouplingSTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_DirectCouplingSTest
+ --------------------------------------- 
+[1658435610.217695] [h12c06:60488:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.217769] [h12c06:60490:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.217792] [h12c06:60486:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.217853] [h12c06:60489:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.220665] [h12c06:60487:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.223346] [h12c06:60488:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.223952] [h12c06:60490:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.223970] [h12c06:60486:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.224066] [h12c06:60489:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.224447] [h12c06:60491:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.226610] [h12c06:60487:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435610.230835] [h12c06:60491:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  System Test ESMF_DirectCouplingSTest                                                                                                                                                                                                                            complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  System Test ESMF_DirectCouplingSTest                                                                                                                                                                                                                            complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            4
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            2
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_DirectCouplingSTest
+  SUCCESS:  System Test ESMF_DirectCouplingSTest finished correctly.
+ 
+ 
+  System Test ESMF_DirectCouplingSTest
+  SUCCESS:  System Test ESMF_DirectCouplingSTest finished correctly.
+ 
+  PASS  System Test ESMF_DirectCouplingSTest, ESMF_DirectCouplingSTest.F90, line 459
+  PASS  System Test ESMF_DirectCouplingSTest, ESMF_DirectCouplingSTest.F90, line 459
+ Validation of results successful! :-)
+ 
+  System Test ESMF_DirectCouplingSTest
+  SUCCESS:  System Test ESMF_DirectCouplingSTest finished correctly.
+ 
+  System Test ESMF_DirectCouplingSTest                                                                                                                                                                                                                            complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            0
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test ESMF_DirectCouplingSTest, ESMF_DirectCouplingSTest.F90, line 459
+  System Test ESMF_DirectCouplingSTest                                                                                                                                                                                                                            complete.
+  System Test ESMF_DirectCouplingSTest                                                                                                                                                                                                                            complete.
+  System Test ESMF_DirectCouplingSTest                                                                                                                                                                                                                            complete.
+ 
+  System Test ESMF_DirectCouplingSTest
+  SUCCESS:  System Test ESMF_DirectCouplingSTest finished correctly.
+ 
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_DirectCouplingSTest
+  SUCCESS:  System Test ESMF_DirectCouplingSTest finished correctly.
+ 
+ ------------------------------------------------------------
+ Test finished, localPet =            1
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_DirectCouplingSTest
+  SUCCESS:  System Test ESMF_DirectCouplingSTest finished correctly.
+ 
+ ------------------------------------------------------------
+ Test finished, localPet =            3
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test ESMF_DirectCouplingSTest, ESMF_DirectCouplingSTest.F90, line 459
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            5
+  PASS  System Test ESMF_DirectCouplingSTest, ESMF_DirectCouplingSTest.F90, line 459
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test ESMF_DirectCouplingSTest, ESMF_DirectCouplingSTest.F90, line 459

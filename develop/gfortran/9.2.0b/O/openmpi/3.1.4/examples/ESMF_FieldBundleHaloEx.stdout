@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435798.920443] [h12c06:117394:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.920999] [h12c06:117393:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.920967] [h12c06:117395:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.921019] [h12c06:117396:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.925622] [h12c06:117394:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.926411] [h12c06:117395:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.926433] [h12c06:117393:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435798.926607] [h12c06:117396:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldBundleHaloEx, ESMF_FieldBundleHaloEx.F90, line 319
+  PASS  Example ESMF_FieldBundleHaloEx, ESMF_FieldBundleHaloEx.F90, line 319
+  PASS  Example ESMF_FieldBundleHaloEx, ESMF_FieldBundleHaloEx.F90, line 319
+  PASS  Example ESMF_FieldBundleHaloEx, ESMF_FieldBundleHaloEx.F90, line 319
+ PASS: ESMF_FieldBundleHaloEx.F90
+ PASS: ESMF_FieldBundleHaloEx.F90
+ PASS: ESMF_FieldBundleHaloEx.F90
+ PASS: ESMF_FieldBundleHaloEx.F90

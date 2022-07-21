@@ -1,0 +1,29 @@
+2022-07-21 20:17:24
+[1658435269.202381] [h12c06:14852:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.202441] [h12c06:14850:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.203001] [h12c06:14851:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.203150] [h12c06:14849:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.207692] [h12c06:14852:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.207701] [h12c06:14850:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.208307] [h12c06:14851:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435269.208410] [h12c06:14849:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldLSSMMUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldLSSMMUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldLSSMMUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldLSSMMUTest.F90, line 58
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldLSSMM test using lpe for both src and dst, with halos, ESMF_FieldLSSMMUTest.F90, line 72
+  Ending Test, file ESMF_FieldLSSMMUTest.F90, line 75
+  PASS  FieldLSSMM test using lpe for both src and dst, with halos, ESMF_FieldLSSMMUTest.F90, line 72
+  Ending Test, file ESMF_FieldLSSMMUTest.F90, line 75
+  PASS  FieldLSSMM test using lpe for both src and dst, with halos, ESMF_FieldLSSMMUTest.F90, line 72
+  Ending Test, file ESMF_FieldLSSMMUTest.F90, line 75
+  PASS  FieldLSSMM test using lpe for both src and dst, with halos, ESMF_FieldLSSMMUTest.F90, line 72
+  Ending Test, file ESMF_FieldLSSMMUTest.F90, line 75
+  PET           2  Test Elapsed Time    19.058000000000007       msec.
+  PET           0  Test Elapsed Time    19.079999999999998       msec.
+  PET           3  Test Elapsed Time    19.558000000000007       msec.
+  PET           1  Test Elapsed Time    19.382999999999999       msec.

@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435771.376624] [h12c06:105990:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.376625] [h12c06:105992:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.377223] [h12c06:105989:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.378650] [h12c06:105991:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.381821] [h12c06:105992:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.381788] [h12c06:105990:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.382738] [h12c06:105989:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435771.383603] [h12c06:105991:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_ArrayRedistEx, ESMF_ArrayRedistEx.F90, line 595
+  PASS  Example ESMF_ArrayRedistEx, ESMF_ArrayRedistEx.F90, line 595
+  PASS  Example ESMF_ArrayRedistEx, ESMF_ArrayRedistEx.F90, line 595
+  PASS  Example ESMF_ArrayRedistEx, ESMF_ArrayRedistEx.F90, line 595
+ PASS: ESMF_ArrayRedistEx.F90
+ PASS: ESMF_ArrayRedistEx.F90
+ PASS: ESMF_ArrayRedistEx.F90
+ PASS: ESMF_ArrayRedistEx.F90

@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435745.787270] [h12c06:95806:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.787578] [h12c06:95807:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.787302] [h12c06:95808:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.787590] [h12c06:95809:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.792712] [h12c06:95806:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.792727] [h12c06:95808:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.793312] [h12c06:95807:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435745.793369] [h12c06:95809:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_VMUserMpiEx, ESMF_VMUserMpiEx.F90, line 96
+  PASS  Example ESMF_VMUserMpiEx, ESMF_VMUserMpiEx.F90, line 96
+  PASS  Example ESMF_VMUserMpiEx, ESMF_VMUserMpiEx.F90, line 96
+  PASS  Example ESMF_VMUserMpiEx, ESMF_VMUserMpiEx.F90, line 96
+ PASS: ESMF_VMUserMpiEx.F90
+ PASS: ESMF_VMUserMpiEx.F90
+ PASS: ESMF_VMUserMpiEx.F90
+ PASS: ESMF_VMUserMpiEx.F90

@@ -1,0 +1,61 @@
+2022-07-21 20:17:24
+[1658435797.438209] [h12c06:117026:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.438209] [h12c06:117028:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.439994] [h12c06:117029:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.440064] [h12c06:117027:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.443848] [h12c06:117028:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.443898] [h12c06:117026:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.446244] [h12c06:117029:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.446288] [h12c06:117027:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ FieldBundle example 1 returned
+ FieldBundle example 1 returned
+ FieldBundle example 2 returned, fieldcount =           1
+ FieldBundle example 2 returned, fieldcount =           1
+ FieldBundle example 3 returned, fieldcount =           3
+ FieldBundle example 3 returned, fieldcount =           3
+ FieldBundle example 4 returned, field names = pressure, pressure
+ FieldBundle name = atmosphere data
+ heat flux                                                                                                                                                                                                                                                       
+ FieldBundle example 4 returned, field names = pressure, pressure
+ FieldBundle name = atmosphere data
+ heat flux                                                                                                                                                                                                                                                       
+ pressure                                                                                                                                                                                                                                                        
+ temperature                                                                                                                                                                                                                                                     
+ temperature                                                                                                                                                                                                                                                     
+ pressure                                                                                                                                                                                                                                                        
+ heat flux                                                                                                                                                                                                                                                       
+ pressure                                                                                                                                                                                                                                                        
+ temperature                                                                                                                                                                                                                                                     
+ temperature                                                                                                                                                                                                                                                     
+ pressure                                                                                                                                                                                                                                                        
+ heat flux                                                                                                                                                                                                                                                       
+ FieldBundle example 1 returned
+ FieldBundle example 1 returned
+ FieldBundle example 2 returned, fieldcount =           1
+ FieldBundle example 2 returned, fieldcount =           1
+ FieldBundle example 3 returned, fieldcount =           3
+ FieldBundle example 3 returned, fieldcount =           3
+ FieldBundle example 4 returned, field names = pressure, pressure
+ FieldBundle name = atmosphere data
+ heat flux                                                                                                                                                                                                                                                       
+ FieldBundle example 4 returned, field names = pressure, pressure
+ FieldBundle name = atmosphere data
+ heat flux                                                                                                                                                                                                                                                       
+ pressure                                                                                                                                                                                                                                                        
+ pressure                                                                                                                                                                                                                                                        
+ temperature                                                                                                                                                                                                                                                     
+ temperature                                                                                                                                                                                                                                                     
+ pressure                                                                                                                                                                                                                                                        
+ temperature                                                                                                                                                                                                                                                     
+ temperature                                                                                                                                                                                                                                                     
+ pressure                                                                                                                                                                                                                                                        
+ heat flux                                                                                                                                                                                                                                                       
+ heat flux                                                                                                                                                                                                                                                       
+  PASS  Example ESMF_FieldBundleCreateEx, ESMF_FieldBundleCreateEx.F90, line 561
+ PASS: ESMF_FieldBundleCreateEx.F90
+  PASS  Example ESMF_FieldBundleCreateEx, ESMF_FieldBundleCreateEx.F90, line 561
+ PASS: ESMF_FieldBundleCreateEx.F90
+  PASS  Example ESMF_FieldBundleCreateEx, ESMF_FieldBundleCreateEx.F90, line 561
+ PASS: ESMF_FieldBundleCreateEx.F90
+  PASS  Example ESMF_FieldBundleCreateEx, ESMF_FieldBundleCreateEx.F90, line 561
+ PASS: ESMF_FieldBundleCreateEx.F90

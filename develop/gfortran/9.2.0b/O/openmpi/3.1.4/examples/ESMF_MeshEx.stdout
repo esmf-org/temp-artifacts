@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435780.918552] [h12c06:110230:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.918581] [h12c06:110232:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.918747] [h12c06:110229:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.918678] [h12c06:110231:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.924362] [h12c06:110232:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.924464] [h12c06:110231:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.924496] [h12c06:110230:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435780.924526] [h12c06:110229:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_MeshEx, ESMF_MeshEx.F90, line 1795
+  PASS  Example ESMF_MeshEx, ESMF_MeshEx.F90, line 1795
+  PASS  Example ESMF_MeshEx, ESMF_MeshEx.F90, line 1795
+  PASS  Example ESMF_MeshEx, ESMF_MeshEx.F90, line 1795
+ PASS: ESMF_MeshEx.F90
+ PASS: ESMF_MeshEx.F90
+ PASS: ESMF_MeshEx.F90
+ PASS: ESMF_MeshEx.F90

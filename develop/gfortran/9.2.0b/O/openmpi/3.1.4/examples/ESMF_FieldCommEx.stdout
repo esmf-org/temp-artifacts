@@ -1,0 +1,17 @@
+2022-07-21 20:17:24
+[1658435794.084991] [h12c06:115648:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.085012] [h12c06:115650:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.085280] [h12c06:115647:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.085309] [h12c06:115649:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.090523] [h12c06:115648:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.090617] [h12c06:115650:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.090806] [h12c06:115647:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.090867] [h12c06:115649:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ PASS: ESMF_FieldCommEx.F90
+  PASS  Example ESMF_FieldCommEx, ESMF_FieldCommEx.F90, line 258
+ PASS: ESMF_FieldCommEx.F90
+  PASS  Example ESMF_FieldCommEx, ESMF_FieldCommEx.F90, line 258
+ PASS: ESMF_FieldCommEx.F90
+  PASS  Example ESMF_FieldCommEx, ESMF_FieldCommEx.F90, line 258
+ PASS: ESMF_FieldCommEx.F90
+  PASS  Example ESMF_FieldCommEx, ESMF_FieldCommEx.F90, line 258
