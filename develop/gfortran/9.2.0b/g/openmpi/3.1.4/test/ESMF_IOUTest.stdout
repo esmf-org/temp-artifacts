@@ -1,0 +1,33 @@
+2022-07-21 20:17:21
+[1658435200.168823] [h12c08:272404:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.168857] [h12c08:272405:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.168907] [h12c08:272403:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.169023] [h12c08:272406:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.174432] [h12c08:272405:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.174448] [h12c08:272403:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.174736] [h12c08:272404:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435200.174844] [h12c08:272406:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  PASS  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 84
+  PASS  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 84
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOUTest.F90, line 194
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOUTest.F90, line 194
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  PASS  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 84
+  PASS  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 84
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOUTest.F90, line 194
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOUTest.F90, line 194
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  PET           3  Test Elapsed Time    16.338000000000005       msec.
+  PET           1  Test Elapsed Time    16.201999999999995       msec.
+  PET           0  Test Elapsed Time    15.756999999999993       msec.
+  PET           2  Test Elapsed Time    15.775999999999998       msec.

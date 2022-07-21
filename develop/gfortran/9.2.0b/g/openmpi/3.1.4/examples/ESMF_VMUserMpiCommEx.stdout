@@ -1,0 +1,17 @@
+2022-07-21 20:17:21
+[1658435896.808111] [h12c08:55219:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.808142] [h12c08:55217:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.808448] [h12c08:55216:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.808405] [h12c08:55218:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.813401] [h12c08:55219:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.813482] [h12c08:55217:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.813801] [h12c08:55218:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435896.814011] [h12c08:55216:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ ESMF application on MPI rank:           1
+ ESMF application on MPI rank:           0
+  PASS  Example ESMF_VMUserMpiCommEx, ESMF_VMUserMpiCommEx.F90, line 113
+  PASS  Example ESMF_VMUserMpiCommEx, ESMF_VMUserMpiCommEx.F90, line 113
+ PASS: ESMF_VMUserMpiCommEx.F90
+ PASS: ESMF_VMUserMpiCommEx.F90
+ PASS: ESMF_VMUserMpiCommEx.F90
+ PASS: ESMF_VMUserMpiCommEx.F90

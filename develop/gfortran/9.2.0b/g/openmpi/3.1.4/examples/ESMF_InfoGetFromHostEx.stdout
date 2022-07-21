@@ -1,0 +1,17 @@
+2022-07-21 20:17:21
+[1658435904.004792] [h12c08:57751:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.004833] [h12c08:57753:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.005274] [h12c08:57750:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.005258] [h12c08:57752:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.009850] [h12c08:57751:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.010003] [h12c08:57753:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.010664] [h12c08:57752:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.010711] [h12c08:57750:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_InfoGetFromHostEx, ESMF_InfoGetFromHostEx.F90, line 112
+  PASS  Example ESMF_InfoGetFromHostEx, ESMF_InfoGetFromHostEx.F90, line 112
+  PASS  Example ESMF_InfoGetFromHostEx, ESMF_InfoGetFromHostEx.F90, line 112
+  PASS  Example ESMF_InfoGetFromHostEx, ESMF_InfoGetFromHostEx.F90, line 112
+ PASS: ESMF_InfoGetFromHostEx.F90
+ PASS: ESMF_InfoGetFromHostEx.F90
+ PASS: ESMF_InfoGetFromHostEx.F90
+ PASS: ESMF_InfoGetFromHostEx.F90

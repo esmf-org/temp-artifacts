@@ -1,0 +1,49 @@
+2022-07-21 20:17:21
+[1658435364.572955] [h12c08:284790:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.572962] [h12c08:284792:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.573137] [h12c08:284789:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.573041] [h12c08:284791:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.578438] [h12c08:284792:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.578488] [h12c08:284790:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.578712] [h12c08:284789:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435364.578769] [h12c08:284791:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldSMMUTest.F90, line 59
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldSMMUTest.F90, line 59
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldSMMUTest.F90, line 59
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldSMMUTest.F90, line 59
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldSMM basic test, ESMF_FieldSMMUTest.F90, line 72
+  PASS  FieldSMM basic test, ESMF_FieldSMMUTest.F90, line 72
+  PASS  FieldSMM basic test, ESMF_FieldSMMUTest.F90, line 72
+  PASS  FieldSMM basic test, ESMF_FieldSMMUTest.F90, line 72
+  PASS  FieldSMM basic test with varying ungridded bounds, ESMF_FieldSMMUTest.F90, line 79
+  PASS  FieldSMM basic test with varying ungridded bounds, ESMF_FieldSMMUTest.F90, line 79
+  PASS  FieldSMM basic test with varying ungridded bounds, ESMF_FieldSMMUTest.F90, line 79
+  PASS  FieldSMM basic test with varying ungridded bounds, ESMF_FieldSMMUTest.F90, line 79
+  PASS  FieldSMM basic test using lpe for dst, ESMF_FieldSMMUTest.F90, line 86
+  PASS  FieldSMM basic test using lpe for dst, ESMF_FieldSMMUTest.F90, line 86
+  PASS  FieldSMM basic test using lpe for dst, ESMF_FieldSMMUTest.F90, line 86
+  PASS  FieldSMM basic test using lpe for dst, ESMF_FieldSMMUTest.F90, line 86
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 93
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 93
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 93
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 93
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 100
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 100
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 100
+  PASS  FieldSMM basic test using lpe for both src and dst, ESMF_FieldSMMUTest.F90, line 100
+  PASS  FieldSMM basic test using lpe for both src and dst, with halos, ESMF_FieldSMMUTest.F90, line 107
+  Ending Test, file ESMF_FieldSMMUTest.F90, line 109
+  PASS  FieldSMM basic test using lpe for both src and dst, with halos, ESMF_FieldSMMUTest.F90, line 107
+  Ending Test, file ESMF_FieldSMMUTest.F90, line 109
+  PASS  FieldSMM basic test using lpe for both src and dst, with halos, ESMF_FieldSMMUTest.F90, line 107
+  Ending Test, file ESMF_FieldSMMUTest.F90, line 109
+  PASS  FieldSMM basic test using lpe for both src and dst, with halos, ESMF_FieldSMMUTest.F90, line 107
+  Ending Test, file ESMF_FieldSMMUTest.F90, line 109
+  PET           2  Test Elapsed Time    32.500000000000000       msec.
+  PET           0  Test Elapsed Time    31.831999999999987       msec.
+  PET           1  Test Elapsed Time    32.477000000000004       msec.
+  PET           3  Test Elapsed Time    32.437999999999995       msec.

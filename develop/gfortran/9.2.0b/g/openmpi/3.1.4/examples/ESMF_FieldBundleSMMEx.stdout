@@ -1,0 +1,17 @@
+2022-07-21 20:17:21
+[1658435959.512132] [h12c08:76448:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.512152] [h12c08:76449:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.512201] [h12c08:76447:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.512205] [h12c08:76450:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.518080] [h12c08:76447:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.518253] [h12c08:76449:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.518369] [h12c08:76450:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435959.518389] [h12c08:76448:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldBundleSMMEx, ESMF_FieldBundleSMMEx.F90, line 242
+  PASS  Example ESMF_FieldBundleSMMEx, ESMF_FieldBundleSMMEx.F90, line 242
+  PASS  Example ESMF_FieldBundleSMMEx, ESMF_FieldBundleSMMEx.F90, line 242
+  PASS  Example ESMF_FieldBundleSMMEx, ESMF_FieldBundleSMMEx.F90, line 242
+ PASS: ESMF_FieldBundleSMMEx.F90
+ PASS: ESMF_FieldBundleSMMEx.F90
+ PASS: ESMF_FieldBundleSMMEx.F90
+ PASS: ESMF_FieldBundleSMMEx.F90

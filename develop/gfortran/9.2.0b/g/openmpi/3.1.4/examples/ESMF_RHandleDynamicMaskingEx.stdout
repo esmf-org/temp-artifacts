@@ -1,0 +1,17 @@
+2022-07-21 20:17:21
+[1658435916.939126] [h12c08:62862:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.939627] [h12c08:62861:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.939672] [h12c08:62863:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.939629] [h12c08:62864:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.944301] [h12c08:62862:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.944870] [h12c08:62864:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.945066] [h12c08:62861:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435916.945132] [h12c08:62863:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_RHandleDynamicMaskingEx, ESMF_RHandleDynamicMaskingEx.F90, line 1116
+  PASS  Example ESMF_RHandleDynamicMaskingEx, ESMF_RHandleDynamicMaskingEx.F90, line 1116
+  PASS  Example ESMF_RHandleDynamicMaskingEx, ESMF_RHandleDynamicMaskingEx.F90, line 1116
+  PASS  Example ESMF_RHandleDynamicMaskingEx, ESMF_RHandleDynamicMaskingEx.F90, line 1116
+ PASS: ESMF_RHandleDynamicMaskingEx.F90
+ PASS: ESMF_RHandleDynamicMaskingEx.F90
+ PASS: ESMF_RHandleDynamicMaskingEx.F90
+ PASS: ESMF_RHandleDynamicMaskingEx.F90

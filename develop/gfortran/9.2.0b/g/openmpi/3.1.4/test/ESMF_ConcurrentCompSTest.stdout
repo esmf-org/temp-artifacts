@@ -1,0 +1,247 @@
+2022-07-21 20:17:21
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+ Start of System Test ConcurrentComponent.
+[1658435713.395123] [h12c08:12187:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.395234] [h12c08:12189:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.395383] [h12c08:12182:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.395395] [h12c08:12184:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.395381] [h12c08:12188:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.395571] [h12c08:12186:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.397760] [h12c08:12183:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.397913] [h12c08:12185:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.402660] [h12c08:12184:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.402748] [h12c08:12187:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.403115] [h12c08:12188:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.403249] [h12c08:12189:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.403342] [h12c08:12186:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.403525] [h12c08:12182:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.404857] [h12c08:12183:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435713.404902] [h12c08:12185:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetVM finished, rc=            0           0
+ Comp1 SetServices finished, rc=            0           0
+ Comp1 SetServices finished, rc=            0           0
+ Comp1 SetServices finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ Comp2 SetServices finished, rc=            0           0
+ Comp1 SetServices finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ Cpl SetServices finished, rc=            0           0
+ In user 1 register routine
+ Comp1 SetServices finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ In user 1 register routine
+ Comp1 SetServices finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ In user 1 register routine
+ Comp1 SetServices finished, rc=            0           0
+ In user 1 register routine
+ Comp1 SetServices finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ Comp2 SetServices finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ In user 2 register routine
+ Comp2 SetServices finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ Comp2 SetVM finished, rc=            0           0
+ Comp2 SetServices finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ Comp2 SetServices finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ In user 2 register routine
+ In user 2 register routine
+ System Test ConcurrentComponent complete.
+ Comp2 SetServices finished, rc=            0           0
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+ Comp2 SetServices finished, rc=            0           0
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+ Comp2 SetServices finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ Cpl SetVM finished, rc=            0           0
+ in user coupler register routine
+ in user coupler register routine
+ in user coupler register routine
+ Cpl SetServices finished, rc=            0           0
+ in user coupler register routine
+ Cpl SetServices finished, rc=            0           0
+ in user coupler register routine
+ Cpl SetServices finished, rc=            0           0
+ Cpl SetServices finished, rc=            0           0
+ in user coupler register routine
+ Cpl SetServices finished, rc=            0           0
+ in user coupler register routine
+ Cpl SetServices finished, rc=            0           0
+ In user 1 init routine
+ In user 1 init routine
+ In user 1 init routine
+ In user 1 init routine
+ In user 2 init routine
+ In user 2 init routine
+ Cpl SetServices finished, rc=            0           0
+ In user 2 init routine
+ User Coupler Init starting
+ User Coupler Init starting
+ User Coupler Init starting
+ User Coupler Init starting
+ User Coupler Init starting
+ User Coupler Init starting
+ User Coupler Init starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 1 run routine
+ In user 1 run routine
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ In user 2 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 2 run routine
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ In user 2 run routine
+ In user 1 run routine
+ In user 1 run routine
+ In user 1 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 1 run routine
+ In user 1 run routine
+ In user 1 run routine
+ In user 1 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 2 run routine
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ In user 2 run routine
+ In user 1 run routine
+ User Coupler Run starting
+ In user 1 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 2 run routine
+ In user 1 final routine
+ In user 1 final routine
+ In user 1 final routine
+ In user 1 final routine
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 2 run routine
+ User Coupler Final starting
+ User Coupler Final starting
+ User Coupler Final starting
+ User Coupler Final starting
+ In user 2 run routine
+ User Coupler Run starting
+ In user 2 run routine
+ User Coupler Run starting
+ System Test ConcurrentComponent complete.
+ System Test ConcurrentComponent complete.
+ System Test ConcurrentComponent complete.
+ User Coupler Run starting
+ System Test ConcurrentComponent complete.
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+ In user 2 run routine
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+ In user 2 run routine
+ User Coupler Run starting
+ In user 2 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 2 run routine
+ In user 2 run routine
+ User Coupler Run starting
+ User Coupler Run starting
+ In user 2 run routine
+ User Coupler Run starting
+ In user 2 run routine
+ In user 2 run routine
+ In user 2 final routine
+ In user 2 final routine
+ In user 2 run routine
+ User Coupler Final starting
+ In user 2 final routine
+ User Coupler Final starting
+ System Test ConcurrentComponent complete.
+ System Test ConcurrentComponent complete.
+ User Coupler Final starting
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507
+ System Test ConcurrentComponent complete.
+ 
+  System Test ConcurrentComponent: Array Concurrent Components
+  SUCCESS: Concurrent Component test finished correctly.
+ 
+  PASS  System Test ConcurrentComponent: Array Concurrent Components, ESMF_ConcurrentCompSTest.F90, line 507

@@ -1,0 +1,17 @@
+2022-07-21 20:17:21
+[1658435926.074357] [h12c08:65276:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.074370] [h12c08:65278:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.076056] [h12c08:65277:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.076091] [h12c08:65275:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.079637] [h12c08:65276:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.079696] [h12c08:65278:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.081173] [h12c08:65275:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435926.081289] [h12c08:65277:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_ArraySparseMatMulEx, ESMF_ArraySparseMatMulEx.F90, line 647
+  PASS  Example ESMF_ArraySparseMatMulEx, ESMF_ArraySparseMatMulEx.F90, line 647
+  PASS  Example ESMF_ArraySparseMatMulEx, ESMF_ArraySparseMatMulEx.F90, line 647
+  PASS  Example ESMF_ArraySparseMatMulEx, ESMF_ArraySparseMatMulEx.F90, line 647
+ PASS: ESMF_ArraySparseMatMulEx.F90
+ PASS: ESMF_ArraySparseMatMulEx.F90
+ PASS: ESMF_ArraySparseMatMulEx.F90
+ PASS: ESMF_ArraySparseMatMulEx.F90

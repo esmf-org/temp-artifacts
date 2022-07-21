@@ -1,0 +1,93 @@
+2022-07-21 20:17:21
+[1658435964.429027] [h12c08:78149:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.429087] [h12c08:78151:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.429255] [h12c08:78148:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.429246] [h12c08:78150:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.434363] [h12c08:78149:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.434437] [h12c08:78151:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.434829] [h12c08:78148:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435964.434880] [h12c08:78150:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Application Example 1:
+ Application Example 1:
+ Application Example 1:
+ Application Example 1:
+ Comp Create returned, name = Atmosphere Model Coupler
+ Comp Create returned, name = Atmosphere Model Coupler
+ Comp Create returned, name = Atmosphere Model Coupler
+ Comp Create returned, name = Atmosphere Model Coupler
+ Coupler Init starting
+ Coupler Init returning
+ Comp Initialize complete
+ Coupler Init starting
+ Coupler Init returning
+ Comp Initialize complete
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Init starting
+ Coupler Init returning
+ Comp Initialize complete
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Init starting
+ Coupler Init returning
+ Comp Initialize complete
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Comp Run complete
+ Coupler Final starting
+ Coupler Final returning
+ Comp Finalize complete
+ Coupler Run starting
+ Coupler Run returning
+ Comp Run complete
+ Coupler Final starting
+ Coupler Final returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Coupler Run starting
+ Coupler Run returning
+ Comp Run complete
+ Coupler Final starting
+ Coupler Final returning
+ Coupler Run starting
+ Coupler Run returning
+ Comp Run complete
+ Coupler Final starting
+ Coupler Final returning
+ Comp Finalize complete
+ Comp Finalize complete
+ Comp Finalize complete
+ Destroy calls returned
+ Application Example 1 finished
+ Destroy calls returned
+ Application Example 1 finished
+ Destroy calls returned
+ Application Example 1 finished
+ Destroy calls returned
+ Application Example 1 finished
+  PASS  Example ESMF_CplEx, ESMF_CplEx.F90, line 457
+  PASS  Example ESMF_CplEx, ESMF_CplEx.F90, line 457
+  PASS  Example ESMF_CplEx, ESMF_CplEx.F90, line 457
+  PASS  Example ESMF_CplEx, ESMF_CplEx.F90, line 457
+ PASS: ESMF_CplEx.F90
+ PASS: ESMF_CplEx.F90
+ PASS: ESMF_CplEx.F90
+ PASS: ESMF_CplEx.F90

@@ -1,0 +1,41 @@
+2022-07-21 20:17:21
+[1658435456.563819] [h12c08:291453:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.563877] [h12c08:291455:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.564019] [h12c08:291452:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.564060] [h12c08:291454:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.569627] [h12c08:291453:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.569756] [h12c08:291452:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.569805] [h12c08:291455:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435456.569866] [h12c08:291454:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 51
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 51
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 51
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 51
+  NUMBER_OF_PROCESSORS           4
+  PASS  No double initialization, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 71
+  PASS  No double initialization, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 71
+  PASS  No double initialization, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 71
+  PASS  No double initialization, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 71
+  PASS  Initialize/Destroy, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 85
+  PASS  Initialize/Destroy, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 85
+  PASS  Initialize/Destroy, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 85
+  PASS  Initialize/Destroy, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 85
+  PASS  Initialize behavior, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 110
+  PASS  Initialize behavior, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 110
+  PASS  Initialize behavior, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 110
+  PASS  Initialize behavior, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 110
+  PASS  Mesh is enabled, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 146
+  PASS  Mesh is enabled, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 146
+  PASS  Mesh is enabled, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 146
+  PASS  Mesh is enabled, src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 146
+  Ending Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 153
+  Ending Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 153
+  Ending Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 153
+  Ending Test, file src/Superstructure/InfoAPI/tests/ESMF_InfoDescribeUTest.F90, line 153
+  PET           2  Test Elapsed Time    16.544000000000004       msec.
+  PET           3  Test Elapsed Time    17.418000000000003       msec.
+  PET           0  Test Elapsed Time    17.287000000000010       msec.
+  PET           1  Test Elapsed Time    17.442000000000000       msec.

@@ -1,0 +1,61 @@
+2022-07-21 20:17:21
+[1658435479.492393] [h12c08:298551:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.492414] [h12c08:298553:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.494811] [h12c08:298552:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.494811] [h12c08:298554:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.497800] [h12c08:298553:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.497857] [h12c08:298551:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.501271] [h12c08:298554:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435479.501323] [h12c08:298552:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_RegridWeightGenUTest.F90, line 62
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_RegridWeightGenUTest.F90, line 62
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_RegridWeightGenUTest.F90, line 62
+  Beginning Test, file ESMF_RegridWeightGenUTest.F90, line 62
+  PASS  RegridWeightGen bilinear Test, ESMF_RegridWeightGenUTest.F90, line 97
+  NUMBER_OF_PROCESSORS           4
+  PASS  RegridWeightGen bilinear Test, ESMF_RegridWeightGenUTest.F90, line 97
+  PASS  RegridWeightGen weightfile and routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 117
+  NUMBER_OF_PROCESSORS           4
+  PASS  RegridWeightGen weightfile and routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 117
+  PASS  RegridWeightGen just routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 135
+  PASS  RegridWeightGen just routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 135
+  PASS  RegridWeightGen no file fail Test, ESMF_RegridWeightGenUTest.F90, line 153
+  PASS  RegridWeightGen no file fail Test, ESMF_RegridWeightGenUTest.F90, line 153
+  PASS  RegridWeightGen patch Test, ESMF_RegridWeightGenUTest.F90, line 174
+  PASS  RegridWeightGen patch Test, ESMF_RegridWeightGenUTest.F90, line 174
+  PASS  RegridWeightGen conserve with no pole Test, ESMF_RegridWeightGenUTest.F90, line 197
+  PASS  RegridWeightGen conserve with no pole Test, ESMF_RegridWeightGenUTest.F90, line 197
+  PASS  RegridWeightGen bilinear with route handle, ESMF_RegridWeightGenUTest.F90, line 226
+  PASS  RegridWeightGen bilinear with route handle, ESMF_RegridWeightGenUTest.F90, line 226
+  PASS  RegridWeightGen patch Test with route handle, ESMF_RegridWeightGenUTest.F90, line 248
+  PASS  RegridWeightGen patch Test with route handle, ESMF_RegridWeightGenUTest.F90, line 248
+  PASS  RegridWeightGen conserve with route handle, ESMF_RegridWeightGenUTest.F90, line 271
+  PASS  RegridWeightGen bilinear Test, ESMF_RegridWeightGenUTest.F90, line 97
+  PASS  RegridWeightGen bilinear Test, ESMF_RegridWeightGenUTest.F90, line 97
+  PASS  RegridWeightGen conserve with route handle, ESMF_RegridWeightGenUTest.F90, line 271
+  Ending Test, file ESMF_RegridWeightGenUTest.F90, line 277
+  Ending Test, file ESMF_RegridWeightGenUTest.F90, line 277
+  PASS  RegridWeightGen weightfile and routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 117
+  PASS  RegridWeightGen weightfile and routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 117
+  PASS  RegridWeightGen just routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 135
+  PASS  RegridWeightGen just routehandle file Test, ESMF_RegridWeightGenUTest.F90, line 135
+  PASS  RegridWeightGen no file fail Test, ESMF_RegridWeightGenUTest.F90, line 153
+  PASS  RegridWeightGen no file fail Test, ESMF_RegridWeightGenUTest.F90, line 153
+  PASS  RegridWeightGen patch Test, ESMF_RegridWeightGenUTest.F90, line 174
+  PASS  RegridWeightGen patch Test, ESMF_RegridWeightGenUTest.F90, line 174
+  PASS  RegridWeightGen conserve with no pole Test, ESMF_RegridWeightGenUTest.F90, line 197
+  PASS  RegridWeightGen conserve with no pole Test, ESMF_RegridWeightGenUTest.F90, line 197
+  PASS  RegridWeightGen bilinear with route handle, ESMF_RegridWeightGenUTest.F90, line 226
+  PASS  RegridWeightGen bilinear with route handle, ESMF_RegridWeightGenUTest.F90, line 226
+  PASS  RegridWeightGen patch Test with route handle, ESMF_RegridWeightGenUTest.F90, line 248
+  PASS  RegridWeightGen patch Test with route handle, ESMF_RegridWeightGenUTest.F90, line 248
+  PASS  RegridWeightGen conserve with route handle, ESMF_RegridWeightGenUTest.F90, line 271
+  PASS  RegridWeightGen conserve with route handle, ESMF_RegridWeightGenUTest.F90, line 271
+  Ending Test, file ESMF_RegridWeightGenUTest.F90, line 277
+  Ending Test, file ESMF_RegridWeightGenUTest.F90, line 277
+  PET           2  Test Elapsed Time    14.677999999999983       msec.
+  PET           0  Test Elapsed Time    15.036999999999981       msec.
+  PET           1  Test Elapsed Time    16.505000000000006       msec.
+  PET           3  Test Elapsed Time    16.144000000000005       msec.

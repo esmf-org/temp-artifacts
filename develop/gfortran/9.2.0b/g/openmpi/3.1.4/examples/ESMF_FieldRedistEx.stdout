@@ -1,0 +1,17 @@
+2022-07-21 20:17:21
+[1658435955.327582] [h12c08:74949:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.327639] [h12c08:74947:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.327908] [h12c08:74948:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.327973] [h12c08:74950:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.333507] [h12c08:74949:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.333555] [h12c08:74947:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.333735] [h12c08:74948:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435955.333804] [h12c08:74950:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldRedistEx, ESMF_FieldRedistEx.F90, line 521
+  PASS  Example ESMF_FieldRedistEx, ESMF_FieldRedistEx.F90, line 521
+  PASS  Example ESMF_FieldRedistEx, ESMF_FieldRedistEx.F90, line 521
+  PASS  Example ESMF_FieldRedistEx, ESMF_FieldRedistEx.F90, line 521
+ PASS: ESMF_FieldRedistEx.F90
+ PASS: ESMF_FieldRedistEx.F90
+ PASS: ESMF_FieldRedistEx.F90
+ PASS: ESMF_FieldRedistEx.F90

@@ -1,0 +1,97 @@
+2022-07-21 20:17:21
+[1658435139.925615] [h12c08:259570:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.926123] [h12c08:259568:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.926210] [h12c08:259571:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.925947] [h12c08:259572:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.925903] [h12c08:259573:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.926715] [h12c08:259566:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.928334] [h12c08:259569:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.928373] [h12c08:259567:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.930958] [h12c08:259570:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.931636] [h12c08:259573:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.932180] [h12c08:259571:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.932401] [h12c08:259568:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.932546] [h12c08:259572:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.932596] [h12c08:259566:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.934625] [h12c08:259569:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435139.934679] [h12c08:259567:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           8
+  NUMBER_OF_PROCESSORS           8
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           8
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           8
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           8
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           8
+  Beginning Test, file ESMF_ProfileUTest.F90, line 64
+  NUMBER_OF_PROCESSORS           8
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  NUMBER_OF_PROCESSORS           8
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region enter, ESMF_ProfileUTest.F90, line 80
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+  PASS  Test trace user region exit, ESMF_ProfileUTest.F90, line 88
+ Inside Init
+ Inside Init
+ Inside Init
+ Inside Init
+ Inside Init
+ Inside Init
+ Inside Init
+ Inside Init
+ Inside Finalize
+ Inside Finalize
+ Inside Finalize
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+ Inside Finalize
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+ Inside Finalize
+ Inside Finalize
+ Inside Finalize
+ Inside Finalize
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+  PASS  Test trace phase enter/exit, ESMF_ProfileUTest.F90, line 116
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  PASS  Close trace, ESMF_ProfileUTest.F90, line 127
+  Ending Test, file ESMF_ProfileUTest.F90, line 138
+  PET           4  Test Elapsed Time    25.120999999999992       msec.
+  PET           6  Test Elapsed Time    25.116000000000014       msec.
+  PET           5  Test Elapsed Time    24.802999999999990       msec.
+  PET           7  Test Elapsed Time    29.556000000000012       msec.
+  PET           3  Test Elapsed Time    29.414999999999996       msec.
+  PET           2  Test Elapsed Time    29.798000000000005       msec.
+  PET           0  Test Elapsed Time    32.076000000000008       msec.
+  PET           1  Test Elapsed Time    30.327999999999992       msec.

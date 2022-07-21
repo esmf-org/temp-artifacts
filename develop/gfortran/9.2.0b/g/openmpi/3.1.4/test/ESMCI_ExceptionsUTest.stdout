@@ -1,0 +1,41 @@
+2022-07-21 20:17:21
+[1658435067.886265] [h12c08:236368:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.886347] [h12c08:236369:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.886326] [h12c08:236370:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.886391] [h12c08:236371:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.891444] [h12c08:236368:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.891617] [h12c08:236370:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.892869] [h12c08:236369:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435067.892933] [h12c08:236371:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63NUMBER_OF_PROCESSORS 4
+PASS Bare throw Test, ESMCI_ExceptionsUTest.C, line 76
+PASS Deep throw Test, ESMCI_ExceptionsUTest.C, line 89
+PASS ClassNoDestructor throw Test, ESMCI_ExceptionsUTest.C, line 102
+PASS ClassWithDestructor throw Test, ESMCI_ExceptionsUTest.C, line 115
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63NUMBER_OF_PROCESSORS 4
+PASS Bare throw Test, ESMCI_ExceptionsUTest.C, line 76
+PASS Deep throw Test, ESMCI_ExceptionsUTest.C, line 89
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63
+PASS ClassNoDestructor throw Test, ESMCI_ExceptionsUTest.C, line 102
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMCI_ExceptionsUTest.C, line 63NUMBER_OF_PROCESSORS 4
+PASS ClassWithDestructor throw Test, ESMCI_ExceptionsUTest.C, line 115
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119
+PASS Bare throw Test, ESMCI_ExceptionsUTest.C, line 76
+PASS Bare throw Test, ESMCI_ExceptionsUTest.C, line 76
+PASS Deep throw Test, ESMCI_ExceptionsUTest.C, line 89
+PASS Deep throw Test, ESMCI_ExceptionsUTest.C, line 89
+PASS ClassNoDestructor throw Test, ESMCI_ExceptionsUTest.C, line 102
+PASS ClassNoDestructor throw Test, ESMCI_ExceptionsUTest.C, line 102
+PASS ClassWithDestructor throw Test, ESMCI_ExceptionsUTest.C, line 115
+PASS ClassWithDestructor throw Test, ESMCI_ExceptionsUTest.C, line 115
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119 PET 3 Test Elapsed Time -941.135 msec.
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119 PET 1 Test Elapsed Time -938.248 msec.
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119 PET 0 Test Elapsed Time -938.676 msec.
+Ending Test, file ESMCI_ExceptionsUTest.C, line 119 PET 2 Test Elapsed Time -938.689 msec.
