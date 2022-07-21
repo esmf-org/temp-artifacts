@@ -1,0 +1,56 @@
+2022-07-21 14:11:31
+20220721 143518.055 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220721 143518.055 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220721 143518.055 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220721 143518.055 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220721 143518.055 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220721 143518.055 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220721 143518.055 INFO             PET0 Running with ESMF Version   : v8.4.0b06-9-g32178349b8
+20220721 143518.055 INFO             PET0 ESMF library build date/time: "Jul 21 2022" "14:06:13"
+20220721 143518.055 INFO             PET0 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpiuni_g_dushan_dev_info_fix/esmf
+20220721 143518.055 INFO             PET0 ESMF_COMM                   : mpiuni
+20220721 143518.055 INFO             PET0 ESMF_MOAB                   : enabled
+20220721 143518.055 INFO             PET0 ESMF_LAPACK                 : enabled
+20220721 143518.055 INFO             PET0 ESMF_NETCDF                 : enabled
+20220721 143518.055 INFO             PET0 ESMF_PNETCDF                : disabled
+20220721 143518.055 INFO             PET0 ESMF_PIO                    : disabled
+20220721 143518.055 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220721 143518.055 INFO             PET0  Beginning Test, file ESMF_LocStreamUTest.F90, line 78
+20220721 143518.055 INFO             PET0  NUMBER_OF_PROCESSORS           1
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream IsCreated for uncreated object, ESMF_LocStreamUTest.F90, line 99
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream IsCreated for uncreated object, ESMF_LocStreamUTest.F90, line 107
+20220721 143518.056 INFO             PET0  PASS  Create test LocStream for IsCreated, ESMF_LocStreamUTest.F90, line 115
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream IsCreated for created object, ESMF_LocStreamUTest.F90, line 123
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream IsCreated for created object, ESMF_LocStreamUTest.F90, line 131
+20220721 143518.056 INFO             PET0  PASS  Destroy test LocStream for IsCreated, ESMF_LocStreamUTest.F90, line 139
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream IsCreated for destroyed object, ESMF_LocStreamUTest.F90, line 147
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream IsCreated for destroyed object, ESMF_LocStreamUTest.F90, line 155
+20220721 143518.056 ERROR            PET0 ESMF_LocStream.F90:4209 ESMF_LocStreamValidate Object being used after deletion  - Bad Object
+20220721 143518.056 ERROR            PET0 ESMF_LocStream.F90:4209 ESMF_LocStreamValidate Object being used after deletion  - Bad Object
+20220721 143518.056 INFO             PET0  PASS  Testing LocStream Validate, ESMF_LocStreamUTest.F90, line 187
+20220721 143518.056 INFO             PET0  PASS  Test ESMF_LocStreamCreate from Regular distribution, ESMF_LocStreamUTest.F90, line 335
+20220721 143518.056 INFO             PET0  PASS  LocStream equality before assignment Test, ESMF_LocStreamUTest.F90, line 343
+20220721 143518.056 INFO             PET0  PASS  LocStream assignment and equality Test, ESMF_LocStreamUTest.F90, line 352
+20220721 143518.056 INFO             PET0  PASS  LocStreamDestroy Test, ESMF_LocStreamUTest.F90, line 359
+20220721 143518.057 INFO             PET0  PASS  LocStream equality after destroy Test, ESMF_LocStreamUTest.F90, line 367
+20220721 143518.057 INFO             PET0  PASS  LocStream non-equality after destroy Test, ESMF_LocStreamUTest.F90, line 375
+20220721 143518.057 INFO             PET0  PASS  Double LocStreamDestroy through alias Test, ESMF_LocStreamUTest.F90, line 382
+20220721 143518.057 INFO             PET0  PASS  Test ESMF_LocStreamCreate from Irregular distribution, ESMF_LocStreamUTest.F90, line 534
+20220721 143518.059 INFO             PET0  PASS  Testing LocStream Create from localCount and indexflag=ESMF_INDEX_DELOCAL, ESMF_LocStreamUTest.F90, line 571
+20220721 143518.060 INFO             PET0  PASS  Testing LocStream Create from localCount and indexflag=ESMF_INDEX_GLOBAL, ESMF_LocStreamUTest.F90, line 607
+20220721 143518.060 INFO             PET0  PASS  Testing LocStream Create defaults and LocStream Get, ESMF_LocStreamUTest.F90, line 650
+20220721 143518.060 INFO             PET0  PASS  Test keyCount and keyNames response to ESMF_LocStreamAddKey, ESMF_LocStreamUTest.F90, line 706
+20220721 143518.061 INFO             PET0  PASS  Test ESMF_LocStreamGetKey getting an I4 pointer and bounds, ESMF_LocStreamUTest.F90, line 767
+20220721 143518.062 INFO             PET0  PASS  Test ESMF_LocStreamGetKey getting an R4 pointer and bounds, ESMF_LocStreamUTest.F90, line 828
+20220721 143518.062 INFO             PET0  PASS  Test ESMF_LocStreamGetKey getting an R8 pointer and bounds, ESMF_LocStreamUTest.F90, line 890
+20220721 143518.062 INFO             PET0  PASS  Test getting keyUnits and keyLongName, ESMF_LocStreamUTest.F90, line 934
+20220721 143518.063 INFO             PET0  PASS  Test LocStream Serialize/Deserialize, ESMF_LocStreamUTest.F90, line 1020
+20220721 143518.066 INFO             PET0  PASS  Test Print, ESMF_LocStreamUTest.F90, line 1053
+20220721 143518.066 INFO             PET0  PASS  Test ESMF_LocStreamCreate from Regular distribution, ESMF_LocStreamUTest.F90, line 1205
+20220721 143518.066 INFO             PET0  PASS  Test ESMF_LocStreamCreate from Irregular distribution, ESMF_LocStreamUTest.F90, line 1358
+20220721 143518.066 INFO             PET0  PASS  Test ESMF_LocStream Create From Background Mesh, ESMF_LocStreamUTest.F90, line 1670
+20220721 143518.082 INFO             PET0  PASS  Test ESMF_LocStream Create From Background Grid, ESMF_LocStreamUTest.F90, line 1686
+20220721 143518.095 INFO             PET0  PASS  Test ESMF_LocStream Create From Background Grid non-default Align, ESMF_LocStreamUTest.F90, line 1701
+20220721 143518.109 INFO             PET0  PASS  Test ESMF_LocStream Create From Background Grid on Sphere, ESMF_LocStreamUTest.F90, line 1717
+20220721 143518.109 INFO             PET0  Ending Test, file ESMF_LocStreamUTest.F90, line 1727
+20220721 143518.109 INFO             PET0 Finalizing ESMF
