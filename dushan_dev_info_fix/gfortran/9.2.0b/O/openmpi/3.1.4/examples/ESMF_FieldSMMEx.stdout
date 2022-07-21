@@ -1,0 +1,21 @@
+2022-07-21 20:17:41
+[1658435799.475064] [h12c07:258488:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.475079] [h12c07:258490:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.475256] [h12c07:258489:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.475187] [h12c07:258491:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.480667] [h12c07:258488:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.480683] [h12c07:258490:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.480795] [h12c07:258491:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435799.480942] [h12c07:258489:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+           0 -           1           1 -           3           1 -   0.00000000       0.00000000       1.30000007    
+  PASS  Example ESMF_FieldSMMEx, ESMF_FieldSMMEx.F90, line 419
+           2 -           1           3 -           3           3 -   0.00000000       2.25000000       0.00000000    
+  PASS  Example ESMF_FieldSMMEx, ESMF_FieldSMMEx.F90, line 419
+           3 -           1           4 -           3           4 -   0.00000000       0.00000000       3.09999990    
+  PASS  Example ESMF_FieldSMMEx, ESMF_FieldSMMEx.F90, line 419
+           1 -           1           2 -           3           2 -   0.00000000       0.00000000       0.00000000    
+  PASS  Example ESMF_FieldSMMEx, ESMF_FieldSMMEx.F90, line 419
+ PASS: ESMF_FieldSMMEx.F90
+ PASS: ESMF_FieldSMMEx.F90
+ PASS: ESMF_FieldSMMEx.F90
+ PASS: ESMF_FieldSMMEx.F90

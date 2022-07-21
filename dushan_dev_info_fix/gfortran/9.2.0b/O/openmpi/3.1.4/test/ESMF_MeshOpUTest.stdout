@@ -1,0 +1,33 @@
+2022-07-21 20:17:41
+[1658435231.654588] [h12c07:147698:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.654592] [h12c07:147700:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.654889] [h12c07:147699:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.654836] [h12c07:147701:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.660000] [h12c07:147698:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.660017] [h12c07:147700:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.660614] [h12c07:147701:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435231.660664] [h12c07:147699:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_MeshOpUTest.F90, line 50
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_MeshOpUTest.F90, line 50
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_MeshOpUTest.F90, line 50
+  NUMBER_OF_PROCESSORS           4
+ Starting test3
+ Starting test3
+  Beginning Test, file ESMF_MeshOpUTest.F90, line 50
+  NUMBER_OF_PROCESSORS           4
+ Starting test3
+ Starting test3
+  PASS  exercise difference operation, ESMF_MeshOpUTest.F90, line 60
+  PASS  exercise difference operation, ESMF_MeshOpUTest.F90, line 60
+  Ending Test, file ESMF_MeshOpUTest.F90, line 62
+  PASS  exercise difference operation, ESMF_MeshOpUTest.F90, line 60
+  Ending Test, file ESMF_MeshOpUTest.F90, line 62
+  PASS  exercise difference operation, ESMF_MeshOpUTest.F90, line 60
+  Ending Test, file ESMF_MeshOpUTest.F90, line 62
+  Ending Test, file ESMF_MeshOpUTest.F90, line 62
+  PET           0  Test Elapsed Time    28.360999999999997       msec.
+  PET           2  Test Elapsed Time    27.565999999999992       msec.
+  PET           3  Test Elapsed Time    28.468999999999994       msec.
+  PET           1  Test Elapsed Time    28.982000000000006       msec.

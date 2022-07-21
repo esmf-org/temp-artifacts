@@ -1,0 +1,17 @@
+2022-07-21 20:17:41
+[1658435797.129114] [h12c07:257867:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.129150] [h12c07:257869:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.129376] [h12c07:257866:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.129363] [h12c07:257868:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.134587] [h12c07:257867:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.134708] [h12c07:257869:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.134906] [h12c07:257868:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.134934] [h12c07:257866:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldMeshRegridEx, ESMF_FieldMeshRegridEx.F90, line 807
+  PASS  Example ESMF_FieldMeshRegridEx, ESMF_FieldMeshRegridEx.F90, line 807
+  PASS  Example ESMF_FieldMeshRegridEx, ESMF_FieldMeshRegridEx.F90, line 807
+  PASS  Example ESMF_FieldMeshRegridEx, ESMF_FieldMeshRegridEx.F90, line 807
+ PASS: ESMF_FieldMeshRegridEx.F90
+ PASS: ESMF_FieldMeshRegridEx.F90
+ PASS: ESMF_FieldMeshRegridEx.F90
+ PASS: ESMF_FieldMeshRegridEx.F90

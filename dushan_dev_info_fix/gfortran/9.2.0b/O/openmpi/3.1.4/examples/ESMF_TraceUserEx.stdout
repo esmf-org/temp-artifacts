@@ -1,0 +1,23 @@
+2022-07-21 20:17:41
+[1658435755.417106] [h12c07:239972:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.417103] [h12c07:239974:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.417231] [h12c07:239973:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.417224] [h12c07:239975:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.422540] [h12c07:239974:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.422710] [h12c07:239972:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.422803] [h12c07:239975:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435755.422822] [h12c07:239973:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ --------------------------------------- 
+ Start of ESMF_TraceUser Example
+ --------------------------------------- 
+  PASS  Example ESMF_TraceUserEx, ESMF_TraceUserEx.F90, line 125
+  PASS  Example ESMF_TraceUserEx, ESMF_TraceUserEx.F90, line 125
+  PASS  Example ESMF_TraceUserEx, ESMF_TraceUserEx.F90, line 125
+  PASS  Example ESMF_TraceUserEx, ESMF_TraceUserEx.F90, line 125
+ PASS: ESMF_TraceUserEx.F90
+ --------------------------------------- 
+ End of ESMF_TraceUser Example
+ --------------------------------------- 
+ PASS: ESMF_TraceUserEx.F90
+ PASS: ESMF_TraceUserEx.F90
+ PASS: ESMF_TraceUserEx.F90

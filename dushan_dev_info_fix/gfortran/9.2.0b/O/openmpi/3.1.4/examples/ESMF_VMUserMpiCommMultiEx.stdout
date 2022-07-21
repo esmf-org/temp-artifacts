@@ -1,0 +1,21 @@
+2022-07-21 20:17:41
+[1658435750.694643] [h12c07:238273:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.694796] [h12c07:238271:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.694689] [h12c07:238272:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.694763] [h12c07:238274:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.700358] [h12c07:238272:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.700475] [h12c07:238273:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.700472] [h12c07:238274:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435750.700511] [h12c07:238271:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ ESMF application on MPI rank:           3
+ ESMF application on MPI rank:           2
+  PASS  Example ESMF_VMUserMpiCommMultiEx, ESMF_VMUserMpiCommMultiEx.F90, line 154
+  PASS  Example ESMF_VMUserMpiCommMultiEx, ESMF_VMUserMpiCommMultiEx.F90, line 154
+ ESMF application on MPI rank:           1
+ ESMF application on MPI rank:           0
+  PASS  Example ESMF_VMUserMpiCommMultiEx, ESMF_VMUserMpiCommMultiEx.F90, line 126
+  PASS  Example ESMF_VMUserMpiCommMultiEx, ESMF_VMUserMpiCommMultiEx.F90, line 126
+ PASS: ESMF_VMUserMpiCommMultiEx.F90
+ PASS: ESMF_VMUserMpiCommMultiEx.F90
+ PASS: ESMF_VMUserMpiCommMultiEx.F90
+ PASS: ESMF_VMUserMpiCommMultiEx.F90

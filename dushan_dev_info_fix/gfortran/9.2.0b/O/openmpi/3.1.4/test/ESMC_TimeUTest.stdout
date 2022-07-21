@@ -1,0 +1,125 @@
+2022-07-21 20:17:41
+[1658435168.768997] [h12c07:132834:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.769040] [h12c07:132836:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.769383] [h12c07:132833:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.769974] [h12c07:132835:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.774137] [h12c07:132834:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.774169] [h12c07:132836:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.774845] [h12c07:132833:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435168.775227] [h12c07:132835:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMC_TimeUTest.C, line 52
+Beginning Test, file ESMC_TimeUTest.C, line 52NUMBER_OF_PROCESSORS 4
+After CalendarCreate rc = 0 
+PASS Create ESMC_Calendar object, ESMC_TimeUTest.C, line 61
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+Beginning Test, file ESMC_TimeUTest.C, line 52
+Beginning Test, file ESMC_TimeUTest.C, line 52NUMBER_OF_PROCESSORS 4
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+After CalendarCreate rc = 0 
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+PASS Create ESMC_Calendar object, ESMC_TimeUTest.C, line 61
+PASS Print ESMC_Calendar object, ESMC_TimeUTest.C, line 69
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+Time -----------------------------------
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+PASS Set a Time, ESMC_TimeUTest.C, line 77
+end Calendar ---------------------------
+
+PASS Print ESMC_Calendar object, ESMC_TimeUTest.C, line 69
+2006-01-01T00:00:00
+end Time -------------------------------
+
+PASS Print ESMC_Time object, ESMC_TimeUTest.C, line 85
+PASS Set a Time, ESMC_TimeUTest.C, line 77
+Time -----------------------------------
+PASS Get a Time, ESMC_TimeUTest.C, line 93
+2006-01-01T00:00:00
+end Time -------------------------------
+
+Beginning Test, file ESMC_TimeUTest.C, line 52
+PASS Check that TimeZone parameter is set and get correctly, ESMC_TimeUTest.C, line 102
+PASS Check that ESMC_Calendar parameter is set and get correctly, ESMC_TimeUTest.C, line 110
+PASS Destroy ESMC_Calendar object, ESMC_TimeUTest.C, line 120
+PASS Print ESMC_Time object, ESMC_TimeUTest.C, line 85
+Beginning Test, file ESMC_TimeUTest.C, line 52NUMBER_OF_PROCESSORS 4
+After CalendarCreate rc = 0 
+Ending Test, file ESMC_TimeUTest.C, line 124
+PASS Get a Time, ESMC_TimeUTest.C, line 93
+PASS Check that TimeZone parameter is set and get correctly, ESMC_TimeUTest.C, line 102
+PASS Check that ESMC_Calendar parameter is set and get correctly, ESMC_TimeUTest.C, line 110
+PASS Destroy ESMC_Calendar object, ESMC_TimeUTest.C, line 120
+PASS Create ESMC_Calendar object, ESMC_TimeUTest.C, line 61
+Ending Test, file ESMC_TimeUTest.C, line 124
+Beginning Test, file ESMC_TimeUTest.C, line 52
+Beginning Test, file ESMC_TimeUTest.C, line 52NUMBER_OF_PROCESSORS 4
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+After CalendarCreate rc = 0 
+end Calendar ---------------------------
+
+PASS Print ESMC_Calendar object, ESMC_TimeUTest.C, line 69
+PASS Create ESMC_Calendar object, ESMC_TimeUTest.C, line 61
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+PASS Set a Time, ESMC_TimeUTest.C, line 77
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+Time -----------------------------------
+2006-01-01T00:00:00
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+end Time -------------------------------
+
+PASS Print ESMC_Calendar object, ESMC_TimeUTest.C, line 69
+PASS Print ESMC_Time object, ESMC_TimeUTest.C, line 85
+PASS Set a Time, ESMC_TimeUTest.C, line 77
+Time -----------------------------------
+PASS Get a Time, ESMC_TimeUTest.C, line 93
+PASS Check that TimeZone parameter is set and get correctly, ESMC_TimeUTest.C, line 102
+PASS Check that ESMC_Calendar parameter is set and get correctly, ESMC_TimeUTest.C, line 110
+PASS Destroy ESMC_Calendar object, ESMC_TimeUTest.C, line 120
+2006-01-01T00:00:00
+end Time -------------------------------
+
+PASS Print ESMC_Time object, ESMC_TimeUTest.C, line 85
+Ending Test, file ESMC_TimeUTest.C, line 124
+PASS Get a Time, ESMC_TimeUTest.C, line 93
+PASS Check that TimeZone parameter is set and get correctly, ESMC_TimeUTest.C, line 102
+PASS Check that ESMC_Calendar parameter is set and get correctly, ESMC_TimeUTest.C, line 110
+PASS Destroy ESMC_Calendar object, ESMC_TimeUTest.C, line 120
+Ending Test, file ESMC_TimeUTest.C, line 124
+Ending Test, file ESMC_TimeUTest.C, line 124 PET 2 Test Elapsed Time 59.808 msec.
+Ending Test, file ESMC_TimeUTest.C, line 124 PET 3 Test Elapsed Time 59.441 msec.
+Ending Test, file ESMC_TimeUTest.C, line 124 PET 0 Test Elapsed Time 59.737 msec.
+Ending Test, file ESMC_TimeUTest.C, line 124 PET 1 Test Elapsed Time 59.564 msec.

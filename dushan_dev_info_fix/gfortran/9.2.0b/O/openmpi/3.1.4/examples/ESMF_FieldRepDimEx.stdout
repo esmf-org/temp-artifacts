@@ -1,0 +1,21 @@
+2022-07-21 20:17:41
+[1658435797.587607] [h12c07:257991:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.587606] [h12c07:257993:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.588383] [h12c07:257994:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.588438] [h12c07:257992:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.593077] [h12c07:257991:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.593131] [h12c07:257993:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.593789] [h12c07:257994:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435797.593861] [h12c07:257992:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldRepDimEx, ESMF_FieldRepDimEx.F90, line 228
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldRepDimEx, ESMF_FieldRepDimEx.F90, line 228
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldRepDimEx, ESMF_FieldRepDimEx.F90, line 228
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldRepDimEx, ESMF_FieldRepDimEx.F90, line 228
+ PASS: ESMF_FieldRepDimEx.F90
+ PASS: ESMF_FieldRepDimEx.F90
+ PASS: ESMF_FieldRepDimEx.F90
+ PASS: ESMF_FieldRepDimEx.F90

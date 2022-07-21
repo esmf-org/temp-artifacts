@@ -1,0 +1,45 @@
+2022-07-21 20:17:41
+[1658435390.644661] [h12c07:171562:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.644687] [h12c07:171564:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.644770] [h12c07:171561:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.644837] [h12c07:171563:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.650188] [h12c07:171564:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.650145] [h12c07:171562:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.650401] [h12c07:171561:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435390.650447] [h12c07:171563:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_TestUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_TestUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  PASS  Use of ESMF_Test(), true, ESMF_TestUTest.F90, line 60
+  Beginning Test, file ESMF_TestUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  PASS  Use of ESMF_Test(), true, ESMF_TestUTest.F90, line 60
+  Beginning Test, file ESMF_TestUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  PASS  Use of ESMF_Test(), true, ESMF_TestUTest.F90, line 60
+  PASS  Use of ESMF_Test(), true, ESMF_TestUTest.F90, line 60
+  PASS  Compare identical files, ESMF_TestUTest.F90, line 108
+  PASS  Compare identical files, ESMF_TestUTest.F90, line 108
+  PASS  Compare non-identical files, ESMF_TestUTest.F90, line 115
+  PASS  Compare identical files, ESMF_TestUTest.F90, line 108
+  PASS  Compare non-identical files, ESMF_TestUTest.F90, line 115
+  PASS  Compare non-identical files with exception list (non-match), ESMF_TestUTest.F90, line 123
+  PASS  Compare non-identical files, ESMF_TestUTest.F90, line 115
+  PASS  Compare non-identical files with exception list (non-match), ESMF_TestUTest.F90, line 123
+  PASS  Compare non-identical files with exception list (matching), ESMF_TestUTest.F90, line 131
+  PASS  Compare identical files, ESMF_TestUTest.F90, line 108
+  PASS  Compare non-identical files with exception list (non-match), ESMF_TestUTest.F90, line 123
+  PASS  Compare non-identical files with exception list (matching), ESMF_TestUTest.F90, line 131
+  PASS  Compare non-identical files, ESMF_TestUTest.F90, line 115
+  PASS  Compare non-identical files with exception list (matching), ESMF_TestUTest.F90, line 131
+  PASS  Compare non-identical files with exception list (non-match), ESMF_TestUTest.F90, line 123
+  PASS  Compare non-identical files with exception list (matching), ESMF_TestUTest.F90, line 131
+  Ending Test, file ESMF_TestUTest.F90, line 141
+  Ending Test, file ESMF_TestUTest.F90, line 141
+  Ending Test, file ESMF_TestUTest.F90, line 141
+  Ending Test, file ESMF_TestUTest.F90, line 141
+  PET           1  Test Elapsed Time    17.319000000000003       msec.
+  PET           3  Test Elapsed Time    17.515000000000004       msec.
+  PET           0  Test Elapsed Time    17.910000000000011       msec.
+  PET           2  Test Elapsed Time    17.888000000000002       msec.

@@ -1,0 +1,17 @@
+2022-07-21 20:17:41
+[1658435781.067708] [h12c07:250961:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.067717] [h12c07:250963:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.067818] [h12c07:250960:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.067869] [h12c07:250962:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.073165] [h12c07:250963:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.073176] [h12c07:250961:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.073416] [h12c07:250960:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435781.073458] [h12c07:250962:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_GridUsageEx, ESMF_GridUsageEx.F90, line 3470
+  PASS  Example ESMF_GridUsageEx, ESMF_GridUsageEx.F90, line 3470
+  PASS  Example ESMF_GridUsageEx, ESMF_GridUsageEx.F90, line 3470
+  PASS  Example ESMF_GridUsageEx, ESMF_GridUsageEx.F90, line 3470
+ PASS: ESMF_GridUsageEx.F90
+ PASS: ESMF_GridUsageEx.F90
+ PASS: ESMF_GridUsageEx.F90
+ PASS: ESMF_GridUsageEx.F90

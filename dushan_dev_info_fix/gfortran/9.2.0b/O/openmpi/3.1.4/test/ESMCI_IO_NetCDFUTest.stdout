@@ -1,0 +1,49 @@
+2022-07-21 20:17:41
+[1658435208.054163] [h12c07:142947:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.054194] [h12c07:142949:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.054479] [h12c07:142946:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.054509] [h12c07:142948:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.059547] [h12c07:142947:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.059575] [h12c07:142949:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.059952] [h12c07:142948:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435208.060004] [h12c07:142946:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53NUMBER_OF_PROCESSORS 4
+PASS Create ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 62
+PASS Create ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 62
+PASS Create ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 70
+PASS read netcdf data into ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 83
+PASS Create ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 70
+PASS read netcdf data into ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 83
+PASS write netcdf data from ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 92
+PASS write netcdf data from ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 92
+PASS Destroy ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 100
+PASS Destroy ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 100
+PASS Destroy ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 108
+PASS Destroy ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 108
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53
+Beginning Test, file ESMCI_IO_NetCDFUTest.C, line 53NUMBER_OF_PROCESSORS 4
+PASS Create ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 62
+PASS Create ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 62
+PASS Create ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 70
+PASS read netcdf data into ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 83
+PASS write netcdf data from ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 92
+PASS Create ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 70
+PASS read netcdf data into ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 83
+PASS Destroy ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 100
+PASS Destroy ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 108
+PASS write netcdf data from ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 92
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113
+PASS Destroy ESMCI_State object, ESMCI_IO_NetCDFUTest.C, line 100
+PASS Destroy ESMCI_IO_NetCDF object, ESMCI_IO_NetCDFUTest.C, line 108
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113 PET 3 Test Elapsed Time 58.56 msec.
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113 PET 2 Test Elapsed Time 58.915 msec.
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113 PET 0 Test Elapsed Time 58.838 msec.
+Ending Test, file ESMCI_IO_NetCDFUTest.C, line 113 PET 1 Test Elapsed Time 58.519 msec.

@@ -1,0 +1,29 @@
+2022-07-21 20:17:41
+[1658435383.209343] [h12c07:168079:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.209380] [h12c07:168081:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.210134] [h12c07:168078:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.210197] [h12c07:168080:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.214455] [h12c07:168079:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.214524] [h12c07:168081:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.215339] [h12c07:168080:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435383.215385] [h12c07:168078:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 533
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 533
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 533
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 533
+  NUMBER_OF_PROCESSORS           4
+  PASS  Getting an updated deleted Attribute value from a Field test, ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 621
+  PASS  Getting an updated deleted Attribute value from a Field test, ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 621
+  Ending Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 646
+  Ending Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 646
+  PASS  Getting an updated deleted Attribute value from a Field test, ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 621
+  PASS  Getting an updated deleted Attribute value from a Field test, ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 621
+  Ending Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 646
+  Ending Test, file ESMF_AttributeUpdateRemoveOnlyUTest.F90, line 646
+  PET           0  Test Elapsed Time    24.125000000000007       msec.
+  PET           2  Test Elapsed Time    24.086999999999996       msec.
+  PET           3  Test Elapsed Time    22.733000000000004       msec.
+  PET           1  Test Elapsed Time    25.344999999999992       msec.

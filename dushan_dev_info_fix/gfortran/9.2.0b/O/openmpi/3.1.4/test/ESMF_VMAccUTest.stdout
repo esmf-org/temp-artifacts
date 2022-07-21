@@ -1,0 +1,29 @@
+2022-07-21 20:17:41
+[1658435107.292373] [h12c07:111171:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.292364] [h12c07:111172:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.292389] [h12c07:111170:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.292450] [h12c07:111173:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.298081] [h12c07:111171:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.298486] [h12c07:111173:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.298610] [h12c07:111170:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435107.298627] [h12c07:111172:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_VMAccUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_VMAccUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_VMAccUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_VMAccUTest.F90, line 52
+  NUMBER_OF_PROCESSORS           4
+  PASS  Test getting the number of accelerator devices, ESMF_VMAccUTest.F90, line 72
+  Ending Test, file ESMF_VMAccUTest.F90, line 76
+  PASS  Test getting the number of accelerator devices, ESMF_VMAccUTest.F90, line 72
+  Ending Test, file ESMF_VMAccUTest.F90, line 76
+  PASS  Test getting the number of accelerator devices, ESMF_VMAccUTest.F90, line 72
+  Ending Test, file ESMF_VMAccUTest.F90, line 76
+  PASS  Test getting the number of accelerator devices, ESMF_VMAccUTest.F90, line 72
+  Ending Test, file ESMF_VMAccUTest.F90, line 76
+  PET           2  Test Elapsed Time    14.484999999999998       msec.
+  PET           0  Test Elapsed Time    13.788000000000009       msec.
+  PET           3  Test Elapsed Time    15.927000000000010       msec.
+  PET           1  Test Elapsed Time    14.835999999999988       msec.

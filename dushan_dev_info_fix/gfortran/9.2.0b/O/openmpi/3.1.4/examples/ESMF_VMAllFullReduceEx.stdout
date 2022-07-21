@@ -1,0 +1,37 @@
+2022-07-21 20:17:41
+[1658435752.974004] [h12c07:238892:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.974006] [h12c07:238894:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.974630] [h12c07:238893:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.974597] [h12c07:238895:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.979639] [h12c07:238894:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.979858] [h12c07:238892:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.980596] [h12c07:238895:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435752.980755] [h12c07:238893:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ data array1:
+           0  array1:            1
+           0  array1:            2
+ data array1:
+           2  array1:          201
+           2  array1:          202
+ data array1:
+           3  array1:          301
+           3  array1:          302
+ data array1:
+           1  array1:          101
+           1  array1:          102
+ Global sum:
+ Global sum:
+           3  result:         1212
+ Global sum:
+           0  result:         1212
+ Global sum:
+           2  result:         1212
+           1  result:         1212
+  PASS  Example ESMF_VMAllFullReduceEx, ESMF_VMAllFullReduceEx.F90, line 113
+  PASS  Example ESMF_VMAllFullReduceEx, ESMF_VMAllFullReduceEx.F90, line 113
+  PASS  Example ESMF_VMAllFullReduceEx, ESMF_VMAllFullReduceEx.F90, line 113
+  PASS  Example ESMF_VMAllFullReduceEx, ESMF_VMAllFullReduceEx.F90, line 113
+ PASS: ESMF_VMAllFullReduceEx.F90
+ PASS: ESMF_VMAllFullReduceEx.F90
+ PASS: ESMF_VMAllFullReduceEx.F90
+ PASS: ESMF_VMAllFullReduceEx.F90

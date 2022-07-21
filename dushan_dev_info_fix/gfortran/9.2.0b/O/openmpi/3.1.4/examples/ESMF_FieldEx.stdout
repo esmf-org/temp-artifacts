@@ -1,0 +1,49 @@
+2022-07-21 20:17:41
+[1658435793.997861] [h12c07:257371:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435793.997887] [h12c07:257369:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435793.998319] [h12c07:257368:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435793.998271] [h12c07:257370:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.003137] [h12c07:257371:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.003206] [h12c07:257369:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.003496] [h12c07:257370:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435794.003898] [h12c07:257368:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Field Get Data Pointer example returned
+ Field Get Grid and Array example returned
+ Field Get Data Pointer example returned
+ Field Get Grid and Array example returned
+ Field Get Data Pointer example returned
+ Field Get Grid and Array example returned
+ Field Get Data Pointer example returned
+ Field Get Grid and Array example returned
+ Field creation from Grid, typekind, and rank returned
+ Field creation from Grid, typekind, and rank returned
+ Field creation from Grid, typekind, and rank returned
+ Field creation from Grid, typekind, and rank returned
+ Field creation from Grid and Arrayspec returned
+ Field creation from Grid and Arrayspec returned
+ Field creation from Grid and Arrayspec returned
+ Field Create from a Grid and an Array returned
+ Field Create from a Grid and an Array returned
+ Field Create from a Grid and an Array returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Field creation from Grid and Arrayspec returned
+ Field Create from a Grid and an Array returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Complete a Field created by ESMF_FieldEmptyCreate returned
+ Field Create from a Grid and a Fortran data pointer returned
+ Field Create from a Grid and a Fortran data pointer returned
+ Field Create from a Grid and a Fortran data pointer returned
+ Field Create from a Grid and a Fortran data pointer returned
+  PASS  Example ESMF_FieldEx, ESMF_FieldEx.F90, line 999
+  PASS  Example ESMF_FieldEx, ESMF_FieldEx.F90, line 999
+  PASS  Example ESMF_FieldEx, ESMF_FieldEx.F90, line 999
+  PASS  Example ESMF_FieldEx, ESMF_FieldEx.F90, line 999
+ PASS: ESMF_FieldEx.F90
+ PASS: ESMF_FieldEx.F90
+ PASS: ESMF_FieldEx.F90
+ PASS: ESMF_FieldEx.F90

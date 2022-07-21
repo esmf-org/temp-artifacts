@@ -1,0 +1,181 @@
+2022-07-21 20:17:41
+ --------------------------------------- 
+ Start of  System Test FieldBundleRedistBlk2Arb
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test FieldBundleRedistBlk2Arb
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test FieldBundleRedistBlk2Arb
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test FieldBundleRedistBlk2Arb
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test FieldBundleRedistBlk2Arb
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test FieldBundleRedistBlk2Arb
+ --------------------------------------- 
+[1658435594.042776] [h12c07:197805:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.042789] [h12c07:197807:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.043300] [h12c07:197802:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.043326] [h12c07:197803:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.043414] [h12c07:197806:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.043437] [h12c07:197804:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.047931] [h12c07:197805:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.048017] [h12c07:197807:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.049221] [h12c07:197806:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.049315] [h12c07:197803:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.049343] [h12c07:197802:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435594.049368] [h12c07:197804:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Create section finished
+ Create section finished
+ Create section finished
+ Create section finished
+ Create section finished
+ Create section finished
+ Initial data, before Redistribution:
+ Init section finished
+ Initial data, before Redistribution:
+ Init section finished
+ Initial data, before Redistribution:
+ Init section finished
+ Initial data, before Redistribution:
+ Init section finished
+ Initial data, before Redistribution:
+ Init section finished
+ Initial data, before Redistribution:
+ Init section finished
+ Array contents after Transpose:
+ Array contents after Transpose:
+ Array contents after Transpose:
+ Array contents after Transpose:
+ Array contents after Transpose:
+ Array contents after Transpose:
+ Array contents after second Redistribution, should match original:
+ Run section finished
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Result from PET number            0
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Array contents after second Redistribution, should match original:
+ Run section finished
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Result from PET number            1
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Array contents after second Redistribution, should match original:
+ Run section finished
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Result from PET number            2
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Array contents matched correctly!! PET =            2
+ Finalize section finished
+ Array contents after second Redistribution, should match original:
+ Run section finished
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Result from PET number            5
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Array contents matched correctly!! PET =            5
+ Finalize section finished
+ Array contents after second Redistribution, should match original:
+ Run section finished
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Result from PET number            3
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Array contents matched correctly!! PET =            3
+ Finalize section finished
+ Array contents after second Redistribution, should match original:
+ Run section finished
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Result from PET number            4
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+ Array contents matched correctly!! PET =            4
+ Finalize section finished
+ Array contents matched correctly!! PET =            0
+ Finalize section finished
+ Array contents matched correctly!! PET =            1
+ Finalize section finished
+ All Destroy routines done
+  System Test FieldBundleRedistBlk2Arb                                                                                                                                                                                                                            complete.
+ All Destroy routines done
+  System Test FieldBundleRedistBlk2Arb                                                                                                                                                                                                                            complete.
+ All Destroy routines done
+  System Test FieldBundleRedistBlk2Arb                                                                                                                                                                                                                            complete.
+ All Destroy routines done
+  System Test FieldBundleRedistBlk2Arb                                                                                                                                                                                                                            complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            3
+ ------------------------------------------------------------
+ 
+  System Test FieldBundleRedistBlk2Arb
+  SUCCESS:  System Test FieldBundleRedistBlk2Arb finished correctly.
+ 
+ 
+  System Test FieldBundleRedistBlk2Arb
+  SUCCESS:  System Test FieldBundleRedistBlk2Arb finished correctly.
+ 
+ 
+  System Test FieldBundleRedistBlk2Arb
+  SUCCESS:  System Test FieldBundleRedistBlk2Arb finished correctly.
+ 
+ 
+  System Test FieldBundleRedistBlk2Arb
+  SUCCESS:  System Test FieldBundleRedistBlk2Arb finished correctly.
+ 
+ 
+  System Test FieldBundleRedistBlk2Arb
+  SUCCESS:  System Test FieldBundleRedistBlk2Arb finished correctly.
+ 
+ 
+  System Test FieldBundleRedistBlk2Arb
+  SUCCESS:  System Test FieldBundleRedistBlk2Arb finished correctly.
+ 
+ All Destroy routines done
+  System Test FieldBundleRedistBlk2Arb                                                                                                                                                                                                                            complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            1
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ All Destroy routines done
+  System Test FieldBundleRedistBlk2Arb                                                                                                                                                                                                                            complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            5
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test FieldBundleRedistBlk2Arb, ESMF_FieldBundleRedistBlk2ArbSTest.F90, line 347
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            2
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test FieldBundleRedistBlk2Arb, ESMF_FieldBundleRedistBlk2ArbSTest.F90, line 347
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            4
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test FieldBundleRedistBlk2Arb, ESMF_FieldBundleRedistBlk2ArbSTest.F90, line 347
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            0
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test FieldBundleRedistBlk2Arb, ESMF_FieldBundleRedistBlk2ArbSTest.F90, line 347
+  PASS  System Test FieldBundleRedistBlk2Arb, ESMF_FieldBundleRedistBlk2ArbSTest.F90, line 347
+  PASS  System Test FieldBundleRedistBlk2Arb, ESMF_FieldBundleRedistBlk2ArbSTest.F90, line 347
