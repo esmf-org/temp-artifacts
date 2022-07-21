@@ -1,0 +1,182 @@
+2022-07-21 14:00:05
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+MPT ERROR: Rank 0(g:0) received signal SIGABRT/SIGIOT(6).
+	Process ID: 9741, Host: r3i1n6, Program: /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfortran.64.mpt.default/ESMC_InfoUTest
+	MPT Version: HPE MPT 2.23  09/13/20 02:52:52
+
+MPT: --------stack traceback-------
+MPT: Attaching to program: /proc/9741/exe, process 9741
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libdl.so.2
+MPT: Try: zypper install -C "debuginfo(build-id)=86536433e7d5a205deca926f6f00436b2ff206b1"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libdl.so.2)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/librt.so.1
+MPT: Try: zypper install -C "debuginfo(build-id)=e12cd7e73c31cb8765cba03a3c2f9efc2d043ff8"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/librt.so.1)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libpthread.so.0
+MPT: Try: zypper install -C "debuginfo(build-id)=9fa703da2a52d78cc49877c18843db7b1ad9049b"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libpthread.so.0)
+MPT: [Thread debugging using libthread_db enabled]
+MPT: Using host libthread_db library "/glade/u/apps/ch/os/lib64/libthread_db.so.1".
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libm.so.6
+MPT: Try: zypper install -C "debuginfo(build-id)=cc12cf31ea4a157ebc7ac7bdfc09d5bfa3e0f3e0"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libm.so.6)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libc.so.6
+MPT: Try: zypper install -C "debuginfo(build-id)=72aaaa4006e91624304a210a7f945b61d3d643b4"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libc.so.6)
+MPT: (No debugging symbols found in /lib64/ld-linux-x86-64.so.2)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1
+MPT: Try: zypper install -C "debuginfo(build-id)=ad6d98e9e3042e77c051f1f27e971460bf1e428b"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200
+MPT: Try: zypper install -C "debuginfo(build-id)=4c08f43bb18e99a7df4bad5c4a52bac67ddf9b8d"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200
+MPT: Try: zypper install -C "debuginfo(build-id)=3ae04b58bd81ea7745dba789d89937e719309568"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so
+MPT: Try: zypper install -C "debuginfo(build-id)=76d8c012144838e4e5466798858289fba2057537"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so
+MPT: Try: zypper install -C "debuginfo(build-id)=ba8002518966160a27c335e04ce8932989f69056"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so)
+MPT: 0x00002b25506397da in waitpid ()
+MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+MPT: warning: File "/glade/u/apps/ch/opt/gnu/10.1.0/lib64/libstdc++.so.6.0.28-gdb.py" auto-loading has been declined by your `auto-load safe-path' set to "$debugdir:$datadir/auto-load".
+MPT: To enable execution of this file add
+MPT: 	add-auto-load-safe-path /glade/u/apps/ch/opt/gnu/10.1.0/lib64/libstdc++.so.6.0.28-gdb.py
+MPT: line to your configuration file "/glade/u/home/dunlap/.gdbinit".
+MPT: To completely disable this security protection add
+MPT: 	set auto-load safe-path /
+MPT: line to your configuration file "/glade/u/home/dunlap/.gdbinit".
+MPT: For more information about this security protection see the
+MPT: "Auto-loading safe path" section in the GDB manual.  E.g., run from the shell:
+MPT: 	info "(gdb)Auto-loading safe path"
+MPT: Missing separate debuginfos, use: zypper install glibc-debuginfo-2.22-100.27.3.x86_64
+MPT: (gdb) #0  0x00002b25506397da in waitpid ()
+MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+MPT: #1  0x00002b25509810e6 in mpi_sgi_system (
+MPT: #2  MPI_SGI_stacktraceback (
+MPT:     header=header@entry=0x7ffe88493e90 "MPT ERROR: Rank 0(g:0) received signal SIGABRT/SIGIOT(6).\n\tProcess ID: 9741, Host: r3i1n6, Program: /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux."...) at sig.c:340
+MPT: #3  0x00002b25509812e6 in first_arriver_handler (signo=signo@entry=6, 
+MPT:     stack_trace_sem=stack_trace_sem@entry=0x2b25538c0080) at sig.c:489
+MPT: #4  0x00002b2550981573 in slave_sig_handler (signo=6, 
+MPT:     siginfo=<optimized out>, extra=<optimized out>) at sig.c:565
+MPT: #5  <signal handler called>
+MPT: #6  0x00002b25517de2a7 in raise () from /glade/u/apps/ch/os/lib64/libc.so.6
+MPT: #7  0x00002b25517df67a in abort () from /glade/u/apps/ch/os/lib64/libc.so.6
+MPT: #8  0x00002b2550d20f4c in __gnu_cxx::__verbose_terminate_handler ()
+MPT:     at ../../../../libstdc++-v3/libsupc++/vterminate.cc:95
+MPT: #9  0x00002b2550d2c036 in __cxxabiv1::__terminate (handler=<optimized out>)
+MPT:     at ../../../../libstdc++-v3/libsupc++/eh_terminate.cc:48
+MPT: #10 0x00002b2550d2c0a1 in std::terminate ()
+MPT:     at ../../../../libstdc++-v3/libsupc++/eh_terminate.cc:58
+MPT: #11 0x00002b2550d2c334 in __cxxabiv1::__cxa_throw (obj=<optimized out>, 
+MPT:     tinfo=0x65ca78 <typeinfo for ESMCI::esmc_error>, 
+MPT:     dest=0x420f4a <ESMCI::esmc_error::~esmc_error()>)
+MPT:     at ../../../../libstdc++-v3/libsupc++/eh_throw.cc:95
+MPT: #12 0x00000000004184ba in testGetInfoObject(int&, char*) ()
+MPT: #13 0x0000000000420b74 in main ()
+MPT: (gdb) A debugging session is active.
+MPT: 
+MPT: 	Inferior 1 [process 9741] will be detached.
+MPT: 
+MPT: Quit anyway? (y or n) [answered Y; input not from terminal]
+MPT: Detaching from program: /proc/9741/exe, process 9741
+MPT: [Inferior 1 (process 9741) detached]
+
+MPT: -----stack traceback ends-----
+MPT: On host r3i1n6, Program /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfortran.64.mpt.default/ESMC_InfoUTest, Rank 0, Process 9741: Dumping core on signal SIGABRT/SIGIOT(6) into directory /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfortran.64.mpt.default
+MPT ERROR: MPI_COMM_WORLD rank 0 has terminated without calling MPI_Finalize()
+	aborting job
+MPT: Received signal 6

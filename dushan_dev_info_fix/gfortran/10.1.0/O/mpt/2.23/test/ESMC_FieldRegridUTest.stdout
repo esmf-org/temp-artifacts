@@ -1,0 +1,109 @@
+2022-07-21 14:00:05
+Beginning Test, file ESMC_FieldRegridUTest.C, line 68
+Beginning Test, file ESMC_FieldRegridUTest.C, line 68NUMBER_OF_PROCESSORS 1
+PASS MeshCreate, ESMC_FieldRegridUTest.C, line 125
+PASS MeshAddNodes, ESMC_FieldRegridUTest.C, line 133
+PASS MeshAddElements, ESMC_FieldRegridUTest.C, line 142
+PASS MeshGetNodeCount, ESMC_FieldRegridUTest.C, line 152
+PASS MeshGetElementCount, ESMC_FieldRegridUTest.C, line 163
+PASS MeshCreate, ESMC_FieldRegridUTest.C, line 231
+PASS MeshAddNodes, ESMC_FieldRegridUTest.C, line 239
+PASS MeshAddElements, ESMC_FieldRegridUTest.C, line 248
+PASS MeshGetNodeCount, ESMC_FieldRegridUTest.C, line 258
+PASS MeshGetElementCount, ESMC_FieldRegridUTest.C, line 269
+PASS Create ESMC_Field object, ESMC_FieldRegridUTest.C, line 284
+PASS Create ESMC_Field object, ESMC_FieldRegridUTest.C, line 293
+PASS Get a void * C pointer to data from ESMC_Field object, ESMC_FieldRegridUTest.C, line 306
+PASS Get a void * C pointer to data from ESMC_Field object, ESMC_FieldRegridUTest.C, line 325
+PASS Create an InterArray for maskValues in ESMC_FieldRegridStore(), ESMC_FieldRegridUTest.C, line 343
+FAIL Create an ESMC_RouteHandle via ESMC_FieldRegridStore(), ESMC_FieldRegridUTest.C, line 367: Did not return ESMF_SUCCESS
+MPT ERROR: Rank 0(g:0) received signal SIGSEGV(11).
+	Process ID: 51919, Host: r3i1n6, Program: /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfortran.64.mpt.default/ESMC_FieldRegridUTest
+	MPT Version: HPE MPT 2.23  09/13/20 02:52:52
+
+MPT: --------stack traceback-------
+MPT: Attaching to program: /proc/51919/exe, process 51919
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libdl.so.2
+MPT: Try: zypper install -C "debuginfo(build-id)=86536433e7d5a205deca926f6f00436b2ff206b1"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libdl.so.2)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/librt.so.1
+MPT: Try: zypper install -C "debuginfo(build-id)=e12cd7e73c31cb8765cba03a3c2f9efc2d043ff8"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/librt.so.1)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libpthread.so.0
+MPT: Try: zypper install -C "debuginfo(build-id)=9fa703da2a52d78cc49877c18843db7b1ad9049b"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libpthread.so.0)
+MPT: [Thread debugging using libthread_db enabled]
+MPT: Using host libthread_db library "/glade/u/apps/ch/os/lib64/libthread_db.so.1".
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libm.so.6
+MPT: Try: zypper install -C "debuginfo(build-id)=cc12cf31ea4a157ebc7ac7bdfc09d5bfa3e0f3e0"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libm.so.6)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libc.so.6
+MPT: Try: zypper install -C "debuginfo(build-id)=72aaaa4006e91624304a210a7f945b61d3d643b4"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libc.so.6)
+MPT: (No debugging symbols found in /lib64/ld-linux-x86-64.so.2)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1
+MPT: Try: zypper install -C "debuginfo(build-id)=ad6d98e9e3042e77c051f1f27e971460bf1e428b"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200
+MPT: Try: zypper install -C "debuginfo(build-id)=4c08f43bb18e99a7df4bad5c4a52bac67ddf9b8d"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200
+MPT: Try: zypper install -C "debuginfo(build-id)=3ae04b58bd81ea7745dba789d89937e719309568"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so
+MPT: Try: zypper install -C "debuginfo(build-id)=76d8c012144838e4e5466798858289fba2057537"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so)
+MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so
+MPT: Try: zypper install -C "debuginfo(build-id)=ba8002518966160a27c335e04ce8932989f69056"
+MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so)
+MPT: 0x00002b6ed9d9d7da in waitpid ()
+MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+MPT: warning: File "/glade/u/apps/ch/opt/gnu/10.1.0/lib64/libstdc++.so.6.0.28-gdb.py" auto-loading has been declined by your `auto-load safe-path' set to "$debugdir:$datadir/auto-load".
+MPT: To enable execution of this file add
+MPT: 	add-auto-load-safe-path /glade/u/apps/ch/opt/gnu/10.1.0/lib64/libstdc++.so.6.0.28-gdb.py
+MPT: line to your configuration file "/glade/u/home/dunlap/.gdbinit".
+MPT: To completely disable this security protection add
+MPT: 	set auto-load safe-path /
+MPT: line to your configuration file "/glade/u/home/dunlap/.gdbinit".
+MPT: For more information about this security protection see the
+MPT: "Auto-loading safe path" section in the GDB manual.  E.g., run from the shell:
+MPT: 	info "(gdb)Auto-loading safe path"
+MPT: Missing separate debuginfos, use: zypper install glibc-debuginfo-2.22-100.27.3.x86_64
+MPT: (gdb) #0  0x00002b6ed9d9d7da in waitpid ()
+MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+MPT: #1  0x00002b6eda0e50e6 in mpi_sgi_system (
+MPT: #2  MPI_SGI_stacktraceback (
+MPT:     header=header@entry=0x7ffeac458f10 "MPT ERROR: Rank 0(g:0) received signal SIGSEGV(11).\n\tProcess ID: 51919, Host: r3i1n6, Program: /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfort"...) at sig.c:340
+MPT: #3  0x00002b6eda0e52e6 in first_arriver_handler (signo=signo@entry=11, 
+MPT:     stack_trace_sem=stack_trace_sem@entry=0x2b6edc440080) at sig.c:489
+MPT: #4  0x00002b6eda0e5573 in slave_sig_handler (signo=11, 
+MPT:     siginfo=<optimized out>, extra=<optimized out>) at sig.c:565
+MPT: #5  <signal handler called>
+MPT: #6  0x00002b6ed77ef552 in ESMCI::Array::sparseMatMul(ESMCI::Array*, ESMCI::Array*, ESMCI::RouteHandle**, ESMC_CommFlag, bool*, bool*, ESMC_Region_Flag, ESMC_TermOrder_Flag, bool, bool) ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #7  0x00002b6ed77de97f in c_esmc_arraysmm_ ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #8  0x00002b6ed7d83402 in __esmf_arraymod_MOD_esmf_arraysmm ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #9  0x00002b6ed80a4069 in __esmf_fieldregridmod_MOD_esmf_fieldregrid ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #10 0x00002b6ed7f0034a in f_esmf_regrid_ ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #11 0x00002b6ed79c38b6 in ESMCI::Field::regrid(ESMCI::Field*, ESMCI::Field*, ESMCI::RouteHandle*, ESMC_Region_Flag*) ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #12 0x00002b6ed77cb681 in ESMC_FieldRegrid ()
+MPT:    from /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/lib/libO/Linux.gfortran.64.mpt.default/libesmf.so
+MPT: #13 0x0000000000405c81 in main ()
+MPT: (gdb) A debugging session is active.
+MPT: 
+MPT: 	Inferior 1 [process 51919] will be detached.
+MPT: 
+MPT: Quit anyway? (y or n) [answered Y; input not from terminal]
+MPT: Detaching from program: /proc/51919/exe, process 51919
+MPT: [Inferior 1 (process 51919) detached]
+
+MPT: -----stack traceback ends-----
+MPT: On host r3i1n6, Program /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfortran.64.mpt.default/ESMC_FieldRegridUTest, Rank 0, Process 51919: Dumping core on signal SIGSEGV(11) into directory /glade/scratch/dunlap/esmf-test-dev/gfortran_10.1.0_mpt_O_dushan_dev_info_fix/esmf/test/testO/Linux.gfortran.64.mpt.default
+MPT ERROR: MPI_COMM_WORLD rank 0 has terminated without calling MPI_Finalize()
+	aborting job
+MPT: Received signal 11
