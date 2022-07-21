@@ -1,0 +1,160 @@
+2022-07-21 14:01:15
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+[r7i0n32:61035] *** Process received signal ***
+[r7i0n32:61035] Signal: Aborted (6)
+[r7i0n32:61035] Signal code:  (-6)
+[r7i0n32:61035] [ 0] /glade/u/apps/ch/os/lib64/libpthread.so.0(+0x11c00)[0x2aafff583c00]
+[r7i0n32:61035] [ 1] /glade/u/apps/ch/os/lib64/libc.so.6(gsignal+0x37)[0x2aafff7c72a7]
+[r7i0n32:61035] [ 2] /glade/u/apps/ch/os/lib64/libc.so.6(abort+0x13a)[0x2aafff7c867a]
+[r7i0n32:61035] [ 3] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xa1f4c)[0x2aaffeaecf4c]
+[r7i0n32:61035] [ 4] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad036)[0x2aaffeaf8036]
+[r7i0n32:61035] [ 5] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad0a1)[0x2aaffeaf80a1]
+[r7i0n32:61035] [ 6] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad334)[0x2aaffeaf8334]
+[r7i0n32:61035] [ 7] ./ESMC_InfoUTest[0x41897a]
+[r7i0n32:61035] [ 8] ./ESMC_InfoUTest[0x421034]
+[r7i0n32:61035] [ 9] /glade/u/apps/ch/os/lib64/libc.so.6(__libc_start_main+0xf5)[0x2aafff7b2a35]
+[r7i0n32:61035] [10] ./ESMC_InfoUTest[0x40e6f9]
+[r7i0n32:61035] *** End of error message ***
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+[r7i0n32:61036] *** Process received signal ***
+[r7i0n32:61036] Signal: Aborted (6)
+[r7i0n32:61036] Signal code:  (-6)
+[r7i0n32:61036] [ 0] /glade/u/apps/ch/os/lib64/libpthread.so.0(+0x11c00)[0x2ab9937efc00]
+[r7i0n32:61036] [ 1] /glade/u/apps/ch/os/lib64/libc.so.6(gsignal+0x37)[0x2ab993a332a7]
+[r7i0n32:61036] [ 2] /glade/u/apps/ch/os/lib64/libc.so.6(abort+0x13a)[0x2ab993a3467a]
+[r7i0n32:61036] [ 3] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xa1f4c)[0x2ab992d58f4c]
+[r7i0n32:61036] [ 4] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad036)[0x2ab992d64036]
+[r7i0n32:61036] [ 5] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad0a1)[0x2ab992d640a1]
+[r7i0n32:61036] [ 6] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad334)[0x2ab992d64334]
+[r7i0n32:61036] [ 7] ./ESMC_InfoUTest[0x41897a]
+[r7i0n32:61036] [ 8] ./ESMC_InfoUTest[0x421034]
+[r7i0n32:61036] [ 9] /glade/u/apps/ch/os/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ab993a1ea35]
+[r7i0n32:61036] [10] ./ESMC_InfoUTest[0x40e6f9]
+[r7i0n32:61036] *** End of error message ***
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+[r7i0n32:61034] *** Process received signal ***
+[r7i0n32:61034] Signal: Aborted (6)
+[r7i0n32:61034] Signal code:  (-6)
+[r7i0n32:61034] [ 0] /glade/u/apps/ch/os/lib64/libpthread.so.0(+0x11c00)[0x2b1995fd4c00]
+[r7i0n32:61034] [ 1] /glade/u/apps/ch/os/lib64/libc.so.6(gsignal+0x37)[0x2b19962182a7]
+[r7i0n32:61034] [ 2] /glade/u/apps/ch/os/lib64/libc.so.6(abort+0x13a)[0x2b199621967a]
+[r7i0n32:61034] [ 3] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xa1f4c)[0x2b199553df4c]
+[r7i0n32:61034] [ 4] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad036)[0x2b1995549036]
+[r7i0n32:61034] [ 5] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad0a1)[0x2b19955490a1]
+[r7i0n32:61034] [ 6] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad334)[0x2b1995549334]
+[r7i0n32:61034] [ 7] ./ESMC_InfoUTest[0x41897a]
+[r7i0n32:61034] [ 8] ./ESMC_InfoUTest[0x421034]
+[r7i0n32:61034] [ 9] /glade/u/apps/ch/os/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b1996203a35]
+[r7i0n32:61034] [10] ./ESMC_InfoUTest[0x40e6f9]
+[r7i0n32:61034] *** End of error message ***
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+[r7i0n32:61033] *** Process received signal ***
+[r7i0n32:61033] Signal: Aborted (6)
+[r7i0n32:61033] Signal code:  (-6)
+[r7i0n32:61033] [ 0] /glade/u/apps/ch/os/lib64/libpthread.so.0(+0x11c00)[0x2adf241f4c00]
+[r7i0n32:61033] [ 1] /glade/u/apps/ch/os/lib64/libc.so.6(gsignal+0x37)[0x2adf244382a7]
+[r7i0n32:61033] [ 2] /glade/u/apps/ch/os/lib64/libc.so.6(abort+0x13a)[0x2adf2443967a]
+[r7i0n32:61033] [ 3] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xa1f4c)[0x2adf2375df4c]
+[r7i0n32:61033] [ 4] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad036)[0x2adf23769036]
+[r7i0n32:61033] [ 5] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad0a1)[0x2adf237690a1]
+[r7i0n32:61033] [ 6] /glade/u/apps/ch/opt/gnu/10.1.0/lib/gcc/x86_64-pc-linux-gnu/10.1.0/../../../../lib64/libstdc++.so.6(+0xad334)[0x2adf23769334]
+[r7i0n32:61033] [ 7] ./ESMC_InfoUTest[0x41897a]
+[r7i0n32:61033] [ 8] ./ESMC_InfoUTest[0x421034]
+[r7i0n32:61033] [ 9] /glade/u/apps/ch/os/lib64/libc.so.6(__libc_start_main+0xf5)[0x2adf24423a35]
+[r7i0n32:61033] [10] ./ESMC_InfoUTest[0x40e6f9]
+[r7i0n32:61033] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node r7i0n32 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
