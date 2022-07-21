@@ -1,0 +1,41 @@
+2022-07-21 20:17:09
+[1658435079.471924] [h12c09:293452:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.471954] [h12c09:293450:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.472245] [h12c09:293449:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.472187] [h12c09:293451:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.477143] [h12c09:293452:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.477239] [h12c09:293450:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.477867] [h12c09:293451:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435079.477883] [h12c09:293449:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_VMOpenMPUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_VMOpenMPUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_VMOpenMPUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_VMOpenMPUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+ tid =            0
+ tid =            0
+  PASS  Check that OpenMP functions correctly if it is available, ESMF_VMOpenMPUTest.F90, line 84
+ ESMF was compiled with OpenMP
+  PASS  Determine whether ESMF library was compiled with OpenMP, ESMF_VMOpenMPUTest.F90, line 97
+ tid =            0
+  PASS  Check that OpenMP functions correctly if it is available, ESMF_VMOpenMPUTest.F90, line 84
+ ESMF was compiled with OpenMP
+  PASS  Determine whether ESMF library was compiled with OpenMP, ESMF_VMOpenMPUTest.F90, line 97
+  Ending Test, file ESMF_VMOpenMPUTest.F90, line 101
+ tid =            0
+  PASS  Check that OpenMP functions correctly if it is available, ESMF_VMOpenMPUTest.F90, line 84
+ ESMF was compiled with OpenMP
+  PASS  Determine whether ESMF library was compiled with OpenMP, ESMF_VMOpenMPUTest.F90, line 97
+  Ending Test, file ESMF_VMOpenMPUTest.F90, line 101
+  Ending Test, file ESMF_VMOpenMPUTest.F90, line 101
+  PASS  Check that OpenMP functions correctly if it is available, ESMF_VMOpenMPUTest.F90, line 84
+ ESMF was compiled with OpenMP
+  PASS  Determine whether ESMF library was compiled with OpenMP, ESMF_VMOpenMPUTest.F90, line 97
+  Ending Test, file ESMF_VMOpenMPUTest.F90, line 101
+  PET           0  Test Elapsed Time    15.467000000000009       msec.
+  PET           2  Test Elapsed Time    15.718999999999998       msec.
+  PET           1  Test Elapsed Time    14.836000000000002       msec.
+  PET           3  Test Elapsed Time    14.970999999999998       msec.

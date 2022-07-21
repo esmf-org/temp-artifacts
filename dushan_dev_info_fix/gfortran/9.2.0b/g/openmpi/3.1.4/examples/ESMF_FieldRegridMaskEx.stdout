@@ -1,0 +1,17 @@
+2022-07-21 20:17:09
+[1658435925.646072] [h12c09:129395:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.646204] [h12c09:129396:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.646313] [h12c09:129397:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.646217] [h12c09:129398:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.651480] [h12c09:129395:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.651772] [h12c09:129396:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.651848] [h12c09:129398:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435925.652036] [h12c09:129397:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldRegridMaskEx, ESMF_FieldRegridMaskEx.F90, line 370
+  PASS  Example ESMF_FieldRegridMaskEx, ESMF_FieldRegridMaskEx.F90, line 370
+  PASS  Example ESMF_FieldRegridMaskEx, ESMF_FieldRegridMaskEx.F90, line 370
+  PASS  Example ESMF_FieldRegridMaskEx, ESMF_FieldRegridMaskEx.F90, line 370
+ PASS: ESMF_FieldRegridEx.F90
+ PASS: ESMF_FieldRegridEx.F90
+ PASS: ESMF_FieldRegridEx.F90
+ PASS: ESMF_FieldRegridEx.F90

@@ -1,0 +1,65 @@
+2022-07-21 20:17:09
+[1658435146.231208] [h12c09:4856 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.231331] [h12c09:4857 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.231437] [h12c09:4858 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.231356] [h12c09:4859 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.236598] [h12c09:4856 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.236798] [h12c09:4857 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.236856] [h12c09:4859 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435146.237040] [h12c09:4858 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_CalRangeUTest.F90, line 95
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_CalRangeUTest.F90, line 95
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_CalRangeUTest.F90, line 95
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_CalRangeUTest.F90, line 95
+  NUMBER_OF_PROCESSORS           4
+  PASS  Gregorian/Fliegel Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 176
+  PASS  Gregorian/Fliegel Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 176
+  PASS  Gregorian/Fliegel Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 176
+  PASS  Gregorian/Fliegel Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 176
+  PASS  Gregorian/Fliegel Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 188
+  PASS  Gregorian/Fliegel Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 188
+  PASS  Gregorian/Fliegel Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 188
+  PASS  Gregorian/Fliegel Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 188
+  PASS  Gregorian/Fliegel High Range Test, ESMF_CalRangeUTest.F90, line 233
+  PASS  Gregorian/Fliegel High Range Test, ESMF_CalRangeUTest.F90, line 233
+  PASS  Gregorian/Fliegel High Range Test, ESMF_CalRangeUTest.F90, line 233
+  PASS  Gregorian/Fliegel High Range Test, ESMF_CalRangeUTest.F90, line 233
+  PASS  Julian/Hatcher Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 268
+  PASS  Julian/Hatcher Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 281
+  PASS  Julian/Hatcher Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 268
+  PASS  Julian/Hatcher Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 281
+  PASS  Julian/Hatcher Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 268
+  PASS  Julian/Hatcher Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 281
+  PASS  Julian/Hatcher Low Range (convert to time) Test, ESMF_CalRangeUTest.F90, line 268
+  PASS  Julian/Hatcher Low Range (convert to date) Test, ESMF_CalRangeUTest.F90, line 281
+  PASS  Julian/Hatcher High Range Test, ESMF_CalRangeUTest.F90, line 326
+  PASS  Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 380
+  PASS  Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 430
+  PASS  Modified Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 486
+  PASS  Modified Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 538
+  Ending Test, file ESMF_CalRangeUTest.F90, line 550
+  PASS  Julian/Hatcher High Range Test, ESMF_CalRangeUTest.F90, line 326
+  PASS  Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 380
+  PASS  Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 430
+  PASS  Modified Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 486
+  PASS  Modified Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 538
+  Ending Test, file ESMF_CalRangeUTest.F90, line 550
+  PASS  Julian/Hatcher High Range Test, ESMF_CalRangeUTest.F90, line 326
+  PASS  Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 380
+  PASS  Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 430
+  PASS  Modified Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 486
+  PASS  Modified Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 538
+  Ending Test, file ESMF_CalRangeUTest.F90, line 550
+  PASS  Julian/Hatcher High Range Test, ESMF_CalRangeUTest.F90, line 326
+  PASS  Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 380
+  PASS  Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 430
+  PASS  Modified Julian Day Low Range Test, ESMF_CalRangeUTest.F90, line 486
+  PASS  Modified Julian Day High Range Test, ESMF_CalRangeUTest.F90, line 538
+  Ending Test, file ESMF_CalRangeUTest.F90, line 550
+  PET           2  Test Elapsed Time    1015.7099999999999       msec.
+  PET           1  Test Elapsed Time    983.31899999999996       msec.
+  PET           3  Test Elapsed Time    1008.7890000000000       msec.
+  PET           0  Test Elapsed Time    1030.8220000000001       msec.

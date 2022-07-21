@@ -1,0 +1,23 @@
+2022-07-21 20:17:09
+[1658435932.217878] [h12c09:129898:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.217913] [h12c09:129900:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.218434] [h12c09:129897:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.218443] [h12c09:129899:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.223118] [h12c09:129900:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.223097] [h12c09:129898:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.223703] [h12c09:129897:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435932.223783] [h12c09:129899:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ Field rank, dimCount           2           3
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldArbGridEx, ESMF_FieldArbGridEx.F90, line 243
+ Field with replicated dimension returned
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldArbGridEx, ESMF_FieldArbGridEx.F90, line 243
+  PASS  Example ESMF_FieldArbGridEx, ESMF_FieldArbGridEx.F90, line 243
+ Field rank, dimCount           2           2
+ Field with replicated dimension returned
+  PASS  Example ESMF_FieldArbGridEx, ESMF_FieldArbGridEx.F90, line 243
+ PASS: ESMF_FieldArgGridEx.F90
+ PASS: ESMF_FieldArgGridEx.F90
+ PASS: ESMF_FieldArgGridEx.F90
+ PASS: ESMF_FieldArgGridEx.F90

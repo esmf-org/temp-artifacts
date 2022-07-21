@@ -1,0 +1,29 @@
+2022-07-21 20:17:09
+[1658435952.472418] [h12c09:137448:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.472409] [h12c09:137450:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.473154] [h12c09:137447:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.473157] [h12c09:137449:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.477560] [h12c09:137450:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.477654] [h12c09:137448:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.478690] [h12c09:137447:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435952.478760] [h12c09:137449:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ User Comp1 Register starting
+ Registered Initialize, Run, and Finalize routines
+ User Comp1 Register starting
+ Registered Initialize, Run, and Finalize routines
+ User Comp1 Register returning
+ User Comp1 Register starting
+ Registered Initialize, Run, and Finalize routines
+ User Comp1 Register returning
+ User Comp1 Register starting
+ Registered Initialize, Run, and Finalize routines
+ User Comp1 Register returning
+ User Comp1 Register returning
+  PASS  Example ESMF_WebServicesEx, ESMF_WebServicesEx.F90, line 227
+  PASS  Example ESMF_WebServicesEx, ESMF_WebServicesEx.F90, line 227
+  PASS  Example ESMF_WebServicesEx, ESMF_WebServicesEx.F90, line 227
+  PASS  Example ESMF_WebServicesEx, ESMF_WebServicesEx.F90, line 227
+ PASS: ESMF_WebServicesEx.F90
+ PASS: ESMF_WebServicesEx.F90
+ PASS: ESMF_WebServicesEx.F90
+ PASS: ESMF_WebServicesEx.F90

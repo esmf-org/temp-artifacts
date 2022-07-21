@@ -1,0 +1,17 @@
+2022-07-21 20:17:09
+[1658435915.599166] [h12c09:126235:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.599177] [h12c09:126237:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.599244] [h12c09:126236:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.599211] [h12c09:126238:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.604801] [h12c09:126235:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.604832] [h12c09:126237:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.604859] [h12c09:126238:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435915.604928] [h12c09:126236:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_LocStreamEx, ESMF_LocStreamEx.F90, line 784
+  PASS  Example ESMF_LocStreamEx, ESMF_LocStreamEx.F90, line 784
+  PASS  Example ESMF_LocStreamEx, ESMF_LocStreamEx.F90, line 784
+  PASS  Example ESMF_LocStreamEx, ESMF_LocStreamEx.F90, line 784
+ PASS: ESMF_LocStreamEx.F90
+ PASS: ESMF_LocStreamEx.F90
+ PASS: ESMF_LocStreamEx.F90
+ PASS: ESMF_LocStreamEx.F90

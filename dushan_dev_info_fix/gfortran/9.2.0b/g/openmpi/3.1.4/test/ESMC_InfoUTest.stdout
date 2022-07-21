@@ -1,0 +1,168 @@
+2022-07-21 20:17:09
+[1658435137.685532] [h12c09:2868 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.685565] [h12c09:2866 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.685861] [h12c09:2865 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.685923] [h12c09:2867 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.690857] [h12c09:2868 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.690921] [h12c09:2866 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.691561] [h12c09:2865 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435137.691703] [h12c09:2867 :0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+Beginning Test, file ESMC_InfoUTest.C, line 1418NUMBER_OF_PROCESSORS 4
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+PASS testConstructor, ESMC_InfoUTest.C, line 1425
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testErase, ESMC_InfoUTest.C, line 1432
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGet, ESMC_InfoUTest.C, line 1439
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testSetGetErrorHandling, ESMC_InfoUTest.C, line 1446
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testUpdate, ESMC_InfoUTest.C, line 1453
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testHasKey, ESMC_InfoUTest.C, line 1460
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testGet, ESMC_InfoUTest.C, line 1467
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testbroadcastInfo, ESMC_InfoUTest.C, line 1474
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testFormatKey, ESMC_InfoUTest.C, line 1481
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testDumpLength, ESMC_InfoUTest.C, line 1488
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize, ESMC_InfoUTest.C, line 1495
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSerializeDeserialize2, ESMC_InfoUTest.C, line 1502
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS testSetGetIndex, ESMC_InfoUTest.C, line 1509
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_get_attpack_count, ESMC_InfoUTest.C, line 1516
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS test_update_json_attribute_count_map, ESMC_InfoUTest.C, line 1523
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS testInquire, ESMC_InfoUTest.C, line 1530
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testInquire32Bit, ESMC_InfoUTest.C, line 1537
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS test_update_json_pointer, ESMC_InfoUTest.C, line 1544
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+PASS testGetObjectIndex, ESMC_InfoUTest.C, line 1551
+[h12c09:02866] *** Process received signal ***
+[h12c09:02866] Signal: Aborted (6)
+[h12c09:02866] Signal code:  (-6)
+[h12c09:02866] [ 0] terminate called after throwing an instance of '/usr/lib64/libpthread.so.0(+0xf630)[0x2b4d9240a630]
+[h12c09:02866] [ 1] ESMCI::esmc_error'
+  what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+/usr/lib64/libc.so.6(gsignal+0x37)[0x2b4d9264d387]
+[h12c09:02866] [ 2] [h12c09:02868] *** Process received signal ***
+[h12c09:02868] Signal: Aborted (6)
+[h12c09:02868] Signal code:  (-6)
+/usr/lib64/libc.so.6(abort+0x148)[0x2b4d9264ea78]
+[h12c09:02866] [ 3] terminate called after throwing an instance of 'ESMCI::esmc_error'
+terminate called after throwing an instance of 'ESMCI::esmc_error'
+/apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0x98c83)[0x2b4d91969c83]
+[h12c09:02866] [ 4]   what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+[h12c09:02868] [ 0]   what():  Error/Return Code 541 (ESMC_RC_NOT_FOUND) - [json.exception.out_of_range.403] key 'foo2' not found
+/apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4856)[0x2b4d91975856]
+[h12c09:02866] [ 5] /usr/lib64/libpthread.so.0(+0xf630)[0x2b228f5dc630]
+[h12c09:02868] [ 1] [h12c09:02867] *** Process received signal ***
+[h12c09:02865] *** Process received signal ***
+/apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa48a1)[0x2b4d919758a1]
+[h12c09:02866] [ 6] /usr/lib64/libc.so.6(gsignal+0x37)[0x2b228f81f387]
+[h12c09:02868] [ 2] [h12c09:02867] Signal: Aborted (6)
+[h12c09:02867] Signal code:  (-6)
+[h12c09:02865] Signal: Aborted (6)
+[h12c09:02865] Signal code:  (-6)
+/apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4ad5)[0x2b4d91975ad5]
+[h12c09:02866] [ 7] /usr/lib64/libc.so.6(abort+0x148)[0x2b228f820a78]
+[h12c09:02868] [ 3] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0x98c83)[0x2b228eb3bc83]
+[h12c09:02868] [ 4] ./ESMC_InfoUTest[0x4662f6]
+[h12c09:02866] [ 8] ./ESMC_InfoUTest[0x47387d]
+[h12c09:02866] [ 9] /usr/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4d92639555]
+[h12c09:02866] [10] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4856)[0x2b228eb47856]
+[h12c09:02868] [ 5] [h12c09:02867] [ 0] ./ESMC_InfoUTest[0x461079]
+[h12c09:02866] *** End of error message ***
+[h12c09:02865] [ 0] /usr/lib64/libpthread.so.0(+0xf630)[0x2b30ffee6630]
+[h12c09:02867] [ 1] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa48a1)[0x2b228eb478a1]
+[h12c09:02868] [ 6] /usr/lib64/libpthread.so.0(+0xf630)[0x2ad89f143630]
+[h12c09:02865] [ 1] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4ad5)[0x2b228eb47ad5]
+[h12c09:02868] /usr/lib64/libc.so.6(gsignal+0x37)[0x2ad89f386387]
+[h12c09:02865] [ 2] /usr/lib64/libc.so.6(gsignal+0x37)[0x2b3100129387]
+[h12c09:02867] [ 2] [ 7] ./ESMC_InfoUTest[0x4662f6]
+[h12c09:02868] [ 8] ./ESMC_InfoUTest[0x47387d]
+[h12c09:02868] [ 9] /usr/lib64/libc.so.6(abort+0x148)[0x2b310012aa78]
+[h12c09:02867] /usr/lib64/libc.so.6(abort+0x148)[0x2ad89f387a78]
+[h12c09:02865] [ 3] [ 3] /usr/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b228f80b555]
+[h12c09:02868] [10] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0x98c83)[0x2b30ff445c83]
+[h12c09:02867] [ 4] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0x98c83)[0x2ad89e6a2c83]
+[h12c09:02865] [ 4] ./ESMC_InfoUTest[0x461079]
+[h12c09:02868] *** End of error message ***
+/apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4856)[0x2ad89e6ae856]
+[h12c09:02865] [ 5] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa48a1)[0x2ad89e6ae8a1]
+[h12c09:02865] [ 6] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4ad5)[0x2ad89e6aead5]
+[h12c09:02865] [ 7] ./ESMC_InfoUTest[0x4662f6]
+[h12c09:02865] [ 8] ./ESMC_InfoUTest[0x47387d]
+[h12c09:02865] [ 9] /usr/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ad89f372555]
+[h12c09:02865] [10] ./ESMC_InfoUTest[0x461079]
+[h12c09:02865] *** End of error message ***
+/apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4856)[0x2b30ff451856]
+[h12c09:02867] [ 5] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa48a1)[0x2b30ff4518a1]
+[h12c09:02867] [ 6] /apps/spack/linux-centos7-x86_64/gcc-4.8.5/gcc-9.2.0-wqdecm4rkyyhejagxwmnabt6lscgm45d/lib64/libstdc++.so.6(+0xa4ad5)[0x2b30ff451ad5]
+[h12c09:02867] [ 7] ./ESMC_InfoUTest[0x4662f6]
+[h12c09:02867] [ 8] ./ESMC_InfoUTest[0x47387d]
+[h12c09:02867] [ 9] /usr/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b3100115555]
+[h12c09:02867] [10] ./ESMC_InfoUTest[0x461079]
+[h12c09:02867] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 2865 on node h12c09 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------

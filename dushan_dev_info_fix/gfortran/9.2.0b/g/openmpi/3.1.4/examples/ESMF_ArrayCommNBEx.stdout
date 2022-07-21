@@ -1,0 +1,17 @@
+2022-07-21 20:17:09
+[1658435904.383315] [h12c09:120530:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.383384] [h12c09:120531:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.383589] [h12c09:120532:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.383519] [h12c09:120533:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.388797] [h12c09:120531:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.388926] [h12c09:120530:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.388957] [h12c09:120533:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435904.389220] [h12c09:120532:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_ArrayCommNBEx, ESMF_ArrayCommNBEx.F90, line 277
+  PASS  Example ESMF_ArrayCommNBEx, ESMF_ArrayCommNBEx.F90, line 277
+  PASS  Example ESMF_ArrayCommNBEx, ESMF_ArrayCommNBEx.F90, line 277
+  PASS  Example ESMF_ArrayCommNBEx, ESMF_ArrayCommNBEx.F90, line 277
+ PASS: ESMF_ArrayCommNBEx.F90
+ PASS: ESMF_ArrayCommNBEx.F90
+ PASS: ESMF_ArrayCommNBEx.F90
+ PASS: ESMF_ArrayCommNBEx.F90

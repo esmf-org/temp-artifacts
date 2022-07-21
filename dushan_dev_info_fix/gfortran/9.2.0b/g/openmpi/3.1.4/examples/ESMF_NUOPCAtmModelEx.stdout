@@ -1,0 +1,61 @@
+2022-07-21 20:17:09
+[1658435967.759375] [h12c09:146438:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.759361] [h12c09:146440:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.759505] [h12c09:146437:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.759565] [h12c09:146439:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.764687] [h12c09:146438:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.764737] [h12c09:146440:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.765213] [h12c09:146437:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.765220] [h12c09:146439:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ NUOPC DRIVER + ATM Model example run
+ NUOPC DRIVER + ATM Model example run
+ NUOPC DRIVER + ATM Model example run
+ NUOPC DRIVER + ATM Model example run
+------>Advancing ATM from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing ATM from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing ATM from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing ATM from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing ATM from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing ATM from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing ATM from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing ATM from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing ATM from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing ATM from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing ATM from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing ATM from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing ATM from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing ATM from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing ATM from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing ATM from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing ATM from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+------>Advancing ATM from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+------>Advancing ATM from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+------>Advancing ATM from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+  PASS  Example ESMF_NUOPCAtmModelEx, ESMF_NUOPCAtmModelEx.F90, line 806
+  PASS  Example ESMF_NUOPCAtmModelEx, ESMF_NUOPCAtmModelEx.F90, line 806
+  PASS  Example ESMF_NUOPCAtmModelEx, ESMF_NUOPCAtmModelEx.F90, line 806
+  PASS  Example ESMF_NUOPCAtmModelEx, ESMF_NUOPCAtmModelEx.F90, line 806
+ PASS: ESMF_NUOPCAtmModelEx.F90
+ PASS: ESMF_NUOPCAtmModelEx.F90
+ PASS: ESMF_NUOPCAtmModelEx.F90
+ PASS: ESMF_NUOPCAtmModelEx.F90

@@ -1,0 +1,61 @@
+2022-07-21 20:17:09
+[1658435967.257727] [h12c09:146312:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.257765] [h12c09:146314:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.257791] [h12c09:146315:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.258283] [h12c09:146313:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.263357] [h12c09:146312:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.263381] [h12c09:146314:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.263492] [h12c09:146315:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435967.263865] [h12c09:146313:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+ NUOPC Basic Model template run
+ NUOPC Basic Model template run
+ NUOPC Basic Model template run
+ NUOPC Basic Model template run
+------>Advancing MODEL from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing MODEL from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing MODEL from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing MODEL from:    0  1  1  0  0  0   0
+--------------------------------> to:    0  1  1  0  0 30   0
+------>Advancing MODEL from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing MODEL from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing MODEL from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing MODEL from:    0  1  1  0  0 30   0
+--------------------------------> to:    0  1  1  0  1  0   0
+------>Advancing MODEL from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing MODEL from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing MODEL from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing MODEL from:    0  1  1  0  1  0   0
+--------------------------------> to:    0  1  1  0  1 30   0
+------>Advancing MODEL from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing MODEL from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing MODEL from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing MODEL from:    0  1  1  0  1 30   0
+--------------------------------> to:    0  1  1  0  2  0   0
+------>Advancing MODEL from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+------>Advancing MODEL from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+------>Advancing MODEL from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+------>Advancing MODEL from:    0  1  1  0  2  0   0
+--------------------------------> to:    0  1  1  0  2 30   0
+  PASS  Example ESMF_NUOPCBasicModelEx, ESMF_NUOPCBasicModelEx.F90, line 339
+  PASS  Example ESMF_NUOPCBasicModelEx, ESMF_NUOPCBasicModelEx.F90, line 339
+  PASS  Example ESMF_NUOPCBasicModelEx, ESMF_NUOPCBasicModelEx.F90, line 339
+  PASS  Example ESMF_NUOPCBasicModelEx, ESMF_NUOPCBasicModelEx.F90, line 339
+ PASS: ESMF_NUOPCBasicModelEx.F90
+ PASS: ESMF_NUOPCBasicModelEx.F90
+ PASS: ESMF_NUOPCBasicModelEx.F90
+ PASS: ESMF_NUOPCBasicModelEx.F90

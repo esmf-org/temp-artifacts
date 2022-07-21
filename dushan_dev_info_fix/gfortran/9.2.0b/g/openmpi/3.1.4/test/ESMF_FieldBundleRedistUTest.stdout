@@ -1,0 +1,33 @@
+2022-07-21 20:17:09
+[1658435367.180330] [h12c09:29840:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.180785] [h12c09:29837:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.180523] [h12c09:29838:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.180826] [h12c09:29839:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.185517] [h12c09:29840:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.185699] [h12c09:29838:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.186119] [h12c09:29837:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435367.186167] [h12c09:29839:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldBundleRedistUTest.F90, line 61
+  Beginning Test, file ESMF_FieldBundleRedistUTest.F90, line 61
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleRedistUTest.F90, line 61
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldBundleRedistUTest.F90, line 61
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldRedist basic test, ESMF_FieldBundleRedistUTest.F90, line 74
+  PASS  FieldRedist basic test, ESMF_FieldBundleRedistUTest.F90, line 74
+  PASS  FieldRedist basic test, ESMF_FieldBundleRedistUTest.F90, line 74
+  PASS  FieldRedist basic test, ESMF_FieldBundleRedistUTest.F90, line 74
+  PASS  FieldRedist basic test with compatible Fields, ESMF_FieldBundleRedistUTest.F90, line 81
+  PASS  FieldRedist basic test with compatible Fields, ESMF_FieldBundleRedistUTest.F90, line 81
+  Ending Test, file ESMF_FieldBundleRedistUTest.F90, line 83
+  PASS  FieldRedist basic test with compatible Fields, ESMF_FieldBundleRedistUTest.F90, line 81
+  PASS  FieldRedist basic test with compatible Fields, ESMF_FieldBundleRedistUTest.F90, line 81
+  Ending Test, file ESMF_FieldBundleRedistUTest.F90, line 83
+  Ending Test, file ESMF_FieldBundleRedistUTest.F90, line 83
+  Ending Test, file ESMF_FieldBundleRedistUTest.F90, line 83
+  PET           3  Test Elapsed Time    32.929000000000002       msec.
+  PET           1  Test Elapsed Time    33.984999999999999       msec.
+  PET           2  Test Elapsed Time    32.911000000000008       msec.
+  PET           0  Test Elapsed Time    34.404000000000003       msec.

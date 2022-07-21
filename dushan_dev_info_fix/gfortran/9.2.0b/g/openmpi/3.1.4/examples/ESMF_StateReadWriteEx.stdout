@@ -1,0 +1,17 @@
+2022-07-21 20:17:09
+[1658435940.009778] [h12c09:132756:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.010214] [h12c09:132755:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.010235] [h12c09:132757:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.009895] [h12c09:132758:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.014853] [h12c09:132756:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.015027] [h12c09:132758:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.015611] [h12c09:132755:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435940.015653] [h12c09:132757:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_StateReadWriteEx, ESMF_StateReadWriteEx.F90, line 185
+  PASS  Example ESMF_StateReadWriteEx, ESMF_StateReadWriteEx.F90, line 185
+  PASS  Example ESMF_StateReadWriteEx, ESMF_StateReadWriteEx.F90, line 185
+  PASS  Example ESMF_StateReadWriteEx, ESMF_StateReadWriteEx.F90, line 185
+ PASS: ESMF_StateReadWriteEx.F90
+ PASS: ESMF_StateReadWriteEx.F90
+ PASS: ESMF_StateReadWriteEx.F90
+ PASS: ESMF_StateReadWriteEx.F90

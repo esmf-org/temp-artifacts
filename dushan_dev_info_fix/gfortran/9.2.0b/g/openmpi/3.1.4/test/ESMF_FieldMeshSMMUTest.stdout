@@ -1,0 +1,29 @@
+2022-07-21 20:17:09
+[1658435361.741063] [h12c09:27857:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.741262] [h12c09:27855:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.741400] [h12c09:27856:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.741350] [h12c09:27858:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.746597] [h12c09:27857:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.746685] [h12c09:27855:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.746798] [h12c09:27858:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435361.746895] [h12c09:27856:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldMeshSMMUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldMeshSMMUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldMeshSMMUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldMeshSMMUTest.F90, line 54
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldMeshSMM test using localPet for both src and dst, with halos, ESMF_FieldMeshSMMUTest.F90, line 68
+  PASS  FieldMeshSMM test using localPet for both src and dst, with halos, ESMF_FieldMeshSMMUTest.F90, line 68
+  PASS  FieldMeshSMM test using localPet for both src and dst, with halos, ESMF_FieldMeshSMMUTest.F90, line 68
+  PASS  FieldMeshSMM test using localPet for both src and dst, with halos, ESMF_FieldMeshSMMUTest.F90, line 68
+  Ending Test, file ESMF_FieldMeshSMMUTest.F90, line 71
+  Ending Test, file ESMF_FieldMeshSMMUTest.F90, line 71
+  Ending Test, file ESMF_FieldMeshSMMUTest.F90, line 71
+  Ending Test, file ESMF_FieldMeshSMMUTest.F90, line 71
+  PET           2  Test Elapsed Time    25.643999999999998       msec.
+  PET           0  Test Elapsed Time    26.382999999999988       msec.
+  PET           1  Test Elapsed Time    26.438999999999989       msec.
+  PET           3  Test Elapsed Time    26.200999999999990       msec.

@@ -1,0 +1,49 @@
+2022-07-21 20:17:09
+[1658435359.438605] [h12c09:27356:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.438611] [h12c09:27358:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.438734] [h12c09:27357:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.438700] [h12c09:27359:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.444226] [h12c09:27356:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.444282] [h12c09:27358:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.444325] [h12c09:27359:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435359.444370] [h12c09:27357:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  Beginning Test, file ESMF_FieldRedistUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldRedistUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldRedistUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_FieldRedistUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  PASS  FieldRedist basic test, ESMF_FieldRedistUTest.F90, line 72
+  PASS  FieldRedist basic test, ESMF_FieldRedistUTest.F90, line 72
+  PASS  FieldRedist basic test, ESMF_FieldRedistUTest.F90, line 72
+  PASS  FieldRedist basic test, ESMF_FieldRedistUTest.F90, line 72
+  PASS  FieldRedist basic test with compliant fields, ESMF_FieldRedistUTest.F90, line 79
+  PASS  FieldRedist basic test with compliant fields, ESMF_FieldRedistUTest.F90, line 79
+  PASS  FieldRedist basic test with compliant fields, ESMF_FieldRedistUTest.F90, line 79
+  PASS  FieldRedist basic test with compliant fields, ESMF_FieldRedistUTest.F90, line 79
+  PASS  FieldRedist 3d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 86
+  PASS  FieldRedist 3d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 86
+  PASS  FieldRedist 3d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 86
+  PASS  FieldRedist 3d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 86
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 98
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 98
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 98
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos, ESMF_FieldRedistUTest.F90, line 98
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos  srcToDstTransposeMap, ESMF_FieldRedistUTest.F90, line 111
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos  srcToDstTransposeMap, ESMF_FieldRedistUTest.F90, line 111
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos  srcToDstTransposeMap, ESMF_FieldRedistUTest.F90, line 111
+  PASS  FieldRedist congruent 5d fields with ungridded bounds and halos  srcToDstTransposeMap, ESMF_FieldRedistUTest.F90, line 111
+  PASS  FieldRedist on Fields built on Meshes, ESMF_FieldRedistUTest.F90, line 119
+  Ending Test, file ESMF_FieldRedistUTest.F90, line 122
+  PASS  FieldRedist on Fields built on Meshes, ESMF_FieldRedistUTest.F90, line 119
+  Ending Test, file ESMF_FieldRedistUTest.F90, line 122
+  PASS  FieldRedist on Fields built on Meshes, ESMF_FieldRedistUTest.F90, line 119
+  Ending Test, file ESMF_FieldRedistUTest.F90, line 122
+  PASS  FieldRedist on Fields built on Meshes, ESMF_FieldRedistUTest.F90, line 119
+  Ending Test, file ESMF_FieldRedistUTest.F90, line 122
+  PET           0  Test Elapsed Time    65.078000000000017       msec.
+  PET           2  Test Elapsed Time    65.885000000000005       msec.
+  PET           3  Test Elapsed Time    65.792999999999992       msec.
+  PET           1  Test Elapsed Time    65.504999999999981       msec.

@@ -1,0 +1,97 @@
+2022-07-21 20:17:09
+ --------------------------------------- 
+ Start of  System Test ESMF_ArraySharedDeSSISTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_ArraySharedDeSSISTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_ArraySharedDeSSISTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_ArraySharedDeSSISTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_ArraySharedDeSSISTest
+ --------------------------------------- 
+ --------------------------------------- 
+ Start of  System Test ESMF_ArraySharedDeSSISTest
+ --------------------------------------- 
+[1658435662.777675] [h12c09:66192:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.777689] [h12c09:66194:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.777755] [h12c09:66196:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.777789] [h12c09:66197:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.779907] [h12c09:66193:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.780086] [h12c09:66195:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.783935] [h12c09:66192:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.784037] [h12c09:66194:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.784089] [h12c09:66196:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.784164] [h12c09:66197:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.786179] [h12c09:66193:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435662.786228] [h12c09:66195:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  System Test ESMF_ArraySharedDeSSISTest                                                                                                                                                                                                                          complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            4
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_ArraySharedDeSSISTest
+  SUCCESS:  System Test ESMF_ArraySharedDeSSISTest finished correctly.
+ 
+  PASS  System Test ESMF_ArraySharedDeSSISTest, ESMF_ArraySharedDeSSISTest.F90, line 297
+  System Test ESMF_ArraySharedDeSSISTest                                                                                                                                                                                                                          complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            3
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_ArraySharedDeSSISTest
+  SUCCESS:  System Test ESMF_ArraySharedDeSSISTest finished correctly.
+ 
+  PASS  System Test ESMF_ArraySharedDeSSISTest, ESMF_ArraySharedDeSSISTest.F90, line 297
+  System Test ESMF_ArraySharedDeSSISTest                                                                                                                                                                                                                          complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            5
+ 
+  System Test ESMF_ArraySharedDeSSISTest
+  SUCCESS:  System Test ESMF_ArraySharedDeSSISTest finished correctly.
+ 
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test ESMF_ArraySharedDeSSISTest, ESMF_ArraySharedDeSSISTest.F90, line 297
+  System Test ESMF_ArraySharedDeSSISTest                                                                                                                                                                                                                          complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_ArraySharedDeSSISTest
+  SUCCESS:  System Test ESMF_ArraySharedDeSSISTest finished correctly.
+ 
+ Test finished, localPet =            0
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test ESMF_ArraySharedDeSSISTest, ESMF_ArraySharedDeSSISTest.F90, line 297
+  System Test ESMF_ArraySharedDeSSISTest                                                                                                                                                                                                                          complete.
+  System Test ESMF_ArraySharedDeSSISTest                                                                                                                                                                                                                          complete.
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            2
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ Test finished, localPet =            1
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+ 
+  System Test ESMF_ArraySharedDeSSISTest
+  SUCCESS:  System Test ESMF_ArraySharedDeSSISTest finished correctly.
+ 
+ 
+  System Test ESMF_ArraySharedDeSSISTest
+  SUCCESS:  System Test ESMF_ArraySharedDeSSISTest finished correctly.
+ 
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+  PASS  System Test ESMF_ArraySharedDeSSISTest, ESMF_ArraySharedDeSSISTest.F90, line 297
+  PASS  System Test ESMF_ArraySharedDeSSISTest, ESMF_ArraySharedDeSSISTest.F90, line 297

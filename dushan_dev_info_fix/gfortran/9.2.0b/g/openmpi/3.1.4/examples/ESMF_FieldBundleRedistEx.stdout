@@ -1,0 +1,17 @@
+2022-07-21 20:17:09
+[1658435936.586029] [h12c09:131550:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.586037] [h12c09:131552:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.588321] [h12c09:131551:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.588318] [h12c09:131553:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.591484] [h12c09:131550:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.591502] [h12c09:131552:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.594786] [h12c09:131553:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1658435936.594786] [h12c09:131551:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+  PASS  Example ESMF_FieldBundleRedistEx, ESMF_FieldBundleRedistEx.F90, line 280
+  PASS  Example ESMF_FieldBundleRedistEx, ESMF_FieldBundleRedistEx.F90, line 280
+  PASS  Example ESMF_FieldBundleRedistEx, ESMF_FieldBundleRedistEx.F90, line 280
+  PASS  Example ESMF_FieldBundleRedistEx, ESMF_FieldBundleRedistEx.F90, line 280
+ PASS: ESMF_FieldBundleRedistEx.F90
+ PASS: ESMF_FieldBundleRedistEx.F90
+ PASS: ESMF_FieldBundleRedistEx.F90
+ PASS: ESMF_FieldBundleRedistEx.F90
