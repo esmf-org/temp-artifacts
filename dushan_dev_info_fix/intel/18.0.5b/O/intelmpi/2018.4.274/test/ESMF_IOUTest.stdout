@@ -1,0 +1,33 @@
+2022-07-21 21:18:19
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_IOUTest.F90, line 57
+  NUMBER_OF_PROCESSORS           4
+  FAIL  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 81:  did not return ESMF_S
+ UCCESS
+  FAIL  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 81:  did not return ESMF_S
+ UCCESS
+  FAIL  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 81:  did not return ESMF_S
+ UCCESS
+  FAIL  ESMF_OutputWeightFile, ESMF_IOUTest.F90, line 81:  did not return ESMF_S
+ UCCESS
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOU
+ Test.F90, line 191
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOU
+ Test.F90, line 191
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOU
+ Test.F90, line 191
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  PASS  call ESMF_OutputWeightFile with empty factor list on four PETs, ESMF_IOU
+ Test.F90, line 191
+  Ending Test, file ESMF_IOUTest.F90, line 201
+  PET           1  Test Elapsed Time    9.65000000000000       msec.
+  PET           2  Test Elapsed Time    9.58100000000000       msec.
+  PET           3  Test Elapsed Time    9.76500000000000       msec.
+  PET           0  Test Elapsed Time    9.50200000000000       msec.
