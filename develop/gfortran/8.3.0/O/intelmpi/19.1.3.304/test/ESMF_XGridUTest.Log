@@ -1,0 +1,89 @@
+2022-07-22 14:31:52
+20220722 144702.835 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220722 144702.835 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220722 144702.835 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220722 144702.835 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220722 144702.835 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220722 144702.835 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220722 144702.835 INFO             PET0 Running with ESMF Version   : v8.4.0b07
+20220722 144702.835 INFO             PET0 ESMF library build date/time: "Jul 22 2022" "14:30:29"
+20220722 144702.835 INFO             PET0 ESMF library build location : /discover/nobackup/projects/sbu/mpotts/esmf-test/gfortran_8.3.0_intelmpi_O_develop/esmf
+20220722 144702.835 INFO             PET0 ESMF_COMM                   : intelmpi
+20220722 144702.835 INFO             PET0 ESMF_MOAB                   : enabled
+20220722 144702.835 INFO             PET0 ESMF_LAPACK                 : enabled
+20220722 144702.835 INFO             PET0 ESMF_NETCDF                 : disabled
+20220722 144702.835 INFO             PET0 ESMF_PNETCDF                : disabled
+20220722 144702.835 INFO             PET0 ESMF_PIO                    : disabled
+20220722 144702.835 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220722 144702.835 INFO             PET0  Beginning Test, file ESMF_XGridUTest.F90, line 54
+20220722 144702.835 INFO             PET0  NUMBER_OF_PROCESSORS           2
+20220722 144702.843 INFO             PET0  PASS  Testing XGrid side and elem info., ESMF_XGridUTest.F90, line 65
+20220722 144702.843 INFO             PET0  PASS  Testing XGrid IsCreated for uncreated object, ESMF_XGridUTest.F90, line 74
+20220722 144702.843 INFO             PET0  PASS  Testing XGrid IsCreated for uncreated object, ESMF_XGridUTest.F90, line 82
+20220722 144702.847 INFO             PET0  PASS  Create test XGrid for IsCreated, ESMF_XGridUTest.F90, line 92
+20220722 144702.847 INFO             PET0  PASS  Testing XGrid IsCreated for created object, ESMF_XGridUTest.F90, line 100
+20220722 144702.847 INFO             PET0  PASS  Testing XGrid IsCreated for created object, ESMF_XGridUTest.F90, line 108
+20220722 144702.847 INFO             PET0  PASS  Destroy test XGrid for IsCreated, ESMF_XGridUTest.F90, line 116
+20220722 144702.847 INFO             PET0  PASS  Testing XGrid IsCreated for destroyed object, ESMF_XGridUTest.F90, line 124
+20220722 144702.847 INFO             PET0  PASS  Testing XGrid IsCreated for destroyed object, ESMF_XGridUTest.F90, line 132
+20220722 144702.848 INFO             PET0  PASS  XGrid equality before assignment Test, ESMF_XGridUTest.F90, line 417
+20220722 144702.848 INFO             PET0  PASS  XGrid assignment and equality Test, ESMF_XGridUTest.F90, line 426
+20220722 144702.849 INFO             PET0  PASS  XGridDestroy Test, ESMF_XGridUTest.F90, line 549
+20220722 144702.849 INFO             PET0  PASS  XGrid equality after destroy Test, ESMF_XGridUTest.F90, line 557
+20220722 144702.849 INFO             PET0  PASS  XGrid non-equality after destroy Test, ESMF_XGridUTest.F90, line 565
+20220722 144702.849 INFO             PET0  PASS  XGrid coordSys test, ESMF_XGridUTest.F90, line 572
+20220722 144702.849 INFO             PET0  PASS  Creating an XGrid with area/centroid, sparseMatA2X, ESMF_XGridUTest.F90, line 142
+20220722 144703.062 INFO             PET0  PASS  Creating an XGrid from 2 adjacent Grids, ESMF_XGridUTest.F90, line 151
+20220722 144703.239 INFO             PET0  PASS  Creating an XGrid in 2D with Grid merging, ESMF_XGridUTest.F90, line 160
+20220722 144703.397 INFO             PET0  PASS  Creating an XGrid in 2D with Mesh merging, ESMF_XGridUTest.F90, line 169
+20220722 144703.403 INFO             PET0  PASS  Creating an XGrid in 2D from Meshes contain elements with >4 sides, ESMF_XGridUTest.F90, line 177
+20220722 144703.423 INFO             PET0  PASS  Creating an XGrid in 2D with user supplied area, ESMF_XGridUTest.F90, line 186
+20220722 144703.424 INFO             PET0  PASS  Creating an XGrid with Mesh easy element create interface, ESMF_XGridUTest.F90, line 195
+20220722 144703.430 INFO             PET0  PASS  Test 2nd order on an XGrid between Meshes, ESMF_XGridUTest.F90, line 203
+20220722 144704.940 INFO             PET0  PASS  Test 2nd order on an XGrid with a cubed sphere Grid, ESMF_XGridUTest.F90, line 211
+20220722 144704.940 INFO             PET0  Ending Test, file ESMF_XGridUTest.F90, line 214
+20220722 144704.940 INFO             PET0 Finalizing ESMF
+20220722 144702.834 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220722 144702.834 INFO             PET1 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220722 144702.834 INFO             PET1 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220722 144702.834 INFO             PET1 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220722 144702.834 INFO             PET1 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220722 144702.834 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220722 144702.834 INFO             PET1 Running with ESMF Version   : v8.4.0b07
+20220722 144702.834 INFO             PET1 ESMF library build date/time: "Jul 22 2022" "14:30:29"
+20220722 144702.834 INFO             PET1 ESMF library build location : /discover/nobackup/projects/sbu/mpotts/esmf-test/gfortran_8.3.0_intelmpi_O_develop/esmf
+20220722 144702.834 INFO             PET1 ESMF_COMM                   : intelmpi
+20220722 144702.835 INFO             PET1 ESMF_MOAB                   : enabled
+20220722 144702.835 INFO             PET1 ESMF_LAPACK                 : enabled
+20220722 144702.835 INFO             PET1 ESMF_NETCDF                 : disabled
+20220722 144702.835 INFO             PET1 ESMF_PNETCDF                : disabled
+20220722 144702.835 INFO             PET1 ESMF_PIO                    : disabled
+20220722 144702.835 INFO             PET1 ESMF_YAMLCPP                : enabled
+20220722 144702.835 INFO             PET1  Beginning Test, file ESMF_XGridUTest.F90, line 54
+20220722 144702.835 INFO             PET1  NUMBER_OF_PROCESSORS           2
+20220722 144702.843 INFO             PET1  PASS  Testing XGrid side and elem info., ESMF_XGridUTest.F90, line 65
+20220722 144702.843 INFO             PET1  PASS  Testing XGrid IsCreated for uncreated object, ESMF_XGridUTest.F90, line 74
+20220722 144702.843 INFO             PET1  PASS  Testing XGrid IsCreated for uncreated object, ESMF_XGridUTest.F90, line 82
+20220722 144702.847 INFO             PET1  PASS  Create test XGrid for IsCreated, ESMF_XGridUTest.F90, line 92
+20220722 144702.847 INFO             PET1  PASS  Testing XGrid IsCreated for created object, ESMF_XGridUTest.F90, line 100
+20220722 144702.847 INFO             PET1  PASS  Testing XGrid IsCreated for created object, ESMF_XGridUTest.F90, line 108
+20220722 144702.847 INFO             PET1  PASS  Destroy test XGrid for IsCreated, ESMF_XGridUTest.F90, line 116
+20220722 144702.847 INFO             PET1  PASS  Testing XGrid IsCreated for destroyed object, ESMF_XGridUTest.F90, line 124
+20220722 144702.848 INFO             PET1  PASS  Testing XGrid IsCreated for destroyed object, ESMF_XGridUTest.F90, line 132
+20220722 144702.848 INFO             PET1  PASS  XGrid equality before assignment Test, ESMF_XGridUTest.F90, line 417
+20220722 144702.848 INFO             PET1  PASS  XGrid assignment and equality Test, ESMF_XGridUTest.F90, line 426
+20220722 144702.849 INFO             PET1  PASS  XGridDestroy Test, ESMF_XGridUTest.F90, line 549
+20220722 144702.849 INFO             PET1  PASS  XGrid equality after destroy Test, ESMF_XGridUTest.F90, line 557
+20220722 144702.849 INFO             PET1  PASS  XGrid non-equality after destroy Test, ESMF_XGridUTest.F90, line 565
+20220722 144702.849 INFO             PET1  PASS  XGrid coordSys test, ESMF_XGridUTest.F90, line 572
+20220722 144702.849 INFO             PET1  PASS  Creating an XGrid with area/centroid, sparseMatA2X, ESMF_XGridUTest.F90, line 142
+20220722 144703.062 INFO             PET1  PASS  Creating an XGrid from 2 adjacent Grids, ESMF_XGridUTest.F90, line 151
+20220722 144703.238 INFO             PET1  PASS  Creating an XGrid in 2D with Grid merging, ESMF_XGridUTest.F90, line 160
+20220722 144703.397 INFO             PET1  PASS  Creating an XGrid in 2D with Mesh merging, ESMF_XGridUTest.F90, line 169
+20220722 144703.403 INFO             PET1  PASS  Creating an XGrid in 2D from Meshes contain elements with >4 sides, ESMF_XGridUTest.F90, line 177
+20220722 144703.423 INFO             PET1  PASS  Creating an XGrid in 2D with user supplied area, ESMF_XGridUTest.F90, line 186
+20220722 144703.424 INFO             PET1  PASS  Creating an XGrid with Mesh easy element create interface, ESMF_XGridUTest.F90, line 195
+20220722 144703.430 INFO             PET1  PASS  Test 2nd order on an XGrid between Meshes, ESMF_XGridUTest.F90, line 203
+20220722 144704.940 INFO             PET1  PASS  Test 2nd order on an XGrid with a cubed sphere Grid, ESMF_XGridUTest.F90, line 211
+20220722 144704.940 INFO             PET1  Ending Test, file ESMF_XGridUTest.F90, line 214
+20220722 144704.940 INFO             PET1 Finalizing ESMF
