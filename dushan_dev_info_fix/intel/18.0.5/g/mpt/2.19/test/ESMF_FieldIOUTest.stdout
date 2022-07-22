@@ -1,0 +1,777 @@
+2022-07-21 17:28:13
+0:  Beginning Test, file ESMF_FieldIOUTest.F90, line 123
+1:  Beginning Test, file ESMF_FieldIOUTest.F90, line 123
+2:  Beginning Test, file ESMF_FieldIOUTest.F90, line 123
+3:  Beginning Test, file ESMF_FieldIOUTest.F90, line 123
+0:  NUMBER_OF_PROCESSORS           4
+1:  NUMBER_OF_PROCESSORS           4
+2:  NUMBER_OF_PROCESSORS           4
+3:  NUMBER_OF_PROCESSORS           4
+2:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 146
+0:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 146
+1:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 146
+3:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 146
+0:  PASS  Creating a Grid to use in Field Tests, ESMF_FieldIOUTest.F90, line 157
+1:  PASS  Creating a Grid to use in Field Tests, ESMF_FieldIOUTest.F90, line 157
+3:  PASS  Creating a Grid to use in Field Tests, ESMF_FieldIOUTest.F90, line 157
+2:  PASS  Creating a Grid to use in Field Tests, ESMF_FieldIOUTest.F90, line 157
+0:  PASS  Create a field from grid and fortran dummy array, ESMF_FieldIOUTest.F90,
+0:  line 179
+1:  PASS  Create a field from grid and fortran dummy array, ESMF_FieldIOUTest.F90,
+1:  line 179
+2:  PASS  Create a field from grid and fortran dummy array, ESMF_FieldIOUTest.F90,
+2:  line 179
+3:  PASS  Create a field from grid and fortran dummy array, ESMF_FieldIOUTest.F90,
+3:  line 179
+1:  PASS  Get Farray_w from field, ESMF_FieldIOUTest.F90, line 190
+2:  PASS  Get Farray_w from field, ESMF_FieldIOUTest.F90, line 190
+3:  PASS  Get Farray_w from field, ESMF_FieldIOUTest.F90, line 190
+0:  PASS  Get Farray_w from field, ESMF_FieldIOUTest.F90, line 190
+0:  PASS  Write Fortran array in Field, ESMF_FieldIOUTest.F90, line 219
+1:  PASS  Write Fortran array in Field, ESMF_FieldIOUTest.F90, line 219
+2:  PASS  Write Fortran array in Field, ESMF_FieldIOUTest.F90, line 219
+3:  PASS  Write Fortran array in Field, ESMF_FieldIOUTest.F90, line 219
+1:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+1: dIOUTest.F90, line 233
+2:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+2: dIOUTest.F90, line 233
+3:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+3: dIOUTest.F90, line 233
+0:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+0: dIOUTest.F90, line 233
+2:  PASS  Get Farray_w from nohalo field, ESMF_FieldIOUTest.F90, line 244
+3:  PASS  Get Farray_w from nohalo field, ESMF_FieldIOUTest.F90, line 244
+0:  PASS  Get Farray_w from nohalo field, ESMF_FieldIOUTest.F90, line 244
+1:  PASS  Get Farray_w from nohalo field, ESMF_FieldIOUTest.F90, line 244
+0:  PASS  Write Fortran array in nohalo Field, ESMF_FieldIOUTest.F90, line 268
+1:  PASS  Write Fortran array in nohalo Field, ESMF_FieldIOUTest.F90, line 268
+2:  PASS  Write Fortran array in nohalo Field, ESMF_FieldIOUTest.F90, line 268
+3:  PASS  Write Fortran array in nohalo Field, ESMF_FieldIOUTest.F90, line 268
+2:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+2: dIOUTest.F90, line 281
+0:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+0: dIOUTest.F90, line 281
+1:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+1: dIOUTest.F90, line 281
+3:  PASS  Create a field from grid and fortran dummy array without halo, ESMF_Fiel
+3: dIOUTest.F90, line 281
+1:  PASS  Write multiple Fields with same dimensions to a file, ESMF_FieldIOUTest.
+1: F90, line 292
+2:  PASS  Write multiple Fields with same dimensions to a file, ESMF_FieldIOUTest.
+2: F90, line 292
+3:  PASS  Write multiple Fields with same dimensions to a file, ESMF_FieldIOUTest.
+3: F90, line 292
+0:  PASS  Write multiple Fields with same dimensions to a file, ESMF_FieldIOUTest.
+0: F90, line 292
+2:  PASS  Create grid for field metadata test, ESMF_FieldIOUTest.F90, line 309
+3:  PASS  Create grid for field metadata test, ESMF_FieldIOUTest.F90, line 309
+0:  PASS  Create grid for field metadata test, ESMF_FieldIOUTest.F90, line 309
+1:  PASS  Create grid for field metadata test, ESMF_FieldIOUTest.F90, line 309
+2:  PASS  Create field with global indices, ESMF_FieldIOUTest.F90, line 316
+3:  PASS  Create field with global indices, ESMF_FieldIOUTest.F90, line 316
+0:  PASS  Create field with global indices, ESMF_FieldIOUTest.F90, line 316
+1:  PASS  Create field with global indices, ESMF_FieldIOUTest.F90, line 316
+2:  PASS  Get Farray_md from field, ESMF_FieldIOUTest.F90, line 324
+3:  PASS  Get Farray_md from field, ESMF_FieldIOUTest.F90, line 324
+0:  PASS  Get Farray_md from field, ESMF_FieldIOUTest.F90, line 324
+1:  PASS  Get Farray_md from field, ESMF_FieldIOUTest.F90, line 324
+0:  PASS  Write Field to NetCDF file, ESMF_FieldIOUTest.F90, line 348
+1:  PASS  Write Field to NetCDF file, ESMF_FieldIOUTest.F90, line 348
+2:  PASS  Write Field to NetCDF file, ESMF_FieldIOUTest.F90, line 348
+3:  PASS  Write Field to NetCDF file, ESMF_FieldIOUTest.F90, line 348
+0:  PASS  Confirm NetCDF metadata - open file, ESMF_FieldIOUTest.F90, line 359
+0:  PASS  Confirm NetCDF metadata - check dim 1, ESMF_FieldIOUTest.F90, line 369
+0:  PASS  Confirm NetCDF metadata - check dim 1 len, ESMF_FieldIOUTest.F90, line 3
+0: 79
+0:  PASS  Confirm NetCDF metadata - check dim 2, ESMF_FieldIOUTest.F90, line 389
+0:  PASS  Confirm NetCDF metadata - check dim 2 len, ESMF_FieldIOUTest.F90, line 3
+0: 99
+0:  PASS  Confirm NetCDF metadata - variable exists, ESMF_FieldIOUTest.F90, line 4
+0: 09
+0:  PASS  Confirm NetCDF metadata - variable has expected dims, ESMF_FieldIOUTest.
+0: F90, line 420
+0:  PASS  Confirm NetCDF data - check data for field, ESMF_FieldIOUTest.F90, line 
+0: 445
+0:  PASS  Confirm NetCDF data - close file, ESMF_FieldIOUTest.F90, line 456
+2:  PASS  Confirm NetCDF metadata - open file, ESMF_FieldIOUTest.F90, line 359
+3:  PASS  Confirm NetCDF metadata - open file, ESMF_FieldIOUTest.F90, line 359
+1:  PASS  Confirm NetCDF metadata - open file, ESMF_FieldIOUTest.F90, line 359
+2:  PASS  Confirm NetCDF metadata - check dim 1, ESMF_FieldIOUTest.F90, line 369
+3:  PASS  Confirm NetCDF metadata - check dim 1, ESMF_FieldIOUTest.F90, line 369
+1:  PASS  Confirm NetCDF metadata - check dim 1, ESMF_FieldIOUTest.F90, line 369
+2:  PASS  Confirm NetCDF metadata - check dim 1 len, ESMF_FieldIOUTest.F90, line 3
+2: 79
+1:  PASS  Confirm NetCDF metadata - check dim 1 len, ESMF_FieldIOUTest.F90, line 3
+1: 79
+3:  PASS  Confirm NetCDF metadata - check dim 1 len, ESMF_FieldIOUTest.F90, line 3
+3: 79
+2:  PASS  Confirm NetCDF metadata - check dim 2, ESMF_FieldIOUTest.F90, line 389
+3:  PASS  Confirm NetCDF metadata - check dim 2, ESMF_FieldIOUTest.F90, line 389
+1:  PASS  Confirm NetCDF metadata - check dim 2, ESMF_FieldIOUTest.F90, line 389
+2:  PASS  Confirm NetCDF metadata - check dim 2 len, ESMF_FieldIOUTest.F90, line 3
+2: 99
+3:  PASS  Confirm NetCDF metadata - check dim 2 len, ESMF_FieldIOUTest.F90, line 3
+3: 99
+1:  PASS  Confirm NetCDF metadata - check dim 2 len, ESMF_FieldIOUTest.F90, line 3
+1: 99
+2:  PASS  Confirm NetCDF metadata - variable exists, ESMF_FieldIOUTest.F90, line 4
+2: 09
+3:  PASS  Confirm NetCDF metadata - variable exists, ESMF_FieldIOUTest.F90, line 4
+3: 09
+1:  PASS  Confirm NetCDF metadata - variable exists, ESMF_FieldIOUTest.F90, line 4
+1: 09
+1:  PASS  Confirm NetCDF metadata - variable has expected dims, ESMF_FieldIOUTest.
+1: F90, line 420
+1:  PASS  Confirm NetCDF data - check data for field, ESMF_FieldIOUTest.F90, line 
+1: 445
+1:  PASS  Confirm NetCDF data - close file, ESMF_FieldIOUTest.F90, line 456
+2:  PASS  Confirm NetCDF metadata - variable has expected dims, ESMF_FieldIOUTest.
+2: F90, line 420
+2:  PASS  Confirm NetCDF data - check data for field, ESMF_FieldIOUTest.F90, line 
+2: 445
+2:  PASS  Confirm NetCDF data - close file, ESMF_FieldIOUTest.F90, line 456
+3:  PASS  Confirm NetCDF metadata - variable has expected dims, ESMF_FieldIOUTest.
+3: F90, line 420
+3:  PASS  Confirm NetCDF data - check data for field, ESMF_FieldIOUTest.F90, line 
+3: 445
+3:  PASS  Confirm NetCDF data - close file, ESMF_FieldIOUTest.F90, line 456
+0:  PASS  Write Farray_tw at different time t in a loop, ESMF_FieldIOUTest.F90, li
+0: ne 566
+1:  PASS  Write Farray_tw at different time t in a loop, ESMF_FieldIOUTest.F90, li
+1: ne 566
+2:  PASS  Write Farray_tw at different time t in a loop, ESMF_FieldIOUTest.F90, li
+2: ne 566
+3:  PASS  Write Farray_tw at different time t in a loop, ESMF_FieldIOUTest.F90, li
+3: ne 566
+0:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 581
+1:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 581
+2:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 581
+3:  PASS  Array Spec Set, ESMF_FieldIOUTest.F90, line 581
+2:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 591
+1:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 591
+3:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 591
+0:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 591
+1:  PASS  Read data to object field_r with non-existant file, ESMF_FieldIOUTest.F9
+1: 0, line 601
+2:  PASS  Read data to object field_r with non-existant file, ESMF_FieldIOUTest.F9
+2: 0, line 601
+3:  PASS  Read data to object field_r with non-existant file, ESMF_FieldIOUTest.F9
+3: 0, line 601
+0:  PASS  Read data to object field_r with non-existant file, ESMF_FieldIOUTest.F9
+0: 0, line 601
+0:  PASS  Read data to object field_r, ESMF_FieldIOUTest.F90, line 615
+1:  PASS  Read data to object field_r, ESMF_FieldIOUTest.F90, line 615
+2:  PASS  Read data to object field_r, ESMF_FieldIOUTest.F90, line 615
+3:  PASS  Read data to object field_r, ESMF_FieldIOUTest.F90, line 615
+0:  PASS  Point data to Fortran pointer Farray_r, ESMF_FieldIOUTest.F90, line 628
+1:  PASS  Point data to Fortran pointer Farray_r, ESMF_FieldIOUTest.F90, line 628
+2:  PASS  Point data to Fortran pointer Farray_r, ESMF_FieldIOUTest.F90, line 628
+3:  PASS  Point data to Fortran pointer Farray_r, ESMF_FieldIOUTest.F90, line 628
+0: Maximum Error (read-write) =   0.000000000000000E+000
+1: Maximum Error (read-write) =   0.000000000000000E+000
+1:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 65
+1: 1
+2: Maximum Error (read-write) =   0.000000000000000E+000
+2:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 65
+2: 1
+3: Maximum Error (read-write) =   0.000000000000000E+000
+3:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 65
+3: 1
+0:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 65
+0: 1
+2:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 687
+0:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 687
+1:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 687
+3:  PASS  Create new Field_r, ESMF_FieldIOUTest.F90, line 687
+0:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+0: e 697
+1:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+1: e 697
+2:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+2: e 697
+3:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+3: e 697
+0:  PASS  Point data to Fortran pointer Farray_tr, ESMF_FieldIOUTest.F90, line 710
+1:  PASS  Point data to Fortran pointer Farray_tr, ESMF_FieldIOUTest.F90, line 710
+3:  PASS  Point data to Fortran pointer Farray_tr, ESMF_FieldIOUTest.F90, line 710
+2:  PASS  Point data to Fortran pointer Farray_tr, ESMF_FieldIOUTest.F90, line 710
+0: Maximum Error with Halos (read-write) =   0.000000000000000E+000
+2: Maximum Error with Halos (read-write) =   0.000000000000000E+000
+2:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 73
+2: 2
+0:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 73
+0: 2
+1: Maximum Error with Halos (read-write) =   0.000000000000000E+000
+1:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 73
+1: 2
+3: Maximum Error with Halos (read-write) =   0.000000000000000E+000
+3:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 73
+3: 2
+2:  PASS  Create new Field_s for without Halo, ESMF_FieldIOUTest.F90, line 747
+0:  PASS  Create new Field_s for without Halo, ESMF_FieldIOUTest.F90, line 747
+1:  PASS  Create new Field_s for without Halo, ESMF_FieldIOUTest.F90, line 747
+3:  PASS  Create new Field_s for without Halo, ESMF_FieldIOUTest.F90, line 747
+0:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+0: e 757
+1:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+1: e 757
+2:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+2: e 757
+3:  PASS  Read data time=t to object field_r per slice, ESMF_FieldIOUTest.F90, lin
+3: e 757
+0:  PASS  Point data to Fortran pointer Farray_sr, ESMF_FieldIOUTest.F90, line 770
+1:  PASS  Point data to Fortran pointer Farray_sr, ESMF_FieldIOUTest.F90, line 770
+2:  PASS  Point data to Fortran pointer Farray_sr, ESMF_FieldIOUTest.F90, line 770
+3:  PASS  Point data to Fortran pointer Farray_sr, ESMF_FieldIOUTest.F90, line 770
+3: Maximum Error without Halos (read-write) =   0.000000000000000E+000
+2: Maximum Error without Halos (read-write) =   0.000000000000000E+000
+0: Maximum Error without Halos (read-write) =   0.000000000000000E+000
+0:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 79
+0: 2
+1: Maximum Error without Halos (read-write) =   0.000000000000000E+000
+1:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 79
+2:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 79
+2: 2
+3:  PASS  Compare readin data to the existing data, ESMF_FieldIOUTest.F90, line 79
+3: 2
+1: 2
+0:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 808
+1:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 808
+2:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 808
+3:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 808
+0:  PASS  Write Field, ESMF_FieldIOUTest.F90, line 870
+1:  PASS  Write Field, ESMF_FieldIOUTest.F90, line 870
+2:  PASS  Write Field, ESMF_FieldIOUTest.F90, line 870
+3:  PASS  Write Field, ESMF_FieldIOUTest.F90, line 870
+0:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 877
+1:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 877
+2:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 877
+3:  PASS  Destroy Grid, ESMF_FieldIOUTest.F90, line 877
+3:  PASS  Create a gloablly indexed grid, ESMF_FieldIOUTest.F90, line 891
+1:  PASS  Create a gloablly indexed grid, ESMF_FieldIOUTest.F90, line 891
+2:  PASS  Create a gloablly indexed grid, ESMF_FieldIOUTest.F90, line 891
+0:  PASS  Create a gloablly indexed grid, ESMF_FieldIOUTest.F90, line 891
+3:  PASS  Create a gloablly indexed field from grid and fortran dummy array, ESMF_
+3: FieldIOUTest.F90, line 902
+2:  PASS  Create a gloablly indexed field from grid and fortran dummy array, ESMF_
+2: FieldIOUTest.F90, line 902
+0:  PASS  Create a gloablly indexed field from grid and fortran dummy array, ESMF_
+0: FieldIOUTest.F90, line 902
+1:  PASS  Create a gloablly indexed field from grid and fortran dummy array, ESMF_
+1: FieldIOUTest.F90, line 902
+2:  PASS  Get Farray_gw from field, ESMF_FieldIOUTest.F90, line 915
+3:  PASS  Get Farray_gw from field, ESMF_FieldIOUTest.F90, line 915
+1:  PASS  Get Farray_gw from field, ESMF_FieldIOUTest.F90, line 915
+0:  PASS  Get Farray_gw from field, ESMF_FieldIOUTest.F90, line 915
+1:  PASS  Write globally indexed Field, ESMF_FieldIOUTest.F90, line 927
+2:  PASS  Write globally indexed Field, ESMF_FieldIOUTest.F90, line 927
+3:  PASS  Write globally indexed Field, ESMF_FieldIOUTest.F90, line 927
+0:  PASS  Write globally indexed Field, ESMF_FieldIOUTest.F90, line 927
+2:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+2: FieldIOUTest.F90, line 941
+0:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+0: FieldIOUTest.F90, line 941
+1:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+1: FieldIOUTest.F90, line 941
+3:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+3: FieldIOUTest.F90, line 941
+0:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 952
+1:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 952
+2:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 952
+3:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 952
+1:  PASS  Get Farray_gr from field, ESMF_FieldIOUTest.F90, line 966
+2:  PASS  Get Farray_gr from field, ESMF_FieldIOUTest.F90, line 966
+3:  PASS  Get Farray_gr from field, ESMF_FieldIOUTest.F90, line 966
+0:  PASS  Get Farray_gr from field, ESMF_FieldIOUTest.F90, line 966
+1:  PASS  Compare read-in data with expected, ESMF_FieldIOUTest.F90, line 980
+2:  PASS  Compare read-in data with expected, ESMF_FieldIOUTest.F90, line 980
+3:  PASS  Compare read-in data with expected, ESMF_FieldIOUTest.F90, line 980
+0:  PASS  Compare read-in data with expected, ESMF_FieldIOUTest.F90, line 980
+2:  PASS  Create a gloablly indexed field with different name, ESMF_FieldIOUTest.F
+2: 90, line 995
+3:  PASS  Create a gloablly indexed field with different name, ESMF_FieldIOUTest.F
+3: 90, line 995
+1:  PASS  Create a gloablly indexed field with different name, ESMF_FieldIOUTest.F
+1: 90, line 995
+0:  PASS  Create a gloablly indexed field with different name, ESMF_FieldIOUTest.F
+0: 90, line 995
+2:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 1006
+3:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 1006
+0:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 1006
+1:  PASS  Read globally indexed Field data, ESMF_FieldIOUTest.F90, line 1006
+2:  PASS  Destroy globally indexed Grid, ESMF_FieldIOUTest.F90, line 1018
+3:  PASS  Destroy globally indexed Grid, ESMF_FieldIOUTest.F90, line 1018
+0:  PASS  Destroy globally indexed Grid, ESMF_FieldIOUTest.F90, line 1018
+1:  PASS  Destroy globally indexed Grid, ESMF_FieldIOUTest.F90, line 1018
+2:  PASS  Creating a Grid with 2DEs/PET to use in Field Tests, ESMF_FieldIOUTest.F
+2: 90, line 1033
+1:  PASS  Creating a Grid with 2DEs/PET to use in Field Tests, ESMF_FieldIOUTest.F
+1: 90, line 1033
+3:  PASS  Creating a Grid with 2DEs/PET to use in Field Tests, ESMF_FieldIOUTest.F
+3: 90, line 1033
+0:  PASS  Creating a Grid with 2DEs/PET to use in Field Tests, ESMF_FieldIOUTest.F
+0: 90, line 1033
+3:  PASS  Create a field from 2DE grid and fortran dummy array, ESMF_FieldIOUTest.
+3: F90, line 1044
+2:  PASS  Create a field from 2DE grid and fortran dummy array, ESMF_FieldIOUTest.
+2: F90, line 1044
+0:  PASS  Create a field from 2DE grid and fortran dummy array, ESMF_FieldIOUTest.
+0: F90, line 1044
+1:  PASS  Create a field from 2DE grid and fortran dummy array, ESMF_FieldIOUTest.
+1: F90, line 1044
+3:  PASS  Get and fill Farray_w from field DE 0, ESMF_FieldIOUTest.F90, line 1056
+2:  PASS  Get and fill Farray_w from field DE 0, ESMF_FieldIOUTest.F90, line 1056
+0:  PASS  Get and fill Farray_w from field DE 0, ESMF_FieldIOUTest.F90, line 1056
+1:  PASS  Get and fill Farray_w from field DE 0, ESMF_FieldIOUTest.F90, line 1056
+2:  PASS  Get and fill Farray_w from field DE 1, ESMF_FieldIOUTest.F90, line 1068
+3:  PASS  Get and fill Farray_w from field DE 1, ESMF_FieldIOUTest.F90, line 1068
+1:  PASS  Get and fill Farray_w from field DE 1, ESMF_FieldIOUTest.F90, line 1068
+0:  PASS  Get and fill Farray_w from field DE 1, ESMF_FieldIOUTest.F90, line 1068
+0:  PASS  Write Fortran 2DE array in Field, ESMF_FieldIOUTest.F90, line 1080
+1:  PASS  Write Fortran 2DE array in Field, ESMF_FieldIOUTest.F90, line 1080
+2:  PASS  Write Fortran 2DE array in Field, ESMF_FieldIOUTest.F90, line 1080
+3:  PASS  Write Fortran 2DE array in Field, ESMF_FieldIOUTest.F90, line 1080
+2:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+2: FieldIOUTest.F90, line 1094
+0:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+0: FieldIOUTest.F90, line 1094
+1:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+1: FieldIOUTest.F90, line 1094
+3:  PASS  Create a globally indexed field from grid and fortran dummy array, ESMF_
+3: FieldIOUTest.F90, line 1094
+0:-r--r--r-- 1 dunlap ncar 1736 Jul 21 17:58 field_2DE.nc
+3:  PASS  Read 2DE Field Array data, ESMF_FieldIOUTest.F90, line 1113
+2:  PASS  Read 2DE Field Array data, ESMF_FieldIOUTest.F90, line 1113
+0:  PASS  Read 2DE Field Array data, ESMF_FieldIOUTest.F90, line 1113
+1:  PASS  Read 2DE Field Array data, ESMF_FieldIOUTest.F90, line 1113
+0:-rw-r--r-- 1 dunlap ncar 1736 Jul 21 17:58 field_2DE.nc
+1:  PASS  Get Farray_r from field DE 0, ESMF_FieldIOUTest.F90, line 1136
+2:  PASS  Get Farray_r from field DE 0, ESMF_FieldIOUTest.F90, line 1136
+3:  PASS  Get Farray_r from field DE 0, ESMF_FieldIOUTest.F90, line 1136
+1:  PASS  DE 0 Array comparison test, ESMF_FieldIOUTest.F90, line 1149
+2:  PASS  DE 0 Array comparison test, ESMF_FieldIOUTest.F90, line 1149
+3:  PASS  DE 0 Array comparison test, ESMF_FieldIOUTest.F90, line 1149
+0:  PASS  Get Farray_r from field DE 0, ESMF_FieldIOUTest.F90, line 1136
+0:  PASS  DE 0 Array comparison test, ESMF_FieldIOUTest.F90, line 1149
+1:  PASS  Get Farray_r from field DE 1, ESMF_FieldIOUTest.F90, line 1160
+2:  PASS  Get Farray_r from field DE 1, ESMF_FieldIOUTest.F90, line 1160
+3:  PASS  Get Farray_r from field DE 1, ESMF_FieldIOUTest.F90, line 1160
+2:  PASS  DE 1 Array comparison test, ESMF_FieldIOUTest.F90, line 1173
+1:  PASS  DE 1 Array comparison test, ESMF_FieldIOUTest.F90, line 1173
+3:  PASS  DE 1 Array comparison test, ESMF_FieldIOUTest.F90, line 1173
+2:  PASS  Destroy globally indexed 2DE Grid, ESMF_FieldIOUTest.F90, line 1181
+1:  PASS  Destroy globally indexed 2DE Grid, ESMF_FieldIOUTest.F90, line 1181
+3:  PASS  Destroy globally indexed 2DE Grid, ESMF_FieldIOUTest.F90, line 1181
+0:  PASS  Get Farray_r from field DE 1, ESMF_FieldIOUTest.F90, line 1160
+0:  PASS  DE 1 Array comparison test, ESMF_FieldIOUTest.F90, line 1173
+0:  PASS  Destroy globally indexed 2DE Grid, ESMF_FieldIOUTest.F90, line 1181
+1:  PASS  Create a 1D arbitrarily distributed distgrid, ESMF_FieldIOUTest.F90, lin
+1: e 1198
+2:  PASS  Create a 1D arbitrarily distributed distgrid, ESMF_FieldIOUTest.F90, lin
+2: e 1198
+3:  PASS  Create a 1D arbitrarily distributed distgrid, ESMF_FieldIOUTest.F90, lin
+3: e 1198
+0:  PASS  Create a 1D arbitrarily distributed distgrid, ESMF_FieldIOUTest.F90, lin
+0: e 1198
+1:  PASS  Create a mesh on the 1D elemental distgrid, ESMF_FieldIOUTest.F90, line 
+1: 1205
+2:  PASS  Create a mesh on the 1D elemental distgrid, ESMF_FieldIOUTest.F90, line 
+2: 1205
+3:  PASS  Create a mesh on the 1D elemental distgrid, ESMF_FieldIOUTest.F90, line 
+3: 1205
+0:  PASS  Create a mesh on the 1D elemental distgrid, ESMF_FieldIOUTest.F90, line 
+0: 1205
+0:  PASS  Get Field Bounds based on elem_mesh, ESMF_FieldIOUTest.F90, line 1214
+1:  PASS  Get Field Bounds based on elem_mesh, ESMF_FieldIOUTest.F90, line 1214
+2:  PASS  Get Field Bounds based on elem_mesh, ESMF_FieldIOUTest.F90, line 1214
+3:  PASS  Get Field Bounds based on elem_mesh, ESMF_FieldIOUTest.F90, line 1214
+2:  PASS  Create a Field on the 1D mesh, ESMF_FieldIOUTest.F90, line 1225
+3:  PASS  Create a Field on the 1D mesh, ESMF_FieldIOUTest.F90, line 1225
+1:  PASS  Create a Field on the 1D mesh, ESMF_FieldIOUTest.F90, line 1225
+0:  PASS  Create a Field on the 1D mesh, ESMF_FieldIOUTest.F90, line 1225
+2: Field Print Starts ====>
+3: Field Print Starts ====>
+1: Field Print Starts ====>
+2: Field base status = Ready
+3: Field base status = Ready
+3:   Name = 'Field084'
+0: Field Print Starts ====>
+1: Field base status = Ready
+1:   Name = 'Field084'
+2:   Name = 'Field084'
+0: Field base status = Ready
+0:   Name = 'Field084'
+2: Base name    = Field084
+3: Base name    = Field084
+3: Status: Base = Ready,  object = Ready
+3: Proxy        = no
+0: Base name    = Field084
+1: Base name    = Field084
+1: Status: Base = Ready,  object = Ready
+1: Proxy        = no
+1: Root Info (Attributes):
+2: Status: Base = Ready,  object = Ready
+2: Proxy        = no
+2: Root Info (Attributes):
+3: Root Info (Attributes):
+0: Status: Base = Ready,  object = Ready
+0: Proxy        = no
+0: Root Info (Attributes):
+3:{} Field status =            4
+0:{} Field status =            4
+1:{} Field status =            4
+2:{} Field status =            4
+0: gridrank =            1
+1: gridrank =            1
+2: gridrank =            1
+3: gridrank =            1
+3:--- ESMCI::Array::print start ---
+3: Base name    = Array085
+0:--- ESMCI::Array::print start ---
+0: Base name    = Array085
+0: Status: Base = Ready,  object = Ready
+0: Proxy        = no
+0: Root Info (Attributes):
+1:--- ESMCI::Array::print start ---
+1: Base name    = Array085
+1: Status: Base = Ready,  object = Ready
+1: Proxy        = no
+1: Root Info (Attributes):
+2:--- ESMCI::Array::print start ---
+2: Base name    = Array085
+2: Status: Base = Ready,  object = Ready
+2: Proxy        = no
+2: Root Info (Attributes):
+3: Status: Base = Ready,  object = Ready
+3: Proxy        = no
+3: Root Info (Attributes):
+0:{}Array typekind/rank: Real*8 / 2 
+0:~ lower class' values ~
+0:DistGrid dimCount = 1
+0:deCount = 4
+0:localDeCount = 1
+0:~ local data in LocalArray for DE 0 ~
+1:{}Array typekind/rank: Real*8 / 2 
+1:~ lower class' values ~
+1:DistGrid dimCount = 1
+1:deCount = 4
+1:localDeCount = 1
+1:~ local data in LocalArray for DE 1 ~
+2:{}Array typekind/rank: Real*8 / 2 
+2:~ lower class' values ~
+2:DistGrid dimCount = 1
+2:deCount = 4
+2:localDeCount = 1
+2:~ local data in LocalArray for DE 2 ~
+2:LocalArrayPrint: Array at address 0x21d24a0:
+2:            rank = 2, typekind = 6, base_addr = 0x2b9be1643100
+3:{}Array typekind/rank: Real*8 / 2 
+3:~ lower class' values ~
+3:DistGrid dimCount = 1
+3:deCount = 4
+3:localDeCount = 1
+3:~ local data in LocalArray for DE 3 ~
+3:LocalArrayPrint: Array at address 0x21d0180:
+3:            rank = 2, typekind = 6, base_addr = 0x2b9be1643100
+3:            dim[0] = 10  dim[1] = 8  
+0:LocalArrayPrint: Array at address 0x215bff0:
+0:            rank = 2, typekind = 6, base_addr = 0x2b9be1643380
+0:            dim[0] = 10  dim[1] = 8  
+0:  Real, *8, Dim 2, Data values:
+1:LocalArrayPrint: Array at address 0x21208a0:
+1:            rank = 2, typekind = 6, base_addr = 0x2b9be1643380
+1:            dim[0] = 10  dim[1] = 8  
+1:  Real, *8, Dim 2, Data values:
+2:            dim[0] = 10  dim[1] = 8  
+2:  Real, *8, Dim 2, Data values:
+3:  Real, *8, Dim 2, Data values:
+3:( 1, 1) =  0
+3:( 2, 1) =  0
+3:( 3, 1) =  0
+3:( 4, 1) =  0
+3:( 5, 1) =  0
+3:( 6, 1) =  0
+0:( 1, 1) =  0
+0:( 2, 1) =  0
+0:( 3, 1) =  0
+0:( 4, 1) =  0
+0:( 5, 1) =  0
+0:( 6, 1) =  0
+0:( 7, 1) =  0
+0:( 8, 1) =  0
+0:( 9, 1) =  0
+0:(10, 1) =  0
+0:  skipping to end ...
+0:( 1, 8) =  0
+0:( 2, 8) =  0
+0:( 3, 8) =  0
+1:( 1, 1) =  0
+1:( 2, 1) =  0
+1:( 3, 1) =  0
+1:( 4, 1) =  0
+1:( 5, 1) =  0
+1:( 6, 1) =  0
+1:( 7, 1) =  0
+1:( 8, 1) =  0
+1:( 9, 1) =  0
+1:(10, 1) =  0
+1:  skipping to end ...
+2:( 1, 1) =  0
+2:( 2, 1) =  0
+2:( 3, 1) =  0
+2:( 4, 1) =  0
+2:( 5, 1) =  0
+2:( 6, 1) =  0
+2:( 7, 1) =  0
+2:( 8, 1) =  0
+2:( 9, 1) =  0
+2:(10, 1) =  0
+2:  skipping to end ...
+2:( 1, 8) =  0
+2:( 2, 8) =  0
+2:( 3, 8) =  0
+2:( 4, 8) =  0
+2:( 5, 8) =  0
+2:( 6, 8) =  0
+3:( 7, 1) =  0
+3:( 8, 1) =  0
+3:( 9, 1) =  0
+3:(10, 1) =  0
+3:  skipping to end ...
+3:( 1, 8) =  0
+3:( 2, 8) =  0
+3:( 3, 8) =  0
+3:( 4, 8) =  0
+3:( 5, 8) =  0
+3:( 6, 8) =  0
+3:( 7, 8) =  0
+3:( 8, 8) =  0
+3:( 9, 8) =  0
+3:(10, 8) =  0
+0:( 4, 8) =  0
+0:( 5, 8) =  0
+0:( 6, 8) =  0
+0:( 7, 8) =  0
+0:( 8, 8) =  0
+0:( 9, 8) =  0
+0:(10, 8) =  0
+0:dim 1: undistLBound[0]=1            undistUBound[0]=10
+0:dim 2: [0]: [1 [1 [1, 8] 8] 8]
+0:--- ESMCI::Array::print end ---
+1:( 1, 8) =  0
+1:( 2, 8) =  0
+1:( 3, 8) =  0
+1:( 4, 8) =  0
+1:( 5, 8) =  0
+1:( 6, 8) =  0
+1:( 7, 8) =  0
+1:( 8, 8) =  0
+1:( 9, 8) =  0
+1:(10, 8) =  0
+1:dim 1: undistLBound[0]=1            undistUBound[0]=10
+1:dim 2: [0]: [1 [1 [1, 8] 8] 8]
+1:--- ESMCI::Array::print end ---
+2:( 7, 8) =  0
+2:( 8, 8) =  0
+2:( 9, 8) =  0
+2:(10, 8) =  0
+2:dim 1: undistLBound[0]=1            undistUBound[0]=10
+2:dim 2: [0]: [1 [1 [1, 8] 8] 8]
+2:--- ESMCI::Array::print end ---
+3:dim 1: undistLBound[0]=1            undistUBound[0]=10
+3:dim 2: [0]: [1 [1 [1, 8] 8] 8]
+3:--- ESMCI::Array::print end ---
+2: arrayrank =            2
+2: gridToFieldMap ungriddedLBound ungriddedUBound totalLWidth totalUWidth
+2:           2           1          10                0           0
+3: arrayrank =            2
+3: gridToFieldMap ungriddedLBound ungriddedUBound totalLWidth totalUWidth
+3:           2           1          10                0           0
+3:          -1          -1          -1               -1          -1
+3:          -1          -1          -1               -1          -1
+3:          -1          -1          -1               -1          -1
+0: arrayrank =            2
+0: gridToFieldMap ungriddedLBound ungriddedUBound totalLWidth totalUWidth
+0:           2           1          10                0           0
+0:          -1          -1          -1               -1          -1
+0:          -1          -1          -1               -1          -1
+0:          -1          -1          -1               -1          -1
+0:          -1          -1          -1               -1          -1
+0:          -1          -1          -1               -1          -1
+0:          -1          -1          -1               -1          -1
+0: Field Print Ends   ====>
+1: arrayrank =            2
+1: gridToFieldMap ungriddedLBound ungriddedUBound totalLWidth totalUWidth
+1:           2           1          10                0           0
+1:          -1          -1          -1               -1          -1
+1:          -1          -1          -1               -1          -1
+1:          -1          -1          -1               -1          -1
+1:          -1          -1          -1               -1          -1
+1:          -1          -1          -1               -1          -1
+1:          -1          -1          -1               -1          -1
+1: Field Print Ends   ====>
+2:          -1          -1          -1               -1          -1
+2:          -1          -1          -1               -1          -1
+2:          -1          -1          -1               -1          -1
+2:          -1          -1          -1               -1          -1
+2:          -1          -1          -1               -1          -1
+2:          -1          -1          -1               -1          -1
+2: Field Print Ends   ====>
+3:          -1          -1          -1               -1          -1
+3:          -1          -1          -1               -1          -1
+3:          -1          -1          -1               -1          -1
+3: Field Print Ends   ====>
+0:  PASS  Write a Field containing the 1D mesh, ESMF_FieldIOUTest.F90, line 1238
+1:  PASS  Write a Field containing the 1D mesh, ESMF_FieldIOUTest.F90, line 1238
+2:  PASS  Write a Field containing the 1D mesh, ESMF_FieldIOUTest.F90, line 1238
+3:  PASS  Write a Field containing the 1D mesh, ESMF_FieldIOUTest.F90, line 1238
+1:  PASS  Creating a Grid to use in Field Attribute Tests, ESMF_FieldIOUTest.F90, 
+1: line 1258
+2:  PASS  Creating a Grid to use in Field Attribute Tests, ESMF_FieldIOUTest.F90, 
+2: line 1258
+3:  PASS  Creating a Grid to use in Field Attribute Tests, ESMF_FieldIOUTest.F90, 
+3: line 1258
+0:  PASS  Creating a Grid to use in Field Attribute Tests, ESMF_FieldIOUTest.F90, 
+0: line 1258
+0:  PASS  Create dimensions attribute package on Grid Test, ESMF_FieldIOUTest.F90,
+0:  line 1268
+1:  PASS  Create dimensions attribute package on Grid Test, ESMF_FieldIOUTest.F90,
+1:  line 1268
+2:  PASS  Create dimensions attribute package on Grid Test, ESMF_FieldIOUTest.F90,
+2:  line 1268
+3:  PASS  Create dimensions attribute package on Grid Test, ESMF_FieldIOUTest.F90,
+3:  line 1268
+0:  PASS  Set dimension label values on Grid Test, ESMF_FieldIOUTest.F90, line 127
+0: 9
+3:  PASS  Set dimension label values on Grid Test, ESMF_FieldIOUTest.F90, line 127
+3: 9
+1:  PASS  Set dimension label values on Grid Test, ESMF_FieldIOUTest.F90, line 127
+1: 9
+2:  PASS  Set dimension label values on Grid Test, ESMF_FieldIOUTest.F90, line 127
+2: 9
+3:  PASS  Create a field for attribute package Test, ESMF_FieldIOUTest.F90, line 1
+3: 289
+2:  PASS  Create a field for attribute package Test, ESMF_FieldIOUTest.F90, line 1
+2: 289
+1:  PASS  Create a field for attribute package Test, ESMF_FieldIOUTest.F90, line 1
+1: 289
+0:  PASS  Create a field for attribute package Test, ESMF_FieldIOUTest.F90, line 1
+0: 289
+2:  PASS  Create attribute package for Field variable Test, ESMF_FieldIOUTest.F90,
+2:  line 1298
+3:  PASS  Create attribute package for Field variable Test, ESMF_FieldIOUTest.F90,
+3:  line 1298
+0:  PASS  Create attribute package for Field variable Test, ESMF_FieldIOUTest.F90,
+0:  line 1298
+1:  PASS  Create attribute package for Field variable Test, ESMF_FieldIOUTest.F90,
+1:  line 1298
+0:  PASS  Set attribute package values for Field variable Test, ESMF_FieldIOUTest.
+0: F90, line 1350
+2:  PASS  Set attribute package values for Field variable Test, ESMF_FieldIOUTest.
+2: F90, line 1350
+1:  PASS  Set attribute package values for Field variable Test, ESMF_FieldIOUTest.
+1: F90, line 1350
+3:  PASS  Set attribute package values for Field variable Test, ESMF_FieldIOUTest.
+3: F90, line 1350
+0:MPT ERROR: Rank 0(g:0) received signal SIGSEGV(11).
+0:	Process ID: 31433, Host: r12i3n9, Program: /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/test/testg/Linux.intel.64.mpt.default/ESMF_FieldIOUTest
+0:	MPT Version: HPE MPT 2.19  02/23/19 05:30:09
+0:
+0:MPT: --------stack traceback-------
+0:MPT: Attaching to program: /proc/31433/exe, process 31433
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libm.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=cc12cf31ea4a157ebc7ac7bdfc09d5bfa3e0f3e0"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libm.so.6)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libdl.so.2
+0:MPT: Try: zypper install -C "debuginfo(build-id)=86536433e7d5a205deca926f6f00436b2ff206b1"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libdl.so.2)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/librt.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=e12cd7e73c31cb8765cba03a3c2f9efc2d043ff8"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/librt.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: Try: zypper install -C "debuginfo(build-id)=9fa703da2a52d78cc49877c18843db7b1ad9049b"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libpthread.so.0)
+0:MPT: [Thread debugging using libthread_db enabled]
+0:MPT: Using host libthread_db library "/glade/u/apps/ch/os/lib64/libthread_db.so.1".
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=61af2264d919698714bfc2b7fe9c7a0d352e7b94"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libstdc++.so.6)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libgcc_s.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=c7e890ab90e29cffd785bf25e7d90f2f0af3a102"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libgcc_s.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/lib64/libc.so.6
+0:MPT: Try: zypper install -C "debuginfo(build-id)=72aaaa4006e91624304a210a7f945b61d3d643b4"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/lib64/libc.so.6)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries/linux/lib/intel64/libimf.so)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries/linux/lib/intel64/libsvml.so)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries/linux/lib/intel64/libirng.so)
+0:MPT: (No debugging symbols found in /glade/u/apps/opt/intel/2018u4/compilers_and_libraries/linux/lib/intel64/libintlc.so.5)
+0:MPT: (No debugging symbols found in /lib64/ld-linux-x86-64.so.2)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1
+0:MPT: Try: zypper install -C "debuginfo(build-id)=ad6d98e9e3042e77c051f1f27e971460bf1e428b"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libibverbs.so.1)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200
+0:MPT: Try: zypper install -C "debuginfo(build-id)=4c08f43bb18e99a7df4bad5c4a52bac67ddf9b8d"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-route-3.so.200)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200
+0:MPT: Try: zypper install -C "debuginfo(build-id)=3ae04b58bd81ea7745dba789d89937e719309568"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libnl-3.so.200)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so
+0:MPT: Try: zypper install -C "debuginfo(build-id)=76d8c012144838e4e5466798858289fba2057537"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx4-rdmav2.so)
+0:MPT: Missing separate debuginfo for /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so
+0:MPT: Try: zypper install -C "debuginfo(build-id)=ba8002518966160a27c335e04ce8932989f69056"
+0:MPT: (No debugging symbols found in /glade/u/apps/ch/os/usr/lib64/libmlx5-rdmav2.so)
+0:MPT: 0x00002b8c2d5217da in waitpid ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: Missing separate debuginfos, use: zypper install glibc-debuginfo-2.22-100.27.3.x86_64
+0:MPT: (gdb) #0  0x00002b8c2d5217da in waitpid ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libpthread.so.0
+0:MPT: #1  0x00002b8c2dc5fdb6 in mpi_sgi_system (
+0:MPT: #2  MPI_SGI_stacktraceback (
+0:MPT:     header=header@entry=0x7ffc99bb1fc0 "MPT ERROR: Rank 0(g:0) received signal SIGSEGV(11).\n\tProcess ID: 31433, Host: r12i3n9, Program: /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/test/testg/Linux.intel.6"...) at sig.c:340
+0:MPT: #3  0x00002b8c2dc5ffb2 in first_arriver_handler (signo=signo@entry=11, 
+0:MPT:     stack_trace_sem=stack_trace_sem@entry=0x2b8c32c60080) at sig.c:489
+0:MPT: #4  0x00002b8c2dc6034b in slave_sig_handler (signo=11, 
+0:MPT:     siginfo=<optimized out>, extra=<optimized out>) at sig.c:564
+0:MPT: #5  <signal handler called>
+0:MPT: #6  0x00002b8c27a40d17 in nlohmann::basic_json<std::map, std::vector, std::string, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer>::basic_json (this=0x7ffc99bb2cd8, other=...)
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/src/include/json.hpp:16350
+0:MPT: #7  0x00002b8c27e9cad4 in ESMCI::Info::get (this=0x2107920, info=..., key=...)
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/src/Infrastructure/Base/src/ESMCI_Info.C:882
+0:MPT: #8  0x00002b8c27e034c3 in c_esmc_fieldioaddarray_ (ptr=0x7ffc99bb30c8, 
+0:MPT:     base=0x2b9be1643100, array=0x7ffc99bb3518, grid=0x7ffc99bb3110, 
+0:MPT:     variableName=0x7ffc99bb3410 "temperature", ' ' <repeats 189 times>..., 
+0:MPT:     gblbase=0x0, 
+0:MPT:     conventionName=0x553490 <__STRLITPACK_606> "Attribute_IO    ", 
+0:MPT:     purposeName=0x5534a4 <__STRLITPACK_605> "attributes      ", 
+0:MPT:     rc=0x7ffc99bb3074, varname_l=256, convention_l=16, purpose_l=16)
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/src/Infrastructure/Field/interface/ESMCI_Field_F.C:101
+0:MPT: #9  0x00002b8c28fa249f in esmf_fieldwrmod::esmf_fieldwrite (field=..., 
+0:MPT:     filename=..., 
+0:MPT:     keywordenforcer=<error reading variable: Cannot access memory at address 0x0>, variablename=..., convention=..., purpose=..., 
+0:MPT:     overwrite=<error reading variable: Cannot access memory at address 0x0>, 
+0:MPT:     status=..., 
+0:MPT:     timeslice=<error reading variable: Cannot access memory at address 0x0>, 
+0:MPT:     iofmt=<error reading variable: Cannot access memory at address 0x0>, 
+0:MPT:     rc=18, .tmp.FILENAME.len_V$836=19, .tmp.VARIABLENAME.len_V$83a=0, 
+0:MPT:     .tmp.CONVENTION.len_V$83d=16, .tmp.PURPOSE.len_V$840=16)
+0:MPT:     at /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/src/Infrastructure/Field/src/ESMF_FieldWr.F90:267
+0:MPT: #10 0x00000000004275c5 in esmf_fieldioutest () at ESMF_FieldIOUTest.F90:1356
+0:MPT: #11 0x0000000000409f9e in main ()
+0:MPT: #12 0x00002b8c2e928a35 in __libc_start_main ()
+0:MPT:    from /glade/u/apps/ch/os/lib64/libc.so.6
+0:MPT: #13 0x0000000000409ea9 in _start () at ../sysdeps/x86_64/start.S:118
+0:MPT: (gdb) A debugging session is active.
+0:MPT: 
+0:MPT: 	Inferior 1 [process 31433] will be detached.
+0:MPT: 
+0:MPT: Quit anyway? (y or n) [answered Y; input not from terminal]
+0:MPT: Detaching from program: /proc/31433/exe, process 31433
+0:MPT: [Inferior 1 (process 31433) detached]
+0:
+0:MPT: -----stack traceback ends-----
+0:MPT: On host r12i3n9, Program /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/test/testg/Linux.intel.64.mpt.default/ESMF_FieldIOUTest, Rank 0, Process 31433: Dumping core on signal SIGSEGV(11) into directory /glade/scratch/dunlap/esmf-test-dev/intel_18.0.5_mpt_g_dushan_dev_info_fix/esmf/test/testg/Linux.intel.64.mpt.default
+-1:MPT ERROR: MPI_COMM_WORLD rank 0 has terminated without calling MPI_Finalize()
+-1:	aborting job
+MPT: Received signal 11
