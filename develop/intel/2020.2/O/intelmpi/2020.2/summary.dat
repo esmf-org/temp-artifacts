@@ -1,0 +1,24 @@
+ESMF hash: v8.4.0b07
+Collection timestamp: 2022-07-22 17:45:12
+Build timestamp: None
+Test dir: /lfs4/HFIP/hfv3gfs/Mark.Potts/esmf-tests/intel_2020.2_intelmpi_O_develop
+Machine: jet
+Job: 7412813
+
+RESULTS:
+================================
+build:			FAIL
+unit tests:		NONE
+system tests:		NONE
+example tests:		NONE
+nuopc tests:		NONE
+
+
+module-build.log
+================================
+
+
+
+info.log
+================================
+
