@@ -1,5 +1,5 @@
-ESMF hash: v8.4.0b06-6-g1266599
-Collection timestamp: 2022-07-21 11:59:11
+ESMF hash: v8.4.0b07
+Collection timestamp: 2022-07-24 22:01:07
 Build timestamp: None
 Test dir: /home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop
 Machine: rockylaptop
@@ -22,7 +22,7 @@ info.log
 ================================
 --------------------------------------------------------------
 ESMF_VERSION_STRING:    8.4.0 beta snapshot
-v8.4.0b06-6-g1266599ea8
+v8.4.0b07
 --------------------------------------------------------------
 On branch develop
 Your branch is up to date with 'origin/develop'.
@@ -176,7 +176,7 @@ Fortran compiler flags:
 ESMF_F90COMPILER: mpifort
 ESMF_F90COMPILEOPTS: -O -fPIC -m64 -mcmodel=small -pthread -ffree-line-length-none -fopenmp
 ESMF_F90COMPILEPATHS: -I/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf/mod/modO/Linux.gfortran.64.openmpi.default -I/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf/src/include -I/usr/include -I/usr/include
-ESMF_F90COMPILECPPFLAGS: -DESMF_NO_INTEGER_1_BYTE -DESMF_NO_INTEGER_2_BYTE -DESMF_VERSION_STRING_GIT='v8.4.0b06-6-g1266599ea8' -DESMF_MOAB=1 -DESMF_LAPACK=1 -DESMF_LAPACK_INTERNAL=1 -DESMF_NO_ACC_SOFTWARE_STACK=1 -DESMF_NETCDF=1 -DESMF_YAMLCPP=1 -DESMF_YAML=1 -DESMF_PIO=1 -DESMF_NO_OPENACC -DESMF_TESTEXHAUSTIVE -DESMF_BOPT_O -DESMF_TESTCOMPTUNNEL -DESMF_TESTWITHTHREADS -DSx86_64_small=1 -DESMF_OS_Linux=1 -DESMF_COMM=openmpi -DESMF_DIR=/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf
+ESMF_F90COMPILECPPFLAGS: -DESMF_NO_INTEGER_1_BYTE -DESMF_NO_INTEGER_2_BYTE -DESMF_VERSION_STRING_GIT='v8.4.0b07' -DESMF_MOAB=1 -DESMF_LAPACK=1 -DESMF_LAPACK_INTERNAL=1 -DESMF_NO_ACC_SOFTWARE_STACK=1 -DESMF_NETCDF=1 -DESMF_YAMLCPP=1 -DESMF_YAML=1 -DESMF_PIO=1 -DESMF_NO_OPENACC -DESMF_TESTEXHAUSTIVE -DESMF_BOPT_O -DESMF_TESTCOMPTUNNEL -DESMF_TESTWITHTHREADS -DSx86_64_small=1 -DESMF_OS_Linux=1 -DESMF_COMM=openmpi -DESMF_DIR=/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf
 ESMF_F90COMPILEFREECPP: 
 ESMF_F90COMPILEFREENOCPP: -ffree-form
 ESMF_F90COMPILEFIXCPP: -cpp -ffixed-form
@@ -193,7 +193,7 @@ C++ compiler flags:
 ESMF_CXXCOMPILER: mpicxx
 ESMF_CXXCOMPILEOPTS: -std=c++11 -O -DNDEBUG -fPIC -DESMF_LOWERCASE_SINGLEUNDERSCORE -m64 -mcmodel=small -pthread -fopenmp
 ESMF_CXXCOMPILEPATHS: -I/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf/src/include  -I/usr/include -I/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf/src/prologue/yaml-cpp/include
-ESMF_CXXCOMPILECPPFLAGS: -DESMF_NO_INTEGER_1_BYTE -DESMF_NO_INTEGER_2_BYTE -DESMF_VERSION_STRING_GIT='v8.4.0b06-6-g1266599ea8' -DESMF_MOAB=1 -DESMF_LAPACK=1 -DESMF_LAPACK_INTERNAL=1 -DESMF_NO_ACC_SOFTWARE_STACK=1 -DESMF_NETCDF=1 -DESMF_YAMLCPP=1 -DESMF_YAML=1 -DESMF_PIO=1 -DESMF_NO_OPENACC -DESMF_TESTEXHAUSTIVE -DESMF_BOPT_O -DESMF_TESTCOMPTUNNEL -DESMF_TESTWITHTHREADS -DSx86_64_small=1 -DESMF_OS_Linux=1 -DESMF_COMM=openmpi -DESMF_DIR=/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf -D__SDIR__='' -DESMF_CXXSTD=11 -DESMF_NO_SIGUSR2
+ESMF_CXXCOMPILECPPFLAGS: -DESMF_NO_INTEGER_1_BYTE -DESMF_NO_INTEGER_2_BYTE -DESMF_VERSION_STRING_GIT='v8.4.0b07' -DESMF_MOAB=1 -DESMF_LAPACK=1 -DESMF_LAPACK_INTERNAL=1 -DESMF_NO_ACC_SOFTWARE_STACK=1 -DESMF_NETCDF=1 -DESMF_YAMLCPP=1 -DESMF_YAML=1 -DESMF_PIO=1 -DESMF_NO_OPENACC -DESMF_TESTEXHAUSTIVE -DESMF_BOPT_O -DESMF_TESTCOMPTUNNEL -DESMF_TESTWITHTHREADS -DSx86_64_small=1 -DESMF_OS_Linux=1 -DESMF_COMM=openmpi -DESMF_DIR=/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf -D__SDIR__='' -DESMF_CXXSTD=11 -DESMF_NO_SIGUSR2
 
 C++ linker flags:
 ESMF_CXXLINKOPTS:  -m64 -mcmodel=small -pthread -Wl,--no-as-needed -fopenmp
@@ -206,7 +206,7 @@ C compiler flags:
 ESMF_CCOMPILER: mpicc
 ESMF_CCOMPILEOPTS:  -O -DNDEBUG -fPIC
 ESMF_CCOMPILEPATHS: -I/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf/src/include  
-ESMF_CCOMPILECPPFLAGS: -DESMF_NO_INTEGER_1_BYTE -DESMF_NO_INTEGER_2_BYTE -DESMF_VERSION_STRING_GIT='v8.4.0b06-6-g1266599ea8' -DESMF_MOAB=1 -DESMF_LAPACK=1 -DESMF_LAPACK_INTERNAL=1 -DESMF_NO_ACC_SOFTWARE_STACK=1 -DESMF_NETCDF=1 -DESMF_YAMLCPP=1 -DESMF_YAML=1 -DESMF_PIO=1 -DESMF_NO_OPENACC -DESMF_TESTEXHAUSTIVE -DESMF_BOPT_O -DESMF_TESTCOMPTUNNEL -DESMF_TESTWITHTHREADS -DSx86_64_small=1 -DESMF_OS_Linux=1 -DESMF_COMM=openmpi -DESMF_DIR=/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf -D__SDIR__=''
+ESMF_CCOMPILECPPFLAGS: -DESMF_NO_INTEGER_1_BYTE -DESMF_NO_INTEGER_2_BYTE -DESMF_VERSION_STRING_GIT='v8.4.0b07' -DESMF_MOAB=1 -DESMF_LAPACK=1 -DESMF_LAPACK_INTERNAL=1 -DESMF_NO_ACC_SOFTWARE_STACK=1 -DESMF_NETCDF=1 -DESMF_YAMLCPP=1 -DESMF_YAML=1 -DESMF_PIO=1 -DESMF_NO_OPENACC -DESMF_TESTEXHAUSTIVE -DESMF_BOPT_O -DESMF_TESTCOMPTUNNEL -DESMF_TESTWITHTHREADS -DSx86_64_small=1 -DESMF_OS_Linux=1 -DESMF_COMM=openmpi -DESMF_DIR=/home/rocky/esmfdev/esmf-testing-scratch/gfortran_10.3.0_openmpi_O_develop/esmf -D__SDIR__=''
 
 C linker flags:
 ESMF_CLINKOPTS: 
@@ -229,6 +229,6 @@ ESMF_TRACE_STATICLINKLIBS=-lesmftrace_static
 
 
 --------------------------------------------------------------
-Compiling on Wed Jul 20 11:07:11 PM MDT 2022 on rocky-Latitude-E5570
+Compiling on Fri Jul 22 01:00:26 PM MDT 2022 on rocky-Latitude-E5570
 Machine characteristics: Linux rocky-Latitude-E5570 5.11.0-49-generic #55-Ubuntu SMP Wed Jan 12 17:36:34 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
 ==============================================================
